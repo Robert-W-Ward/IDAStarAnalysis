@@ -1,8 +1,8 @@
+import sys
+import time
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-from matplotlib.animation import PillowWriter
-from time import sleep
+from time import time
 from heapq import heappop, heappush
 
 class PuzzleNode:
@@ -90,7 +90,7 @@ def show_grid(state, ax, text_objects):
                 color_matrix[i, j] = [0, 1, 0]  # RGB for green
             elif state[i][j] != goal[i][j]:
                 color_matrix[i,j] = [1,0,0]
-            elif stat[i][j] == 0:
+            elif state[i][j] == 0:
                 color_matrix[i,j] = [1,1,0]
     
     ax.imshow(color_matrix, vmin=0, vmax=1)  # Use the color matrix as the image
@@ -110,11 +110,14 @@ def show_grid(state, ax, text_objects):
 
 def deepening_astar(initial_state):
     """ Iterative deepening A* search for 15-puzzle """
+    start_time = time()
+    memory_usage = sys.getsizeof(initial_state)
+
     root = PuzzleNode(initial_state)
     
     # Check if initial state is already a goal state
     if root.heuristic == 0:
-        return root.solution()
+        return root.solution(),0,time() - start_time, memory_usage
 
     # Start with heuristic of root as initial bound
     bound = root.heuristic
@@ -124,10 +127,13 @@ def deepening_astar(initial_state):
         closed_set = set()
         found = None
         next_bound = float('inf')  # set to infinity initially
+        depth = 0 
 
         # Main search loop
         while open_list:
             current = heappop(open_list)
+            depth = max(depth,current.path_cost)
+            memory_usage = max(memory_usage,sys.getsizeof(open_list))
             
             # If the current state is a goal state
             if current.heuristic == 0:
@@ -149,30 +155,46 @@ def deepening_astar(initial_state):
 
         # If a solution was found
         if found:
-            return found.solution()
+            return found.solution(), depth, time() - start_time, memory_usage
 
         # If no node exceeded the bound, it means there's no solution
         if next_bound == float('inf'):  # if next_bound remains unchanged
-            return None
+            return None, depth,time()-start_time,memory_usage
 
         # Update the bound for the next iteration
         bound = next_bound
 
-if __name__ == "__main__":
-    # Sample initial state
-    initial = [
-        [1, 2, 0, 8],
-        [5, 6, 4, 7],
-        [9, 10, 11, 3],
-        [13, 14, 15, 12]
-    ]
-    plt.ion() # turn on interactive mode
-    fig, ax = plt.subplots()
+def read_puzzles_from_file(filename):
+    puzzles = []
+    with open(filename, 'r') as f:
+        for line in f:
+            numbers = list(map(int, line.strip().split()))
+            if len(numbers) != 16:  # Check if the line contains 16 numbers
+                print("Warning: Invalid line encountered.")
+                continue
+            puzzle = [numbers[i:i+4] for i in range(0, 16, 4)]
+            puzzles.append(puzzle)
+    return puzzles
 
-    text_objects = [[None for _ in range(4)] for _ in range(4)]
-    # Solve the puzzle and print the solution
-    solution = deepening_astar(initial)
-    if solution:
-        print(f"Solution found: {' '.join(solution)}")
-    else:
-        print("No solution found")    
+if __name__ == "__main__":
+    # Read puzzles from a file
+    filename = 'puzzles.txt'
+    puzzles = read_puzzles_from_file(filename)
+
+    with open("solutions.txt", "w") as sol_file:
+        for idx, initial in enumerate(puzzles):
+            print(f"Solving Puzzle {idx + 1}:")
+            
+            solution, depth, duration, memory = deepening_astar(initial)
+            
+            sol_file.write(f"Initial State for Puzzle {idx + 1}: {' '.join(map(str, [num for row in initial for num in row]))}\n")
+            if solution:
+                sol_file.write(f"Solution Steps: {' '.join(solution)}\n")
+                sol_file.write(f"Depth of Solution: {depth}\n")
+                sol_file.write(f"Time Taken: {duration:.4f} seconds\n")
+                sol_file.write(f"Memory Used: {memory} bytes\n\n")
+                print(f"Solution found: {' '.join(solution)}")
+            else:
+                sol_file.write("No solution found\n\n")
+                print("No solution found")
+            print("-----")
