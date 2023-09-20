@@ -1,225 +1,208 @@
 #include <iostream>
 #include <vector>
-#include <array>
-#include <unordered_set>
-#include <queue>
-#include <chrono>
+#include <limits>
+#include <algorithm>
+#include <string>
 #include <fstream>
 #include <sstream>
-#include <algorithm>
-#include <optional>
+#include <chrono>
 
-using State = std::vector<int>;
-using Action = std::pair<char,int>;
+const int INF = std::numeric_limits<int>::max();
+const int FOUND = -1;
+const int SIZE = 4;
+std::chrono::time_point<std::chrono::high_resolution_clock> start_time;
+int max_depth = 0;
 
 struct Node {
-    Node* parent;
-    State currentState;
-    Action previousAction;
-    int g; // Cost to reach current node
-    int h; // heuristic cost
-    int f;// total cost
-    Node(){};
-    Node(State init){
-        this->parent = nullptr;
-        currentState = init;
-        previousAction = {' ',0};
-        g = 0;
-        h = calculateManhattanDistance();
-        f = g + h;
-        }
-    Node(Node* parent,State newState, Action action, int pathCost){
-        this->parent = parent;
-        currentState = newState;
-        previousAction = action;
-        g = pathCost;
-        h = calculateManhattanDistance();
-        f = g + h;
+    std::vector<int> state; // Flat 1x16 vector representing the puzzle
+    std::string steps; // Moves taken to get to this state
+    int blankPos; // Position of the blank tile in the state vector
+
+    bool operator==(const Node& other) const {
+        return state == other.state;
     }
-
-    std::vector<Action> traceBackSolution(){
-        std::vector<Action> actions;
-        Node* node = this;
-        while(node->parent){
-            actions.push_back(node->previousAction);
-            node = node->parent;
-        }
-        return actions;
-    }
-
-    std::vector<Node*> generateSuccessors(){
-        std::vector<Node*> successors;
-        std::vector<Action> actions = {
-            {'L',-1},
-            {'R',1},
-            {'D',4},
-            {'U',-4}
-        };
-
-        int emptyPos = std::find(currentState.begin(),currentState.end(),0) - currentState.begin();
-
-        for(const auto& action: actions){
-            int newPos = emptyPos + action.second;
-
-            if(0<= newPos && newPos < 16){
-                State newState = currentState;
-                std::swap(newState[emptyPos],newState[newPos]);
-                successors.push_back(new Node(this,newState,action,g+1));
-            }
-        }
-        return successors;
-
-    }
-
-    int calculateManhattanDistance() const {
-        int distance = 0;
-        for (int i = 0; i < 16; i++) {
-            if(currentState[i]!=0){
-                int goal_x = (currentState[i] - 1) / 4;
-                int goal_y = (currentState[i] - 1) % 4;
-                int current_x = i / 4;
-                int current_y = i % 4;
-                distance += std::abs(current_x - goal_x) + std::abs(current_y - goal_y);
-            }
-            
-        }
-        return distance;
-    }
-
-    bool operator<(const Node& other) const {
-        return calculateManhattanDistance() < other.calculateManhattanDistance();
-    }
-
-   
 };
 
-std::tuple<std::vector<Action>,int,size_t> IDAStar(std::vector<int> initalState){
-    Node root = Node(initalState);
-    int depth = 0;
-    size_t memory = 0;
-    if(root.h == 0)
-        return std::make_tuple(root.traceBackSolution(),depth,memory);
+std::vector<Node> path; 
 
-    int bound = root.h;
-
-    while (true)
-    {
-        std::priority_queue<Node*> openList;
-        openList.push(&root);
-        std::unordered_set<std::string> closedSet;
-        Node* found = nullptr;
-        int nextBound = INT32_MAX;
-        while (!openList.empty())
-        {
-            Node* current = openList.top();
-            openList.pop();
-            depth = std::max(depth,current->g);
-            memory = std::max(memory,sizeof(openList));
-
-            if(current->h == 0){
-                found = current; 
-                break;
-            }   
-            
-            if (current->f > bound){
-                nextBound = std::min(nextBound,current->f);continue;
-            }
-                
-
-            for(Node* successor : current->generateSuccessors()){
-                std::string hasableState = "";
-                for(auto num : successor->currentState){
-                    hasableState += std::to_string(num) + " ";
-                }
-
-                if(closedSet.find(hasableState) == closedSet.end()){
-                    openList.push(successor);
-                    closedSet.insert(hasableState);
-                }
-            }
-           
-
-           
+// Define heuristic, goal state, cost function, and successors
+int h(const Node& node) {
+    int distance = 0;
+    for (int i = 0; i < SIZE * SIZE; i++) {
+        if (node.state[i] != 0) { 
+            int currentRow = i / SIZE;
+            int currentCol = i % SIZE;
+            int targetRow = (node.state[i] - 1) / SIZE;
+            int targetCol = (node.state[i] - 1) % SIZE;
+            distance += abs(currentRow - targetRow) + abs(currentCol - targetCol);
         }
-        if (found){
-            return std::make_tuple(found->traceBackSolution(),depth,memory);
-        }
-        if (nextBound == INT32_MAX){
-            return std::make_tuple(std::vector<Action>(),depth,memory);
-        }
-        bound = nextBound;
-        
     }
-    
+    return distance;
+}
 
+bool is_goal(const Node& node) {
+    for (int i = 0; i < SIZE * SIZE - 1; i++) {
+        if (node.state[i] != i + 1) return false;
+    }
+    return node.state.back() == 0; // Blank tile is at the end
+}
+
+int cost(const Node& node, const Node& succ) {
+    return 1; // Uniform cost
+}
+
+std::vector<Node> successors(const Node& node) {
+    std::vector<Node> neighbors;
+    std::vector<int> moves = {-1, 1, -SIZE, SIZE}; 
+    std::string moveChars = "LRUD";
+
+    for (int i = 0; i < 4; i++) {
+        int newPos = node.blankPos + moves[i];
+        
+        // Handle grid boundaries
+        if (newPos >= 0 && newPos < SIZE * SIZE) {
+            // Disallow wrapping moves between rows
+            if ((node.blankPos % SIZE == 0 && i == 0) || // Leftmost and moving left
+                (node.blankPos % SIZE == SIZE - 1 && i == 1)) { // Rightmost and moving right
+                continue;
+            }
+
+            Node newNode = node;
+            std::swap(newNode.state[newPos], newNode.state[node.blankPos]);
+            newNode.blankPos = newPos;
+            newNode.steps += moveChars[i];
+            newNode.steps += ' ';
+            neighbors.push_back(newNode);
+        }
+    }
+
+    return neighbors;
+}
+
+int search(int g, int bound) {
+    Node node = path.back();
+    int f = g + h(node);
+    max_depth = std::max(max_depth,g);
+    if (f > bound) return f;
+    if (is_goal(node)) return FOUND;
+    int min = INF;
+    auto current_time = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration_cast<std::chrono::minutes>(current_time - start_time);
+    if (duration.count() >= 3){
+        return INF;
+    }
+    for (const Node& succ : successors(node)) {
+        if (std::find(path.begin(), path.end(), succ) == path.end()) {
+            path.push_back(succ);
+            int t = search(g + cost(node, succ), bound);
+            if (t == FOUND) return FOUND;
+            if (t < min) min = t;
+            path.pop_back();
+        }
+    }
+
+    return min;
+}
+
+std::pair<std::vector<Node>, int> ida_star(const Node& root) {
+    start_time = std::chrono::high_resolution_clock::now();
+    int bound = h(root);
+    path = {root};
+    while (true) {
+        int t = search(0, bound);
+        if (t == FOUND) return {path, bound};
+        if (t == INF) return {{}, INF}; // Return an empty path for NOT_FOUND
+        bound = t;
+    }
+}
+
+int countInversions(std::vector<int> state){
+    int inversions = 0;
+    for (int i = 0; i < SIZE * SIZE - 1; i++) {
+        for (int j = i + 1; j < SIZE * SIZE; j++) {
+            if(state[j] && state[i] && state[i] > state[j])
+                inversions++;
+        }
+    }
+    return inversions;
+}
+
+bool isSolvable(const Node& node) {
+    int inversions = countInversions(node.state);
+
+    if (SIZE % 2 == 1) {  // Grid width is odd.
+        return inversions % 2 == 0;
+    } else {
+        int rowWithBlank = (node.blankPos / SIZE);
+        if (rowWithBlank % 2 == 1) {  // Blank is on an even row counting from the top (0-based)
+            return inversions % 2 == 0;
+        } else {  // Blank is on an odd row counting from the top (0-based)
+            return inversions % 2 == 1;
+        }
+    }
 }
 
 
-std::vector<std::vector<int>> readPuzzleFile(const std::string& filename){
 
-    std::vector<std::vector<int>> puzzles;
-    std::ifstream file(filename);
-    if (file.is_open()) {
-        std::string line;
-        while (std::getline(file, line)) {
-            std::vector<int> puzzle;
-            std::stringstream ss(line);
-            int num;
-            
-            while (ss >> num)
-                puzzle.push_back(num);
-            
-            if(puzzle.size() == 16)
-                puzzles.push_back(puzzle);
-            else
-                break;
+std::vector<Node> readFromFile(const std::string& filename) {
+    std::ifstream inFile(filename);
+    std::vector<Node> puzzles;
+
+    if (!inFile.is_open()) {
+        std::cerr << "Failed to open " << filename << std::endl;
+        return puzzles;
+    }
+
+    std::string line;
+    while (std::getline(inFile, line)) {
+        Node puzzle;
+        std::istringstream iss(line);
+
+        int value;
+        for (int i = 0; i < SIZE * SIZE; i++) {
+            if (!(iss >> value)) {
+                std::cerr << "Error reading value for puzzle. Check file format." << std::endl;
+                puzzles.clear();
+                return puzzles;
+            }
+            puzzle.state.push_back(value);
+            if (value == 0) {
+                puzzle.blankPos = i;
+            }
         }
-        file.close();
+
+        puzzles.push_back(puzzle);
     }
 
     return puzzles;
-
 }
-void writeSolutionFile(){
-
-}
-
 
 int main() {
-    std::string filename = "puzzles.txt";
-    std::vector<std::vector<int>> puzzles = readPuzzleFile("puzzles.txt");
-    std::vector<std::tuple<std::vector<Action>,int,size_t,std::chrono::nanoseconds>> outputData;
-    
-    std::ofstream outfile("solutions.txt");
+    std::vector<Node> puzzles = readFromFile("puzzles.txt");
 
-    for (size_t i = 0; i < puzzles.size(); i++)
-    {
-        auto startTime = std::chrono::high_resolution_clock::now();
-        auto[solution,depth,memoryUsed] = IDAStar(puzzles[i]);
-        auto elasped = std::chrono::high_resolution_clock::now() - startTime;
-        outputData.push_back(std::make_tuple(solution,depth,memoryUsed,elasped));
-    }
+    for (int i = 0; i < puzzles.size(); i++) {
+        std::cout << "Solving puzzle " << i + 1 << "..." << std::endl;
 
-
-    for (const auto& data : outputData)
-    {
-        // Destructure the data tuple
-        const auto& [solution, depth, memoryUsed, elapsed] = data;
-
-        // Write solution steps
-        for (const auto& step : solution)
-        {
-            outfile << step.first <<" ";
+        if (!isSolvable(puzzles[i])) {
+            std::cout << "Puzzle " << i +1 << " is not solvable." << std::endl;
+            continue;
         }
-        outfile << "\n";
 
-        // Write other information
-        outfile << "Depth: " << depth << "\n";
-        outfile << "Memory Used: " << memoryUsed << "\n";
-        outfile << "Time Elapsed (ns): " << elapsed.count() << "\n";
-        outfile << "-----------------------\n";  // Separating each puzzle's result
+        max_depth=0;
+        auto result = ida_star(puzzles[i]);
+        auto current_time = std::chrono::high_resolution_clock::now();
+        auto duration = std::chrono::duration_cast<std::chrono::minutes>(current_time - start_time);
+
+        if (result.second != INF) {
+            std::cout << "Path found with steps: " << result.first.back().steps << std::endl;
+        } else if (duration.count() >= 3) {
+            std::cout << "Timeout after 3 minutes for puzzle " << i + 1 << ". Best path so far: " << path.back().steps << std::endl;
+        } else {
+            std::cout << "Path not found for puzzle " << i + 1 << "!" << std::endl;
+        }
+        std::cout << "Max search depth reached for puzzle " << i + 1 << ": " << max_depth << std::endl;
+
     }
-    
-    outfile.close();  // Close the file when done writing
-    
+
+    return 0;
 }
