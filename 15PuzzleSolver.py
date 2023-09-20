@@ -1,7 +1,7 @@
 import sys
 import time
+import json
 import numpy as np
-import matplotlib.pyplot as plt
 from time import time
 from heapq import heappop, heappush
 
@@ -72,41 +72,6 @@ class PuzzleNode:
             node = node.parent
         # Reverse the actions to get them in order from root to this node
         return actions[::-1]
-
-def show_grid(state, ax, text_objects):
-    ax.clear()  # Clear previous texts and other drawings
-    
-    # Define a color matrix. Default color is white.
-    color_matrix = np.ones((4, 4, 3)) # For RGB values
-    
-    # Get the goal state
-    goal = (np.arange(1, 17).reshape(4, 4) % 16).tolist()
-    
-    # Check each element in the state, if it's at its proper position (as in the goal), 
-    # set the corresponding position in the color matrix to green.
-    for i in range(4):
-        for j in range(4):
-            if state[i][j] == goal[i][j]:
-                color_matrix[i, j] = [0, 1, 0]  # RGB for green
-            elif state[i][j] != goal[i][j]:
-                color_matrix[i,j] = [1,0,0]
-            elif state[i][j] == 0:
-                color_matrix[i,j] = [1,1,0]
-    
-    ax.imshow(color_matrix, vmin=0, vmax=1)  # Use the color matrix as the image
-    
-    # Display the numbers as before
-    for i in range(4):
-        for j in range(4):
-            text_objects[i][j] = ax.text(j, i, str(state[i][j]), ha='center', va='center',
-                                         fontsize=12, color="black")
-            
-    ax.set_xticks([])
-    ax.set_yticks([])
-    plt.draw()
-    plt.pause(0.1)  # you can adjust this pause as needed
-
-
 
 def deepening_astar(initial_state):
     """ Iterative deepening A* search for 15-puzzle """
@@ -181,20 +146,26 @@ if __name__ == "__main__":
     filename = 'puzzles.txt'
     puzzles = read_puzzles_from_file(filename)
 
-    with open("solutions.txt", "w") as sol_file:
-        for idx, initial in enumerate(puzzles):
-            print(f"Solving Puzzle {idx + 1}:")
-            
-            solution, depth, duration, memory = deepening_astar(initial)
-            
-            sol_file.write(f"Initial State for Puzzle {idx + 1}: {' '.join(map(str, [num for row in initial for num in row]))}\n")
-            if solution:
-                sol_file.write(f"Solution Steps: {' '.join(solution)}\n")
-                sol_file.write(f"Depth of Solution: {depth}\n")
-                sol_file.write(f"Time Taken: {duration:.4f} seconds\n")
-                sol_file.write(f"Memory Used: {memory} bytes\n\n")
-                print(f"Solution found: {' '.join(solution)}")
-            else:
-                sol_file.write("No solution found\n\n")
-                print("No solution found")
-            print("-----")
+    results = {}
+    for idx, initial in enumerate(puzzles):
+        print(f"Solving Puzzle {idx + 1}:")
+        
+        solution, depth, duration, memory = deepening_astar(initial)
+        
+        puzzle_key = f"Puzzle {idx + 1}"
+        results[puzzle_key] = {}
+        results[puzzle_key]["Initial State"] = [num for row in initial for num in row]
+        if solution:
+            results[puzzle_key]["Solution Steps"] = solution
+            results[puzzle_key]["Depth of Solution"] = depth
+            results[puzzle_key]["Time Taken"] = f"{duration:.4f} seconds"
+            results[puzzle_key]["Memory Used"] = f"{memory} bytes"
+            print(f"Solution found: {' '.join(solution)}")
+        else:
+            results[puzzle_key]["Solution"] = "No solution found"
+            print("No solution found")
+        print("-----")
+
+    # Save results to a JSON file
+    with open("solutions.json", "w") as json_file:
+        json.dump(results, json_file, indent=4)
