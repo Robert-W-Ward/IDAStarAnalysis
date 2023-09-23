@@ -86,11 +86,6 @@ int search(int g, int bound) {
     if (f > bound) return f;
     if (is_goal(node)) return FOUND;
     int min = INF;
-    auto current_time = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration_cast<std::chrono::minutes>(current_time - start_time);
-    if (duration.count() >= 3){
-        return INF;
-    }
     for (const Node& succ : successors(node)) {
         if (std::find(path.begin(), path.end(), succ) == path.end()) {
             path.push_back(succ);
@@ -181,27 +176,40 @@ int main() {
     std::vector<Node> puzzles = readFromFile("puzzles.txt");
 
     for (int i = 0; i < puzzles.size(); i++) {
-        std::cout << "Solving puzzle " << i + 1 << "..." << std::endl;
 
         if (!isSolvable(puzzles[i])) {
-            std::cout << "Puzzle " << i +1 << " is not solvable." << std::endl;
+            std::cout << "Puzzle ";
+            for (auto i : puzzles[i].state){
+                std::cout << i << ' ';
+            }
+            
+            std::cout<< " is not solvable." << std::endl;
+            std::cout <<"\n"<<std::endl;
             continue;
         }
+        std::cout << "Solving puzzle " << i + 1 << ": ";
+        for (auto i : puzzles[i].state)
+        {
+            std::cout<<i<<" ";
+        }
+        std::cout<<"\n";
+        
+
+       
 
         max_depth=0;
         auto result = ida_star(puzzles[i]);
         auto current_time = std::chrono::high_resolution_clock::now();
-        auto duration = std::chrono::duration_cast<std::chrono::minutes>(current_time - start_time);
-
+        auto inMiliseconds = std::chrono::duration_cast<std::chrono::milliseconds>(current_time-start_time);
         if (result.second != INF) {
             std::cout << "Path found with steps: " << result.first.back().steps << std::endl;
-        } else if (duration.count() >= 3) {
-            std::cout << "Timeout after 3 minutes for puzzle " << i + 1 << ". Best path so far: " << path.back().steps << std::endl;
         } else {
             std::cout << "Path not found for puzzle " << i + 1 << "!" << std::endl;
         }
         std::cout << "Max search depth reached for puzzle " << i + 1 << ": " << max_depth << std::endl;
+        std::cout << "Time taken " << inMiliseconds.count() << " ms"<<std::endl;
 
+        std::cout <<"\n"<<std::endl;
     }
 
     return 0;
