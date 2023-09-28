@@ -9,6 +9,7 @@ def count_inversions(sequence):
         b = sequence[j]
         if (a and b) and a > b:
             count+=1
+    print(count)
     return count
 
 def is_solvable(sequence):
@@ -27,7 +28,7 @@ def is_solvable(sequence):
             return True
     return False
         
-file_path = sys.argv[1]
+file_path = "../solvedConfigurations.txt"#sys.argv[1]
 # Get a sequence from the user
 with open(file_path) as f:
     lines = f.readlines()

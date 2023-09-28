@@ -1,5 +1,5 @@
 import sys
-"""Takes two Command line arguments: [puzzles.txt] and [solutions file] checks if entries in the second are present in the first"""
+"""Takes two Command line arguments: [solutions file] and [puzzles.txt] checks if entries in the first are present in the second"""
 def extract_configuration(line):
     line = line.replace("Solving puzzle", "").split(":")[1].strip()
     return " ".join(line.split())
@@ -15,6 +15,9 @@ if len(sys.argv) != 3:
 
 file_path1 = sys.argv[1]
 file_path2 = sys.argv[2]
+
+# file_path1 = "puzzles.txt"
+# file_path2 = "solutions-master.txt"
 
 # Extract configurations from the first file and store them in a set
 configurations_set = set()

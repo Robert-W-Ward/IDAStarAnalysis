@@ -1,5 +1,5 @@
 import sys
-"""Takes two Command line arguments: [puzzles.txt] and [solutions file] removes entries in the first that are present in the second"""
+"""Takes two Command line arguments: [solutions file] and [puzzles.txt] removes entries in the second that are present in the first"""
 def extract_configuration(line):
     line = line.replace("Solving puzzle", "").split(":")[1].strip()
     return " ".join(line.split())
