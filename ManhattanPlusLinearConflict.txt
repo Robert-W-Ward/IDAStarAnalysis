@@ -1,0 +1,3500 @@
+Solving puzzle 1: 2 5 7 11 10 14 9 3 13 12 6 0 8 1 15 4 
+Path found with steps: L L D L U R U R U R D D D L L U U L D R R U R D L L U R U R D D L D R U L U L U L D R R R D D 
+Max search depth reached for puzzle 1: 47
+Time taken 23 ms
+Nodes expanded 40244
+
+
+Solving puzzle 2: 13 8 4 6 3 12 7 0 5 1 10 15 14 9 2 11 
+Path found with steps: L L U L D D R R D R U U L L U R D D L U L D R D L U R R R U U L L L D R R R U L L D R D D R 
+Max search depth reached for puzzle 2: 46
+Time taken 32 ms
+Nodes expanded 58842
+
+
+Solving puzzle 3: 5 3 6 10 11 7 4 13 2 8 14 15 0 12 9 1 
+Path found with steps: U U R U R D R U L L D R D L D R R U L L L D R U U R R D L D L U U L D D R U R U L D R U U L D L U R D R D D R 
+Max search depth reached for puzzle 3: 55
+Time taken 1351 ms
+Nodes expanded 2145150
+
+
+Solving puzzle 4: 4 15 1 7 3 0 2 9 12 13 10 8 11 14 6 5 
+Path found with steps: R U L L D R R U L L D R R R D D L L U L D R U U R D D L U R R D L L U R R U U L L L D R D L U R R D L U R R D D 
+Max search depth reached for puzzle 4: 56
+Time taken 932 ms
+Nodes expanded 1413430
+
+
+Solving puzzle 5: 1 7 3 13 14 12 0 15 9 11 2 8 10 4 6 5 
+Path found with steps: D R U U L D D D L U R D R U L U R D L L U R D L U L D R U U R R D D L D L U R U L D R D L L U U R D D R R 
+Max search depth reached for puzzle 5: 53
+Time taken 1258 ms
+Nodes expanded 1995418
+
+
+Solving puzzle 6: 3 5 11 1 6 4 2 9 8 14 10 0 13 12 7 15 
+Path found with steps: L U L U R D R U L L D R R D D L L U L U R R D L L U R U L D R R D R D L U U R D L U U L D D R U R D D 
+Max search depth reached for puzzle 6: 51
+Time taken 89 ms
+Nodes expanded 159886
+
+
+Solving puzzle 7: 13 2 12 3 0 4 7 5 8 14 15 10 1 6 9 11 
+Path found with steps: U R D R R U L L D L D D R R U R D L U U L L D D R U R U R U L D L U L D D R R D L U R R U L L L D D R R R 
+Max search depth reached for puzzle 7: 53
+Time taken 66 ms
+Nodes expanded 114406
+
+
+Solving puzzle 8: 8 6 11 14 0 3 15 2 9 10 1 7 5 13 12 4 
+Path found with steps: R R D L U R U R D D D L U L L D R R U U U L L D R U L D D R R U R D D L U U L U R R D L L U R D D L D R R 
+Max search depth reached for puzzle 8: 53
+Time taken 175 ms
+Nodes expanded 239345
+
+
+Solving puzzle 9: 2 0 4 8 7 10 11 9 6 15 3 14 5 1 12 13 
+Path found with steps: D D R D R U L L D R R U U L D R U U L D L L D R R U L L D D R R U U L U L D D R U R D R D 
+Max search depth reached for puzzle 9: 45
+Time taken 60 ms
+Nodes expanded 106102
+
+
+Solving puzzle 10: 5 11 0 13 14 9 7 6 2 1 4 15 10 3 8 12 
+Path found with steps: R D L D L U L D R U U R D D D L U R D R U U U L D D L U U R D R D L L U L D R R D L L U U U R D R R D L L D R R 
+Max search depth reached for puzzle 10: 56
+Time taken 2603 ms
+Nodes expanded 4229110
+
+
+Solving puzzle 11: 7 5 2 13 1 8 11 0 3 10 12 6 4 15 14 9 
+Path found with steps: U L D R D L U L U L D R D R D L L U R D R R U U L U L D D D R U L D L U R D R U U L D R R U L U R D L L U R D D L U R R D D 
+Max search depth reached for puzzle 11: 62
+Time taken 139185 ms
+Nodes expanded 214493862
+
+
+Solving puzzle 12: 4 0 10 8 7 2 1 9 14 12 11 3 5 13 15 6 
+Path found with steps: L D R R R D L L L D R R U U U L L D R R R D D L L U R R U U L D L U L D D R R U L D R R D 
+Max search depth reached for puzzle 12: 45
+Time taken 39 ms
+Nodes expanded 71293
+
+
+Solving puzzle 13: 4 2 12 3 15 6 13 5 8 10 0 14 7 9 1 11 
+Path found with steps: L L U R R D L L D R U U U L D R R R U L L L D R R R U L D D D L U L U R D R R D L U R U L L D L U R U L D D D R R R 
+Max search depth reached for puzzle 13: 58
+Time taken 1452 ms
+Nodes expanded 2238027
+
+
+Solving puzzle 14: 7 10 8 14 13 12 6 4 5 11 9 15 2 0 3 1 
+Path found with steps: U U L D D R R U L U R U R D L U L L D D R D R R U L U L D D L U R R D L U R U U L D D R U U L D L U R D D R D R 
+Max search depth reached for puzzle 14: 56
+Time taken 2152 ms
+Nodes expanded 3601632
+
+
+Solving puzzle 15: 4 5 9 11 7 1 12 2 8 6 0 3 15 10 14 13 
+Path found with steps: U R D L L L U R U L D R R U L D D R U R U L D L D L U R D R D R U U L L L D R D L U R D R U L L D R R U R D 
+Max search depth reached for puzzle 15: 54
+Time taken 110 ms
+Nodes expanded 193740
+
+
+Solving puzzle 16: 14 2 11 1 6 9 13 0 3 5 8 15 10 7 4 12 
+Path found with steps: D L D R U L U R D D L U U U L D D L U U R D D D R U U U R D D L L L U U R R D L D L D R U L U U R R D D R D 
+Max search depth reached for puzzle 16: 55
+Time taken 1009 ms
+Nodes expanded 1628570
+
+
+Solving puzzle 17: 5 2 11 0 6 7 8 4 3 9 12 10 14 1 13 15 
+Path found with steps: D L U L L D D R D R R U L U L L D D R R R U L U L D L U U R D L U R R D D D L U R R D 
+Max search depth reached for puzzle 17: 43
+Time taken 540 ms
+Nodes expanded 861940
+
+
+Solving puzzle 18: 5 11 3 4 15 13 8 2 6 10 12 0 9 7 14 1 
+Path found with steps: L U L L D R D R R U L U L D R D L U R U R U L L D R U L D D L D R R U U U L D L U R R R D D D 
+Max search depth reached for puzzle 18: 47
+Time taken 804 ms
+Nodes expanded 1357583
+
+
+Solving puzzle 19: 8 2 14 15 12 11 1 3 4 0 10 6 13 7 9 5 
+Path found with steps: L D R R R U L L U R U L D L U R R R D L D L D R R U U L U R D L L D D L U R U L D R D R R U U L L D D R R U U L L D D R R 
+Max search depth reached for puzzle 19: 61
+Time taken 20110 ms
+Nodes expanded 31634638
+
+
+Solving puzzle 20: 11 7 15 2 1 3 10 12 13 14 6 9 8 0 4 5 
+Path found with steps: L U R R R U L U L L D D R R D R U L U L L D R D R U L U R R D L U U R D L L U R D L D D L U R U L D D R U R U R D D 
+Max search depth reached for puzzle 20: 58
+Time taken 603 ms
+Nodes expanded 991621
+
+
+Solving puzzle 21: 1 9 6 4 10 13 2 5 15 12 14 11 7 0 3 8 
+Path found with steps: L U U R U R D R D L D L U L U R R D R D L L L U R R R D L L U L U R U R D R D L U R D D 
+Max search depth reached for puzzle 21: 44
+Time taken 0 ms
+Nodes expanded 648
+
+
+Solving puzzle 22: 8 3 9 1 13 0 4 14 15 7 10 5 6 11 12 2 
+Path found with steps: D R R D L L U R R U L L U R R D L D D L L U U U R R D L L U R R D D R U L L D D L U U R D R R U L D D L U R R D 
+Max search depth reached for puzzle 22: 56
+Time taken 222 ms
+Nodes expanded 384942
+
+
+Solving puzzle 23: 13 3 14 12 8 7 2 15 5 4 6 1 0 11 9 10 
+Path found with steps: R R U L U R U L D R D L U L U R R D D R U U L D L D R D R U U L L D L U R D R U U L L D R D D L U R R D L U R D R 
+Max search depth reached for puzzle 23: 57
+Time taken 631 ms
+Nodes expanded 1105657
+
+
+Solving puzzle 24: 10 11 15 6 1 14 8 12 5 0 4 2 9 7 3 13 
+Path found with steps: U R D R U L L U R R D L L U L D D R U R D D R U L L D R U L L D R U U U R D D R U L D L U U R D R D D 
+Max search depth reached for puzzle 24: 51
+Time taken 85 ms
+Nodes expanded 145219
+
+
+Solving puzzle 25: 2 11 0 9 10 13 8 5 14 6 3 4 15 7 12 1 
+Path found with steps: R D L D R D L L L U U R U R D D L U U R D D R U U L D D L L U R R R D L D L L U U R R U L L D R R D R D 
+Max search depth reached for puzzle 25: 52
+Time taken 134 ms
+Nodes expanded 229770
+
+
+Solving puzzle 26: 6 13 14 4 8 10 15 2 5 9 0 7 11 12 1 3 
+Path found with steps: U L U R D R D L D L U U U R D L L D R R R D L U U L D D L U U R U L D D R R R U L D R D L L U U U R D D D R 
+Max search depth reached for puzzle 26: 54
+Time taken 3638 ms
+Nodes expanded 6117018
+
+
+Solving puzzle 27: 10 0 4 14 2 9 13 3 12 7 6 11 15 8 5 1 
+Path found with steps: L D R R R U L D D L D R R U L L U R R D L D L L U R R D L L U R R U L L D R R D L U U U L D D R U R R D D L U R D 
+Max search depth reached for puzzle 27: 57
+Time taken 2886 ms
+Nodes expanded 4565502
+
+
+Solving puzzle 28: 4 10 3 5 6 11 15 12 8 1 13 14 7 0 9 2 
+Path found with steps: R U U L L D R U L D D R R U R D L U U L D L D R R U R U L U R D L L U R D D L U U L D R R U L D R R U L D D D R 
+Max search depth reached for puzzle 28: 56
+Time taken 3776 ms
+Nodes expanded 5788329
+
+
+Solving puzzle 29: 3 1 8 9 13 11 4 7 0 10 15 12 2 14 5 6 
+Path found with steps: R R D R U U U L D L L D D R U U L D R R U R D L U L U L D R D R D L L U R R U R U L L L D R D R R D 
+Max search depth reached for puzzle 29: 50
+Time taken 1968 ms
+Nodes expanded 3217380
+
+
+Solving puzzle 30: 4 8 14 7 10 0 1 3 11 13 5 9 12 2 6 15 
+Path found with steps: R D L D L U U R R U L L D R D R R U U L L D R D D L L U R U R D D L U U R R D L U R U L D D D L L U R D R R 
+Max search depth reached for puzzle 30: 54
+Time taken 112 ms
+Nodes expanded 146653
+
+
+Solving puzzle 31: 8 10 13 14 12 2 9 6 7 1 3 5 11 15 4 0 
+Path found with steps: L L L U U R R U L L D R D L U R R U R D D L U R D D L U L U R U R D D L U U L L D D R D L U R D R U L L U R R U R D L D L D R R 
+Max search depth reached for puzzle 31: 64
+Time taken 4895 ms
+Nodes expanded 7556896
+
+
+Solving puzzle 32: 13 11 5 15 10 14 8 0 1 7 4 9 6 12 3 2 
+Path found with steps: L D L U U R D D D L U R R D L U R U U L D L D L U U R D D R U R D L U U L D D L D R R U L L U U R D D D L U R R R D 
+Max search depth reached for puzzle 32: 58
+Time taken 258 ms
+Nodes expanded 419744
+
+
+Solving puzzle 33: 1 11 10 4 9 15 0 8 5 7 3 14 13 6 12 2 
+Path found with steps: D L U R D R D L U R U L D L L U R R U L D L U R D D D R U U U L L D R D R U R D D 
+Max search depth reached for puzzle 33: 41
+Time taken 143 ms
+Nodes expanded 247841
+
+
+Solving puzzle 34: 3 1 14 5 13 8 9 7 15 10 12 2 0 4 6 11 
+Path found with steps: U R D R U L U R U R D D L L L U R U R D R D L L D L U U R U L D R R U R D D L U U L D D R R D L L U R R D 
+Max search depth reached for puzzle 34: 53
+Time taken 583 ms
+Nodes expanded 1014429
+
+
+Solving puzzle 35: 1 9 12 13 8 14 3 10 4 2 15 11 7 0 6 5 
+Path found with steps: R R U L L L D R R R U U L U R D L D L U R U L D R D L U L D D R U R R U L L L U R R R D L L U L D D D R U U L D R R D R 
+Max search depth reached for puzzle 35: 60
+Time taken 1403 ms
+Nodes expanded 2104637
+
+
+Solving puzzle 36: 9 7 12 2 4 10 5 0 1 6 8 15 13 11 3 14 
+Path found with steps: L U R D L L L D R R U L D R D L U R D R U U L L U R R D L L U R D L L U R D D L U U R D R U L D D D R R 
+Max search depth reached for puzzle 36: 52
+Time taken 8 ms
+Nodes expanded 13741
+
+
+Solving puzzle 37: 4 6 9 15 14 2 1 11 3 10 12 5 8 0 13 7 
+Path found with steps: R U L L U R R U L L D R D L D R U R R U U L L D R R U L L L D R D R U L D L U R R R D D L U L U R R D L U R D D 
+Max search depth reached for puzzle 37: 56
+Time taken 175 ms
+Nodes expanded 283123
+
+
+Solving puzzle 38: 9 7 10 15 2 12 5 14 11 1 0 6 8 3 4 13 
+Path found with steps: U L D R U U L D L U R D R D D R U U U L L D D D R R U U L D L L D R U L U R U R D D D R U U U L D D L D R R U L L U R R D D 
+Max search depth reached for puzzle 38: 62
+Time taken 555 ms
+Nodes expanded 837150
+
+
+Solving puzzle 39: 5 12 7 8 14 13 10 1 9 6 2 0 4 3 11 15 
+Path found with steps: L L L U R D D L U U R D D L U U R D R U L U R D L D R U R D L L U R R U L L D L U R D R U L D D R D R 
+Max search depth reached for puzzle 39: 51
+Time taken 41 ms
+Nodes expanded 71080
+
+
+Solving puzzle 40: 7 11 14 13 6 12 1 2 8 5 9 0 10 3 15 4 
+Path found with steps: D L U U L D L U R D R U U R D D L U L U R R D L L U L D R D D R U U U L D D L U U R D R U L D D D L U R D R R 
+Max search depth reached for puzzle 40: 55
+Time taken 6 ms
+Nodes expanded 11711
+
+
+Solving puzzle 41: 0 11 5 4 15 6 14 9 12 13 8 7 10 3 1 2 
+Path found with steps: R D L U R R D R D L D L U L D R U U R U L D R D D R U L D L U U L U R R D D R D L L U U L U R R D D L L U U R R D R D D 
+Max search depth reached for puzzle 41: 60
+Time taken 6598 ms
+Nodes expanded 10011646
+
+
+Solving puzzle 42: 15 2 13 8 3 10 11 14 5 7 12 4 9 1 0 6 
+Path found with steps: U R U L L L U R R D L U R D D L D L U R U L D D R U U U R D D R D L U R U L D L U R R U L L L D D D R R U R D 
+Max search depth reached for puzzle 42: 55
+Time taken 1817 ms
+Nodes expanded 2901406
+
+
+Solving puzzle 43: 5 2 8 11 15 14 9 7 13 12 10 3 4 1 0 6 
+Path found with steps: L L U U R R D D L U L U R R D D L U L U R R R U L L D R D R D L L U U L U R R D D R U U L D D L U R D R D 
+Max search depth reached for puzzle 43: 53
+Time taken 2869 ms
+Nodes expanded 4456329
+
+
+Solving puzzle 44: 13 11 10 12 6 4 2 3 15 7 1 9 14 5 0 8 
+Path found with steps: R U U U L D L U R D D L U R D R U U L L D R D D R U L L L U U R R D R D L L D R U U L D L U R D D L U R R R D 
+Max search depth reached for puzzle 44: 55
+Time taken 1797 ms
+Nodes expanded 2862999
+
+
+Solving puzzle 45: 8 12 5 4 6 14 15 10 9 11 7 2 1 3 0 13 
+Path found with steps: U R U L D D R U L L D L U U R U R D L D D R U U L D L U U R D L U R R D L D L D R R U R U L D D R U L D L U R D R 
+Max search depth reached for puzzle 45: 57
+Time taken 2263 ms
+Nodes expanded 3570568
+
+
+Solving puzzle 46: 10 7 15 6 3 5 9 4 0 12 8 11 13 2 14 1 
+Path found with steps: R U R U L L D R D D R R U L U U R D D L D R U U L D L L U R R D L L U R U L D D R U R U L D R R D L D R 
+Max search depth reached for puzzle 46: 52
+Time taken 319 ms
+Nodes expanded 531824
+
+
+Solving puzzle 47: 10 7 2 11 3 14 9 5 13 0 6 1 4 12 8 15 
+Path found with steps: R D L L U R U R D D L U U U R R D D L D R U L U U R D D L U L L U R R R D L L L D R U L U R R D L L U R D R R D D 
+Max search depth reached for puzzle 47: 57
+Time taken 631 ms
+Nodes expanded 1051969
+
+
+Solving puzzle 48: 2 15 13 1 14 10 7 8 0 4 9 12 5 3 6 11 
+Path found with steps: U R U R R D L L D D L U R R U L L D R U U R D R D L L U L U R D L D R D R R U U U L L D D D L U U R D R D R 
+Max search depth reached for puzzle 48: 54
+Time taken 234 ms
+Nodes expanded 399219
+
+
+Solving puzzle 49: 0 15 9 8 4 10 7 5 1 14 6 13 11 12 3 2 
+Path found with steps: D D R U R D R D L L U U U R D L U L D R D R U R D D L L L U R D R U L U R R D L L D L U U R R U L D R R U L D D R D 
+Max search depth reached for puzzle 49: 58
+Time taken 391 ms
+Nodes expanded 633419
+
+
+Solving puzzle 50: 4 5 10 1 15 8 14 0 9 2 12 6 11 3 7 13 
+Path found with steps: L L L U R R R D L D L U U R R D L D R D L L U U L U R R D L U R D D D L L U R U R D R D L L U R R U U L D D D L U L D R R R 
+Max search depth reached for puzzle 50: 62
+Time taken 177 ms
+Nodes expanded 290498
+
+
+Solving puzzle 51: 14 8 11 2 9 1 7 5 3 10 0 6 15 4 13 12 
+Path found with steps: U R U L L D D D R U L L U U R D R R U L D D L L U R D D L U R U U R D D R U U L D D D L L U R U R D R D 
+Max search depth reached for puzzle 51: 52
+Time taken 24 ms
+Nodes expanded 42768
+
+
+Solving puzzle 52: 13 11 15 3 14 10 5 1 7 2 6 4 8 12 9 0 
+Path found with steps: L L L U U R R U L D D R U R D L L D L U U U R D R U L D D R D R U L U L D D R U L L U U R R R D L D L D L U R R D R 
+Max search depth reached for puzzle 52: 58
+Time taken 619 ms
+Nodes expanded 1054204
+
+
+Solving puzzle 53: 10 5 14 11 1 8 9 7 3 0 2 4 6 13 15 12 
+Path found with steps: U L U R D R D L L U R D L D R U L U U R D R U R D D L U U R D D D L U U U L D D D R R 
+Max search depth reached for puzzle 53: 43
+Time taken 0 ms
+Nodes expanded 503
+
+
+Solving puzzle 54: 12 13 15 2 6 4 3 9 8 0 14 11 10 1 5 7 
+Path found with steps: U U L D R R R U L L D D D R U U L D L U R D D L U R R U R U L L L D D R D R R U U U L D D D R U U L L U R R D L D D R 
+Max search depth reached for puzzle 54: 59
+Time taken 955 ms
+Nodes expanded 1495353
+
+
+Solving puzzle 55: 12 1 9 14 15 5 2 0 8 3 10 6 4 7 13 11 
+Path found with steps: L U L D L D D R R U L U R D L L D R R U L U L U R R D R U L D D R U L L L D R R U L L U R R R D L D R D L U R U L L D D R R 
+Max search depth reached for puzzle 55: 62
+Time taken 749 ms
+Nodes expanded 1077804
+
+
+Solving puzzle 56: 10 12 4 5 2 13 11 6 1 14 9 0 15 8 3 7 
+Path found with steps: L D L U U U L D D R U R D R U U L D D L U U L D R R R D D L U L D L U U R R R D D L L U L U R R R D D 
+Max search depth reached for puzzle 56: 52
+Time taken 177 ms
+Nodes expanded 283316
+
+
+Solving puzzle 57: 6 10 13 1 4 5 9 8 7 0 2 3 14 12 11 15 
+Path found with steps: U L D R R U L D R R U L L U R R D D D L L U U U R D D L U L U R R D L L D R R R D L U L D L U R R R D 
+Max search depth reached for puzzle 57: 51
+Time taken 87 ms
+Nodes expanded 143511
+
+
+Solving puzzle 58: 13 7 14 6 4 1 3 10 11 8 15 2 0 9 12 5 
+Path found with steps: R U R R D L L U L D R U R R U L U L D L U R D D R R U U L L D D L U R R D D L L U R U R R D L D L U U R R U L D R D D 
+Max search depth reached for puzzle 58: 59
+Time taken 8907 ms
+Nodes expanded 13888232
+
+
+Solving puzzle 59: 7 13 12 6 2 11 8 3 1 0 5 10 9 4 14 15 
+Path found with steps: R R U L U L L D D R D R U U U R D D L U L D R D L U R U L U R D R U L D L U L D D D R R R 
+Max search depth reached for puzzle 59: 45
+Time taken 5 ms
+Nodes expanded 9025
+
+
+Solving puzzle 60: 7 3 4 12 15 5 11 6 9 1 14 0 13 2 10 8 
+Path found with steps: L U L D D L U U R R R U L L L D R D L D R R R U U U L L D R D D R U L L D R U U U R D D D 
+Max search depth reached for puzzle 60: 46
+Time taken 155 ms
+Nodes expanded 262241
+
+
+Solving puzzle 61: 0 12 8 14 2 15 10 3 1 9 11 7 4 5 6 13 
+Path found with steps: D D R D L U R D R U U L D D R R U U U L L D D R U U L L D D R D R U R U L D R D L U R U U L D D L L D R R R 
+Max search depth reached for puzzle 61: 54
+Time taken 269 ms
+Nodes expanded 388894
+
+
+Solving puzzle 62: 10 7 12 3 9 5 15 2 13 8 11 14 0 6 1 4 
+Path found with steps: R R U R D L U U R D L L D L U U R R U L L D R D D R R U L U U L D L U R D R U R D D L U L D R D R 
+Max search depth reached for puzzle 62: 49
+Time taken 93 ms
+Nodes expanded 151161
+
+
+Solving puzzle 63: 1 8 6 9 3 4 10 12 11 7 0 2 15 5 14 13 
+Path found with steps: R U L L U R D D L D R R U U U L D R D L D L L U R R U L L D R R D L L U R R R U L L U R D D R D L L U R D R 
+Max search depth reached for puzzle 63: 54
+Time taken 793 ms
+Nodes expanded 1270812
+
+
+Solving puzzle 64: 9 5 10 12 7 6 1 8 11 15 0 14 13 3 2 4 
+Path found with steps: R D L L U L U U R R D R D D L L U R R D L L U L U R U R D R U L D D R U U L D D L U L U R R D D D R 
+Max search depth reached for puzzle 64: 50
+Time taken 95 ms
+Nodes expanded 156188
+
+
+Solving puzzle 65: 12 14 3 8 7 1 2 13 9 10 4 6 0 11 5 15 
+Path found with steps: U R R D L L U U R D R U L U L D D R U U R D L L D D R U R R U L L D R R U U L L D D R D L U L D R R R 
+Max search depth reached for puzzle 65: 51
+Time taken 145 ms
+Nodes expanded 237438
+
+
+Solving puzzle 66: 15 10 7 4 2 1 14 11 8 6 13 3 0 5 12 9 
+Path found with steps: R U R R D L L L U R R U U L L D R D D L U R R D L U R R U L U L D D R U U L L D D R R D R U L U R D D L U R D 
+Max search depth reached for puzzle 66: 55
+Time taken 7373 ms
+Nodes expanded 11915849
+
+
+Solving puzzle 67: 9 1 7 12 5 0 13 3 14 8 11 10 2 4 6 15 
+Path found with steps: R R U L D D L D L U U R D D R U R U L L D L U U R R D R U L L D D D L U U R D R D R U L U R D D 
+Max search depth reached for puzzle 67: 48
+Time taken 111 ms
+Nodes expanded 192501
+
+
+Solving puzzle 68: 6 4 2 9 8 11 14 0 12 3 13 15 5 1 10 7 
+Path found with steps: U L L D D L U R D D R U U L D D R U U R U L L D L U R D D L D R R U R D L U L U R R D L L U R U L D L D R R U R D D 
+Max search depth reached for puzzle 68: 58
+Time taken 6232 ms
+Nodes expanded 9725827
+
+
+Solving puzzle 69: 12 2 14 8 0 7 4 15 3 9 6 5 10 1 11 13 
+Path found with steps: U R R D L L D R D L U R R U L L D R R R U L L D R D R U U U L D L U L D D R D R R U L L U L D D R U R R D 
+Max search depth reached for puzzle 69: 53
+Time taken 41 ms
+Nodes expanded 66825
+
+
+Solving puzzle 70: 9 2 1 10 6 3 15 11 4 13 5 12 7 8 0 14 
+Path found with steps: L U L U R D L D R U R D R U L U L U R D L L U R D R R U L L D D L U R D D R U U R D L U L D R R D 
+Max search depth reached for puzzle 70: 50
+Time taken 76 ms
+Nodes expanded 121472
+
+
+Solving puzzle 71: 3 11 15 2 1 13 10 5 14 4 8 9 12 0 7 6 
+Path found with steps: L U R U R R U L L L D D R U L U R D R R U L L L D R R D R U U L L D D R D L L U R R R D L U R U L L D R U L D R R D 
+Max search depth reached for puzzle 71: 58
+Time taken 12 ms
+Nodes expanded 20490
+
+
+Solving puzzle 72: 8 9 5 1 4 0 12 11 10 14 2 3 15 13 7 6 
+Path found with steps: L U R R R D L L L D R D L U R U L U R R D D R U U L D D D R U L D L L U U U R R D D L U R R D L U R D D 
+Max search depth reached for puzzle 72: 52
+Time taken 103 ms
+Nodes expanded 159888
+
+
+Solving puzzle 73: 6 8 10 15 3 2 13 1 7 14 4 9 0 5 12 11 
+Path found with steps: R U R U L D R U R U L L D R R D D L L U R U R U L L D L U R D D L D R R U U R U L L D D R U L L D R R R D 
+Max search depth reached for puzzle 73: 54
+Time taken 764 ms
+Nodes expanded 1193354
+
+
+Solving puzzle 74: 11 14 6 12 0 15 2 7 4 10 9 13 1 8 3 5 
+Path found with steps: R R D R D L L U R R D L L U L U R R D L L D R U U U L D D R U R U L L D R R U R D D L D L U R U U R D D D L U U U R D D L D R 
+Max search depth reached for puzzle 74: 63
+Time taken 2116 ms
+Nodes expanded 3174094
+
+
+Solving puzzle 75: 3 10 11 8 2 0 15 14 1 6 7 9 4 12 13 5 
+Path found with steps: L D R D R R U L U R D L L L D R R R U L L L U R D R U U L D D D R U U U L L D D R D R U U R U L L L D D R R D R 
+Max search depth reached for puzzle 75: 56
+Time taken 1509 ms
+Nodes expanded 2272438
+
+
+Solving puzzle 76: 5 8 15 11 13 10 9 7 1 0 3 4 14 12 6 2 
+Path found with steps: L U R R R D L D L L U U R D R U U L D D R U R D D L U R U U L D D R U U L D D L L U U R R D D R D 
+Max search depth reached for puzzle 76: 49
+Time taken 19 ms
+Nodes expanded 33184
+
+
+Solving puzzle 77: 2 14 10 9 7 0 5 3 6 4 11 12 8 13 1 15 
+Path found with steps: D L D R R U L D R U U L U R R D L L D L U R D R U L U R R D L L U L D R D L U R D R D L U R U L D R D R 
+Max search depth reached for puzzle 77: 52
+Time taken 1537 ms
+Nodes expanded 2429841
+
+
+Solving puzzle 78: 2 5 12 3 13 1 7 9 6 8 14 11 4 0 10 15 
+Path found with steps: L U U R D D R U U L D R U R U L L D R U L L D R R R U L D D D L L U U R D D R U R U L L D D R R 
+Max search depth reached for puzzle 78: 48
+Time taken 596 ms
+Nodes expanded 873982
+
+
+Solving puzzle 79: 7 12 13 9 10 2 5 1 3 14 15 6 4 11 8 0 
+Path found with steps: L L L U R D L U U R D D R U U L U R D L U L D R D R U R U L L D R R D D L L L U U R R R D L D L L U R U R U L L D D R D R R 
+Max search depth reached for puzzle 79: 62
+Time taken 176 ms
+Nodes expanded 297707
+
+
+Solving puzzle 80: 1 14 11 13 0 12 9 15 3 5 10 8 2 6 4 7 
+Path found with steps: D R R D L U R U L D R R U L L L D R D L U R D R R U U L U R D L U L D D R U U L D D D R U U L D D R U L L D R R R U U L D R D 
+Max search depth reached for puzzle 80: 63
+Time taken 41895 ms
+Nodes expanded 65568888
+
+
+Solving puzzle 81: 15 7 0 11 3 9 14 4 10 12 5 13 8 1 2 6 
+Path found with steps: L L D D R D L U R U L D R R D L L U R U U L D D R R U U R D L L D R R D L L U R R D L L U R U U L D D L D R R U U R D D 
+Max search depth reached for puzzle 81: 60
+Time taken 1310 ms
+Nodes expanded 2160531
+
+
+Solving puzzle 82: 15 2 9 11 10 8 7 4 14 12 13 0 3 6 1 5 
+Path found with steps: L L U L U R R R D L L L D D R R R U L L U L D D R R R U L L L D R R U L U U L D D D R U U U L D D R R U U L D D R U R D D 
+Max search depth reached for puzzle 82: 61
+Time taken 2468 ms
+Nodes expanded 3868635
+
+
+Solving puzzle 83: 4 12 9 13 7 6 3 8 1 15 10 14 2 0 11 5 
+Path found with steps: R R U L L U R U R D D L U U L L D R D D R U U U L L D D D R R U L U U L D D D R R R U U L L L D D R R U R U U L L D D R D R 
+Max search depth reached for puzzle 83: 62
+Time taken 44196 ms
+Nodes expanded 69218675
+
+
+Solving puzzle 84: 9 3 0 12 5 6 11 1 4 10 2 15 14 8 7 13 
+Path found with steps: L D L U R D R R U L D D D R U L D L U L U U R R D L D R U L L D R R R U L D D R U L L D L U U U R R R D D D 
+Max search depth reached for puzzle 84: 54
+Time taken 967 ms
+Nodes expanded 1494652
+
+
+Solving puzzle 85: 13 1 0 4 15 8 6 5 11 12 3 10 2 14 7 9 
+Path found with steps: D D L U R R D L L L U U R D R D L L D R U L U R D R D R U U L U L D R D D L U R R D L L L U R R D R 
+Max search depth reached for puzzle 85: 50
+Time taken 252 ms
+Nodes expanded 438511
+
+
+Solving puzzle 86: 0 5 13 10 6 14 1 3 2 12 11 9 8 7 15 4 
+Path found with steps: R R D D R D L U L U U R R D D L L L U R D D L U U U R D D D R U L D L U R D R R U L U U R D D L U L D R R D 
+Max search depth reached for puzzle 86: 54
+Time taken 17 ms
+Nodes expanded 30258
+
+
+Solving puzzle 87: 1 13 11 5 4 2 15 8 3 12 14 9 7 10 6 0 
+Path found with steps: U L L L D R R R U L U U R D L L L U R R D L L U R D D L U U R R D L D D R R U U U L D L D D L U R D R U R D 
+Max search depth reached for puzzle 87: 54
+Time taken 277 ms
+Nodes expanded 489153
+
+
+Solving puzzle 88: 9 15 1 2 7 14 12 5 8 0 6 13 4 3 10 11 
+Path found with steps: L U R U R D L D R R U L L D L U U R D D R R U L U R D L D D L L U R R D L L U R U R D D R U U L D L L U R U R D R U L D D D R 
+Max search depth reached for puzzle 88: 63
+Time taken 40865 ms
+Nodes expanded 63484751
+
+
+Solving puzzle 89: 0 2 9 12 6 7 14 1 8 11 13 4 15 10 5 3 
+Path found with steps: D D R R D L L U R R D L L U R U R R D L L U R U L D R R D D L L U U L U R R D R D L U R U L D L L D R R R U L D D R 
+Max search depth reached for puzzle 89: 58
+Time taken 15129 ms
+Nodes expanded 24863160
+
+
+Solving puzzle 90: 4 0 1 11 3 6 7 2 12 9 5 15 8 13 10 14 
+Path found with steps: L D R R U L D D L D R U L U R R D L D R R U L L L U R R R U L L L D R R R D L U U L D D D R R 
+Max search depth reached for puzzle 90: 47
+Time taken 10 ms
+Nodes expanded 18785
+
+
+Solving puzzle 91: 14 15 11 9 1 5 12 3 2 4 8 7 0 13 6 10 
+Path found with steps: R R U U R U L D R D L L U U L D D R U R D D L U U U R D R U L D D D R U U L L L D R R U U L D D R D L U R R D 
+Max search depth reached for puzzle 91: 55
+Time taken 1154 ms
+Nodes expanded 1925008
+
+
+Solving puzzle 92: 0 8 15 5 3 10 4 2 6 9 7 11 1 14 13 12 
+Path found with steps: D D D R U U U R R D L L U L D D R U U R R D L L U L D R U R D D L L D R R U L L D R U R R D 
+Max search depth reached for puzzle 92: 47
+Time taken 71 ms
+Nodes expanded 125751
+
+
+Solving puzzle 93: 1 12 3 10 5 6 13 7 11 15 0 9 14 8 2 4 
+Path found with steps: D L U L U R R D R D L L U U R U R D L U L D L D R R U U R D D D L L L U R R U U R D D L D R 
+Max search depth reached for puzzle 93: 47
+Time taken 26 ms
+Nodes expanded 41534
+
+
+Solving puzzle 94: 12 7 6 9 5 11 1 3 15 4 10 8 13 2 0 14 
+Path found with steps: U L U R D L L U R U R R D L L U L D R U R R D D L L D R R U L L U U R D D L U R U L D L D R D R R U L D R 
+Max search depth reached for puzzle 94: 53
+Time taken 173 ms
+Nodes expanded 291614
+
+
+Solving puzzle 95: 8 10 14 1 5 2 4 13 11 0 3 15 7 6 9 12 
+Path found with steps: R R U L L U L D R R U L D D L D R R U R D L U U U R D L L D L D R R U L U U R D D L L U U R D D L D R R R 
+Max search depth reached for puzzle 95: 53
+Time taken 27 ms
+Nodes expanded 46766
+
+
+Solving puzzle 96: 5 13 10 6 7 14 3 1 15 2 0 4 8 9 11 12 
+Path found with steps: L L D R U L U R U R D R U L D D L U U R D R D L D L U L U R D L D R U U L U R R R D D L L U R D R D 
+Max search depth reached for puzzle 96: 50
+Time taken 48 ms
+Nodes expanded 86185
+
+
+Solving puzzle 97: 6 12 5 13 2 9 15 4 11 7 1 8 14 3 0 10 
+Path found with steps: L U U U R R D L L D R R U L U L L D R D L U R R D D R U U L D L U U R D L U L D D R D R U L D L U U R R D D R 
+Max search depth reached for puzzle 97: 55
+Time taken 1565 ms
+Nodes expanded 2581978
+
+
+Solving puzzle 98: 11 1 8 15 3 2 6 5 12 13 9 7 4 10 0 14 
+Path found with steps: L U L D R R U L L U U R D R R U L L D R D L L U R R D L U U R D D R U U L D D L L D R R R U L L D L U R D R R 
+Max search depth reached for puzzle 98: 55
+Time taken 141 ms
+Nodes expanded 237627
+
+
+Solving puzzle 99: 2 10 15 0 12 13 11 4 7 3 8 9 5 6 14 1 
+Path found with steps: D L D R D L U R U L L D R U U L D L D R D R U U L L D D R R R U L U U L L D D D R R R U L U L D R D R 
+Max search depth reached for puzzle 99: 51
+Time taken 12 ms
+Nodes expanded 22277
+
+
+Solving puzzle 100: 10 6 1 4 2 0 7 5 8 14 13 11 12 15 9 3 
+Path found with steps: L D R R U L U R D R D L D L L U R R D L L U U U R D D L U R R R D D L U L L U R U R R D D L U R U L D R D D 
+Max search depth reached for puzzle 100: 54
+Time taken 1363 ms
+Nodes expanded 2289209
+
+
+Solving puzzle 101: 1 15 4 8 2 10 3 12 11 7 9 0 14 13 5 6 
+Path found with steps: U U L L D R U L D D R U L L D R D R R U U L U L D L D R D R U U L D D L U U R D R U R D D 
+Max search depth reached for puzzle 101: 46
+Time taken 2511 ms
+Nodes expanded 4242925
+
+
+Solving puzzle 102: 2 5 3 6 4 9 8 13 0 10 11 14 15 12 7 1 
+Path found with steps: R R R D L L U R R U L L L D R R R D L L L U R R U L L D R R R U L D D L L U R U U R R D L U L L D R R R D D 
+Max search depth reached for puzzle 102: 54
+Time taken 1390 ms
+Nodes expanded 2349718
+
+
+Solving puzzle 103: 4 15 9 10 12 7 5 13 6 1 0 3 2 14 11 8 
+Path found with steps: L L U R R D L L D R U U U L D D R U R U L L D R R R D D L L U U R R U L D R D D L L U U U L D D R R U L D D L U R R R D 
+Max search depth reached for puzzle 103: 60
+Time taken 996 ms
+Nodes expanded 1636808
+
+
+Solving puzzle 104: 2 9 8 10 1 5 11 12 7 6 3 13 15 4 0 14 
+Path found with steps: L L U R R R U L L U L D R D R D L L U R D L U U U R D R D D R U U U L D R U L L L D R D D R U U L D R R D 
+Max search depth reached for puzzle 104: 53
+Time taken 326 ms
+Nodes expanded 528144
+
+
+Solving puzzle 105: 11 4 6 2 5 1 7 9 14 15 8 12 0 3 10 13 
+Path found with steps: R R R U L L L D R R U U L L D D R U U R R U L L L D R R R U L L L D R R U L D D R U R D L L L U R R D R D 
+Max search depth reached for puzzle 105: 53
+Time taken 25 ms
+Nodes expanded 44419
+
+
+Solving puzzle 106: 6 12 10 1 15 7 4 14 2 11 5 13 0 3 8 9 
+Path found with steps: R R R U U L L U R R D L L L D R R U L D D R R U L L L D R R R U L L L U R D R U L U L D D D R R U L U U R D L L U R D R R D D 
+Max search depth reached for puzzle 106: 63
+Time taken 1026 ms
+Nodes expanded 1683006
+
+
+Solving puzzle 107: 13 1 3 4 10 8 7 14 11 5 0 6 2 12 15 9 
+Path found with steps: D L L U U U R R D D R U L L D D L U U R D R R U L U L D D R D R U L L D R U L D L U R D R R 
+Max search depth reached for puzzle 107: 46
+Time taken 365 ms
+Nodes expanded 639576
+
+
+Solving puzzle 108: 2 5 3 8 12 6 0 11 14 1 15 9 13 7 4 10 
+Path found with steps: L L D R R R U L D D L U U R D L U L D R U U R D R U L L L D R R R D L D R U U L D D L U R R D 
+Max search depth reached for puzzle 108: 47
+Time taken 224 ms
+Nodes expanded 406872
+
+
+Solving puzzle 109: 10 14 5 4 15 12 7 11 1 6 0 9 2 13 3 8 
+Path found with steps: L L D R R U R U L L L D R R U L U L D D R D R U R D L U U L D D R U U L U R D L U L D R D R U R D D L L U R D R 
+Max search depth reached for puzzle 109: 56
+Time taken 95 ms
+Nodes expanded 164681
+
+
+Solving puzzle 110: 14 3 12 7 6 9 8 2 15 4 1 13 11 5 0 10 
+Path found with steps: R U U L U L D D R R U L L L U R R D L D R R U U L L D D D R R U L D L L U U U R D D R D L L U R R D L L U U R R R D D 
+Max search depth reached for puzzle 110: 59
+Time taken 17639 ms
+Nodes expanded 27983876
+
+
+Solving puzzle 111: 11 8 14 4 7 6 3 1 5 15 2 13 0 10 9 12 
+Path found with steps: R U R R U L U L L D D R R U U R D L U L L D D R D R U R U L D L U R U L D L U R D D D L U R D R U U U R D D D 
+Max search depth reached for puzzle 111: 55
+Time taken 6542 ms
+Nodes expanded 10582149
+
+
+Solving puzzle 112: 2 9 7 5 1 12 14 10 8 4 15 3 11 6 13 0 
+Path found with steps: U L L U R D L L D R R U R D L U L L D R U U R R D L U L U R R D L U L L D R R U R D D D L L U L U R D R D R 
+Max search depth reached for puzzle 112: 54
+Time taken 331 ms
+Nodes expanded 472201
+
+
+Solving puzzle 113: 5 9 10 6 1 2 11 3 0 12 15 8 7 14 4 13 
+Path found with steps: R R D R U L L D R U U L U L D D D R U L U R U R R D D D L U L L U R U R D D L U U R R D D L D R 
+Max search depth reached for puzzle 113: 48
+Time taken 1 ms
+Nodes expanded 2086
+
+
+Solving puzzle 114: 8 12 13 5 7 15 9 4 10 2 3 1 11 0 6 14 
+Path found with steps: L U R R U L U R R D L L L U R D D D R U R U L D L U U R D L L U R R D L D L U U R D D D R R U U L U L D D D L U R D R R 
+Max search depth reached for puzzle 114: 60
+Time taken 121 ms
+Nodes expanded 205328
+
+
+Solving puzzle 115: 14 10 1 6 8 0 12 2 7 4 15 5 3 13 9 11 
+Path found with steps: D L D R R U U L L U R R R D L L L U R R R D L L D D R U U L D L U R D R R D L L U R U L D L U R U R D D R D 
+Max search depth reached for puzzle 115: 54
+Time taken 1544 ms
+Nodes expanded 2537571
+
+
+Solving puzzle 116: 1 11 12 13 2 5 4 6 0 7 15 14 3 8 9 10 
+Path found with steps: R U L D R D R R U U U L D R D L U R U L L D R U L D D R U L L D R D L U R D R R U U L L D R U L U R D D L D R R 
+Max search depth reached for puzzle 116: 56
+Time taken 3008 ms
+Nodes expanded 4836762
+
+
+Solving puzzle 117: 2 4 13 3 8 9 10 15 1 0 5 12 6 14 11 7 
+Path found with steps: U L D D R U R R D L U U L U R D L U L D R D L U R D R R U L U R D L D L D L U R R R D L U R D 
+Max search depth reached for puzzle 117: 47
+Time taken 873 ms
+Nodes expanded 1349077
+
+
+Solving puzzle 118: 10 4 0 11 8 5 6 15 1 14 13 9 7 12 3 2 
+Path found with steps: L L D D R R R D L L L U R R R U U L L L D R U R D D D R U L D L L U R U U R D D L U U R D D D R U U L D R D 
+Max search depth reached for puzzle 118: 54
+Time taken 10 ms
+Nodes expanded 11042
+
+
+Solving puzzle 119: 8 10 1 14 5 13 11 9 4 15 12 0 2 7 6 3 
+Path found with steps: D L L U L D R R U L U U L D D R U U R D D R U U L D D R U U L D L L U R D D R R D L L L U R R R U L D D L U U R D R D 
+Max search depth reached for puzzle 119: 60
+Time taken 5699 ms
+Nodes expanded 9178074
+
+
+Solving puzzle 120: 7 0 2 15 11 14 9 3 4 5 1 13 10 6 12 8 
+Path found with steps: L D R D L U R R U L L D R D R R U U L L D R R D D L U U U L D D D R U L L D R U R U R U L L D D L U U R R D R D D 
+Max search depth reached for puzzle 120: 57
+Time taken 81 ms
+Nodes expanded 140209
+
+
+Solving puzzle 121: 5 9 12 13 8 11 0 15 2 1 14 6 10 4 3 7 
+Path found with steps: L L U R D D D R U R U L U R D L U L D R D L U L D R U L U R D D D L U U R R D L D R R U U U L D D D R U U U L D D R D 
+Max search depth reached for puzzle 121: 59
+Time taken 868 ms
+Nodes expanded 1426218
+
+
+Solving puzzle 122: 3 8 11 1 2 6 10 9 7 12 4 13 14 0 15 5 
+Path found with steps: R R U U L U R D L U L L D R R D L D R R U L L L U R D D R R U U U L D R U L L L D D R D R U U L L D R D L U R R R D 
+Max search depth reached for puzzle 122: 58
+Time taken 2093 ms
+Nodes expanded 3329121
+
+
+Solving puzzle 123: 0 2 12 15 14 6 1 11 7 8 5 3 4 9 10 13 
+Path found with steps: R D R D L L D R R U L L U R R D L U R D R U U L D D D R U U U L D D D L L U R R D R U U L L U L D D R D L U R R D R 
+Max search depth reached for puzzle 123: 58
+Time taken 1095 ms
+Nodes expanded 1782778
+
+
+Solving puzzle 124: 1 11 4 8 6 15 3 5 12 10 14 0 9 13 2 7 
+Path found with steps: D L U L U R R D D L U R U U L L D R D L L U R R U R D D L L L D R R R U L U R U L L D D D R R 
+Max search depth reached for puzzle 124: 47
+Time taken 3633 ms
+Nodes expanded 5850742
+
+
+Solving puzzle 125: 5 3 0 7 8 1 6 12 11 10 14 4 15 9 2 13 
+Path found with steps: L D D R R U U L D D D R U U L D L L D R R U L L U U R R D D L L D R R U L U U R R D D L U R D D 
+Max search depth reached for puzzle 125: 48
+Time taken 58 ms
+Nodes expanded 106823
+
+
+Solving puzzle 126: 6 0 7 9 10 8 5 12 4 14 11 2 1 13 3 15 
+Path found with steps: D L D D R U U R D D L U U R D R U U L L L D D R U U L D R R R U L L D R D L U R R U L L D L D R D R R 
+Max search depth reached for puzzle 126: 51
+Time taken 239 ms
+Nodes expanded 415489
+
+
+Solving puzzle 127: 11 15 4 8 13 7 3 0 14 6 12 2 5 1 10 9 
+Path found with steps: L L D D L U U R D D L U U R U L D D R U R R D L L U R R D L D R U U U L L D R U L D D R D L U R U L L D R D R R 
+Max search depth reached for puzzle 127: 56
+Time taken 20310 ms
+Nodes expanded 32432734
+
+
+Solving puzzle 128: 1 9 6 2 14 10 12 13 3 7 5 0 11 4 15 8 
+Path found with steps: D L L U L U R D R U R D L U L D R D L L U R U U R R D L D D L L U U R D L U R U R D R U L D D D R 
+Max search depth reached for puzzle 128: 49
+Time taken 29 ms
+Nodes expanded 51284
+
+
+Solving puzzle 129: 0 3 12 2 14 10 4 15 1 13 9 5 11 7 6 8 
+Path found with steps: R D L D R R R U L U R D L D D L L U R U R U L L D R R U L D R D R D L U R D L L U U R D R U L D D R 
+Max search depth reached for puzzle 129: 50
+Time taken 5 ms
+Nodes expanded 8623
+
+
+Solving puzzle 130: 1 4 7 5 11 0 3 15 12 10 13 6 14 9 2 8 
+Path found with steps: D L D R U R D L U L D R U U R D R U U L L D R R U L L D L D R U R D L L U R R D R D L U U R D D 
+Max search depth reached for puzzle 130: 49
+Time taken 929 ms
+Nodes expanded 1345721
+
+
+Solving puzzle 131: 12 11 6 8 1 15 3 4 9 13 0 14 5 7 10 2 
+Path found with steps: R D L L U U U R D R D L D R U L L U U L D R U R D R D L L U R D L L D R R R U L U R U L L D L D R D R R 
+Max search depth reached for puzzle 131: 52
+Time taken 908 ms
+Nodes expanded 1549781
+
+
+Solving puzzle 132: 8 1 10 7 0 13 14 5 11 6 12 2 9 15 3 4 
+Path found with steps: R R R D D L U L L U U R D R D L L U R U R D R D D L L U L D R R U L U U R D R D L D L U U U R R D L U R D D D 
+Max search depth reached for puzzle 132: 55
+Time taken 1406 ms
+Nodes expanded 2230739
+
+
+Solving puzzle 133: 3 5 7 6 9 12 8 4 13 11 2 0 1 14 15 10 
+Path found with steps: D L L L U U U R R R D L D L D R U R U L L D R U U L D L U R D R R D L L U R U L D D R D R 
+Max search depth reached for puzzle 133: 45
+Time taken 683 ms
+Nodes expanded 1158014
+
+
+Solving puzzle 134: 12 7 0 3 10 13 2 11 5 6 1 9 8 4 15 14 
+Path found with steps: L L D D R U U R D L U L D D R R R D L L L U R R R U L L U L D D R R D L U U U L D R R D R U L D D R U L U L U R R D D D 
+Max search depth reached for puzzle 134: 60
+Time taken 438 ms
+Nodes expanded 716601
+
+
+Solving puzzle 135: 4 5 15 9 14 11 6 7 0 12 13 3 8 10 1 2 
+Path found with steps: R R U L U R R D L D D L L U U R U R D D D L L U R U U L D R R R D D L L U R R D L L L U R R U U L D D L U U R D R R U L D R D D 
+Max search depth reached for puzzle 135: 64
+Time taken 29576 ms
+Nodes expanded 46142917
+
+
+Solving puzzle 136: 2 15 4 14 7 9 5 11 13 0 3 6 1 8 10 12 
+Path found with steps: D L U U R R D L L U R R R D L U R U L L D R R D L U U L D D D R U U L D L U R U L D D R D R U R D 
+Max search depth reached for puzzle 136: 49
+Time taken 77 ms
+Nodes expanded 122041
+
+
+Solving puzzle 137: 7 5 9 12 1 13 6 3 2 14 0 8 10 15 4 11 
+Path found with steps: U U R D D L D L U U U L D D R U R U R D L D R D L L L U R U U R D L L D R R R U U L L D D D R R 
+Max search depth reached for puzzle 137: 48
+Time taken 1478 ms
+Nodes expanded 2464193
+
+
+Solving puzzle 138: 10 2 8 12 15 4 5 7 0 9 13 3 14 6 1 11 
+Path found with steps: R R D L L U U U R D R D D L U L U R R D L L U R R R D L U R U L L L D D D R R R U U U L D D D R 
+Max search depth reached for puzzle 138: 49
+Time taken 888 ms
+Nodes expanded 1381127
+
+
+Solving puzzle 139: 12 0 3 14 11 2 5 7 1 9 15 4 8 6 13 10 
+Path found with steps: D L D R U R R U L L L D R R R D L L D L U R D R R U L U L U R R D L L D L D R R U R U L L D R R U L D L D R R 
+Max search depth reached for puzzle 139: 55
+Time taken 3 ms
+Nodes expanded 5332
+
+
+Solving puzzle 140: 11 12 14 8 6 3 15 7 5 9 10 0 2 4 13 1 
+Path found with steps: L L D R U U U L L D R D L D R R R U L D R U U L U L D L D R R U R D L U U L D D D R U U R U L L L D R U L D D R D R R 
+Max search depth reached for puzzle 140: 59
+Time taken 6432 ms
+Nodes expanded 10009490
+
+
+Solving puzzle 141: 9 15 12 2 14 10 5 0 6 11 8 7 3 4 13 1 
+Path found with steps: L U R D D L U L U R R D D L L D R R U L L U L D D R U U R D D L U L U U R R D L D R U L D L U R U L D R D R R U U L D R D D 
+Max search depth reached for puzzle 141: 62
+Time taken 11521 ms
+Nodes expanded 17442811
+
+
+Solving puzzle 142: 4 6 11 15 14 8 12 1 10 9 0 7 3 13 2 5 
+Path found with steps: L L D R U R U R U L L D L D R U R D D R U U L D D L U R D R U U U L L L D R D R D R U U U L L L D R R R U L L D R D R D 
+Max search depth reached for puzzle 142: 60
+Time taken 8618 ms
+Nodes expanded 13857079
+
+
+Solving puzzle 143: 12 7 6 10 0 14 2 8 13 1 5 4 3 9 11 15 
+Path found with steps: R R R U L L D D L D R U L U R D L U U R D L D D R U R R U L D R U L L D R U U R D L U L L D R R R D L D R 
+Max search depth reached for puzzle 143: 53
+Time taken 200 ms
+Nodes expanded 305009
+
+
+Solving puzzle 144: 12 1 5 6 13 3 4 15 0 14 2 11 8 7 9 10 
+Path found with steps: R D L U U R U L D R D D R R U U L U L D R U R D L U L L D R R D L U R D D R U U L U L D D D L U R R D R 
+Max search depth reached for puzzle 144: 52
+Time taken 180 ms
+Nodes expanded 302421
+
+
+Solving puzzle 145: 3 1 12 8 14 0 4 7 2 15 13 11 9 10 5 6 
+Path found with steps: L D D R R U L D L U R D R R U L D R U U L U R D L D L U U L D R R U L L D D D R U R R U L D D R 
+Max search depth reached for puzzle 145: 48
+Time taken 423 ms
+Nodes expanded 755601
+
+
+Solving puzzle 146: 14 8 6 9 15 13 4 1 11 10 2 0 5 12 3 7 
+Path found with steps: L D L U U U R D R D D L L U U R R U L D D L L U R U L D R U R D R D L L L D R U U R R D L L U L D R R D L U R R D 
+Max search depth reached for puzzle 146: 57
+Time taken 42 ms
+Nodes expanded 71690
+
+
+Solving puzzle 147: 7 14 6 10 5 12 9 1 4 11 15 3 2 0 8 13 
+Path found with steps: U U R R D L L L D R R R U L L U U L D D R D R R U L L U R U R D D L U U L D L D D R U L U R R D L U L U R D R U R D D D 
+Max search depth reached for puzzle 147: 60
+Time taken 1233 ms
+Nodes expanded 2000308
+
+
+Solving puzzle 148: 10 0 8 2 3 1 6 13 11 12 15 14 4 5 7 9 
+Path found with steps: L D R R D D R U U L D R U U L L L D D D R R U L L U R D L D R R R U L U L U R D R U L D L U R D D L U L D D R R R 
+Max search depth reached for puzzle 148: 57
+Time taken 1094 ms
+Nodes expanded 1816997
+
+
+Solving puzzle 149: 11 7 6 12 15 9 1 14 10 0 2 13 4 8 5 3 
+Path found with steps: L U R R U L D R D D L L U U U R D D D L U U R D R R U U L D L D R R D L L U L U R U R D R D D L U U R U L D R D L L L D R R R 
+Max search depth reached for puzzle 149: 63
+Time taken 8834 ms
+Nodes expanded 13869867
+
+
+Solving puzzle 150: 15 10 3 11 9 1 5 14 13 2 4 8 7 0 6 12 
+Path found with steps: L U U R R R U L L L D R R D R U L L D R U L U R D L D D R U U L U R R D L L D D R U U L D R R D 
+Max search depth reached for puzzle 150: 48
+Time taken 3 ms
+Nodes expanded 6499
+
+
+Solving puzzle 151: 13 4 11 7 2 12 5 6 10 8 3 15 1 14 0 9 
+Path found with steps: R U L L L D R R U U U L L D D R R U L U L D R D R U R D L D R U L L L U R D D L U R U R R U L D R D D 
+Max search depth reached for puzzle 151: 51
+Time taken 102 ms
+Nodes expanded 180439
+
+
+Solving puzzle 152: 11 2 10 4 13 9 1 3 14 7 6 8 15 0 5 12 
+Path found with steps: L U U R R U L D R R D L D L L U U U R R D D L U L D R U R D R U L D L L U R R R D D 
+Max search depth reached for puzzle 152: 42
+Time taken 71 ms
+Nodes expanded 129550
+
+
+Solving puzzle 153: 10 4 3 12 5 6 11 8 7 0 2 15 1 14 9 13 
+Path found with steps: R U R U L D L D D R R U U U L L L D R D L D R R U L U U L D D D R U U U L D R R R U L D D D R 
+Max search depth reached for puzzle 153: 47
+Time taken 54 ms
+Nodes expanded 68037
+
+
+Solving puzzle 154: 3 7 14 8 0 2 10 6 12 1 4 13 11 9 15 5 
+Path found with steps: R R D R U L U R D D D L U U U L L D R D L D R R U U R D L L L U R R R D L L L D R U U R U L L D R D D R R 
+Max search depth reached for puzzle 154: 53
+Time taken 846 ms
+Nodes expanded 1452767
+
+
+Solving puzzle 155: 3 6 13 9 4 10 14 8 15 11 7 2 5 0 12 1 
+Path found with steps: U U L U R D R U R D D L U R D D L U L D R U R U L D L L D R U U R U L D L U R D R R D L D L U U R R U L L D L D R R R D 
+Max search depth reached for puzzle 155: 60
+Time taken 10333 ms
+Nodes expanded 16557261
+
+
+Solving puzzle 156: 0 4 5 13 2 1 14 12 3 11 9 6 8 7 10 15 
+Path found with steps: D R D L D R R U U L D L D R R U U U L D R R U L L L D R D L D R R U R U L L D R R U L L D R D L U L D R R R 
+Max search depth reached for puzzle 156: 54
+Time taken 98 ms
+Nodes expanded 173176
+
+
+Solving puzzle 157: 14 6 10 15 1 2 4 3 7 9 5 12 13 11 8 0 
+Path found with steps: U U L L D R U U R D L U L L D R D L U R R D L U U R D R D L D L U U R R D L D L U U U R D R D D 
+Max search depth reached for puzzle 157: 48
+Time taken 127 ms
+Nodes expanded 213739
+
+
+Solving puzzle 158: 15 7 13 0 8 11 14 6 9 2 5 1 4 10 12 3 
+Path found with steps: D L D L L D R U L U U R R D R D L U R D D L U L L U U R R D L L U R R R D D L L L U U R R R D D L L D L U R D R U U L U R R D D D 
+Max search depth reached for puzzle 158: 65
+Time taken 8258 ms
+Nodes expanded 13089272
+
+
+Solving puzzle 159: 12 11 0 1 6 10 15 9 13 4 14 3 5 7 2 8 
+Path found with steps: R D D L L L D R U U U L D D D R U U U R R D L D D R U U L D D R U L L L U U R R D L D R U L U R R D D L L U L D R D R R 
+Max search depth reached for puzzle 159: 60
+Time taken 558 ms
+Nodes expanded 896378
+
+
+Solving puzzle 160: 15 10 1 11 6 7 12 8 5 3 0 13 9 14 4 2 
+Path found with steps: U R D L D R U U L D R U L L U R R D L L D L U U R D L D R R D L U R U L D R U U L D L D D R R U U R D D 
+Max search depth reached for puzzle 160: 53
+Time taken 1750 ms
+Nodes expanded 2809343
+
+
+Solving puzzle 161: 2 14 11 15 10 6 7 8 12 0 4 5 13 1 3 9 
+Path found with steps: L U R R R U L D D L D R R U U U L D L D D R R U L L L U R R D L D R R U U U L D L U L D D R D L U R U L D D R U R R D 
+Max search depth reached for puzzle 161: 59
+Time taken 23745 ms
+Nodes expanded 37552084
+
+
+Solving puzzle 162: 7 10 9 15 12 3 2 1 8 4 13 14 5 0 6 11 
+Path found with steps: R U L D R R U L U L L D R U U R D R U L D D L U L U R R D R D L U L L U R R R D D L D R U U L L L D D R U U L D R D R R 
+Max search depth reached for puzzle 162: 60
+Time taken 531 ms
+Nodes expanded 827600
+
+
+Solving puzzle 163: 5 3 4 10 13 6 7 11 8 15 14 2 12 1 9 0 
+Path found with steps: L U L D R U R U L L D R D R U U U L L D D L D R R U L L U U R D R R D L L D R U U R D D L L L U R R R D 
+Max search depth reached for puzzle 163: 52
+Time taken 1222 ms
+Nodes expanded 2006476
+
+
+Solving puzzle 164: 2 9 10 11 3 12 13 15 4 8 7 6 14 1 5 0 
+Path found with steps: U L L D R U U L L D R R R U L L L D R R U L U R D D D R U U U L D D D R U U L D L D L U R U U L D D R U R D R D 
+Max search depth reached for puzzle 164: 56
+Time taken 263 ms
+Nodes expanded 448756
+
+
+Solving puzzle 165: 11 2 1 12 8 3 5 9 14 4 6 15 10 13 7 0 
+Path found with steps: U L L L D R U U R U L D L U R D R R U L L D R D R U L U R D L D L L U R R D D L U L U U R R D D L D R R 
+Max search depth reached for puzzle 165: 52
+Time taken 244 ms
+Nodes expanded 433906
+
+
+Solving puzzle 166: 11 5 1 0 15 7 6 10 12 9 8 13 3 4 14 2 
+Path found with steps: D L D R D L L U L U U R R R D D D L U L L D R R U R D L U L L U U R D D L D R R U U U L D R R D L L U R U R D L U L D R R D D 
+Max search depth reached for puzzle 166: 63
+Time taken 1740 ms
+Nodes expanded 2701456
+
+
+Solving puzzle 167: 3 6 11 13 12 8 7 15 9 4 5 14 10 0 1 2 
+Path found with steps: R R U U L L U R R D L U L D D D L U R R U L L D R R D L U U U L D D D R R R U U L D L U R U R D D L U U L D D D R R 
+Max search depth reached for puzzle 167: 58
+Time taken 9729 ms
+Nodes expanded 15131210
+
+
+Solving puzzle 168: 2 12 14 1 0 10 13 3 9 11 5 6 15 4 7 8 
+Path found with steps: R R D D L L U R U U R D D D L U L D R U U U R R D D L L U L U R R D R D D L L U U L U R D R U R D D L D R 
+Max search depth reached for puzzle 168: 53
+Time taken 79 ms
+Nodes expanded 137403
+
+
+Solving puzzle 169: 6 3 12 0 4 10 2 11 7 14 9 1 13 15 8 5 
+Path found with steps: L L L D R R D D L U L U R R D R U U L D D R D L U R U U L L L D R R D L L U R R U L L D R R R U L D D D R 
+Max search depth reached for puzzle 169: 53
+Time taken 2184 ms
+Nodes expanded 3557257
+
+
+Solving puzzle 170: 7 8 6 0 10 2 4 15 11 14 1 9 5 3 12 13 
+Path found with steps: L L D D R D R U U L L D D R R U L U U R D L U L D L U R D D L D R R U L D R U U L L D R U U R D D L U R D D R 
+Max search depth reached for puzzle 170: 55
+Time taken 28 ms
+Nodes expanded 47737
+
+
+Solving puzzle 171: 1 0 2 8 13 14 6 15 9 4 11 10 7 5 3 12 
+Path found with steps: D D L U R D D L U R U L D R R U L U R D D D L U U R D D R U U U L D D R D L U R D L L U R D R 
+Max search depth reached for puzzle 171: 47
+Time taken 269 ms
+Nodes expanded 458903
+
+
+Solving puzzle 172: 2 8 14 15 3 1 10 7 11 0 12 13 6 5 4 9 
+Path found with steps: L U R R U L D R R U L D D D R U U L D L L D R R R U L L U U R D D L U U L D D D R R U R U U L D L L D D R R R 
+Max search depth reached for puzzle 172: 55
+Time taken 177 ms
+Nodes expanded 317245
+
+
+Solving puzzle 173: 1 7 2 5 14 3 10 11 6 12 4 8 15 0 9 13 
+Path found with steps: R R U L L D R U U R D D L U U U L D R U R D L U L D D L U R R R D L L D L U R R D L L U U R D R R D 
+Max search depth reached for puzzle 173: 50
+Time taken 193 ms
+Nodes expanded 337305
+
+
+Solving puzzle 174: 2 11 3 10 7 13 14 1 12 0 15 8 6 5 9 4 
+Path found with steps: L D R R U U R D D L U L L U R R R D L L L U R U R R D L L D L D R U R U U L L D D D R R U U L D R D R 
+Max search depth reached for puzzle 174: 51
+Time taken 61 ms
+Nodes expanded 107935
+
+
+Solving puzzle 175: 1 14 4 7 9 13 15 5 0 11 6 12 10 2 3 8 
+Path found with steps: R U R R U L D D D L U L D R U U U R D D D R U U L D D L U U U R D R D L D L U L U R U R D R D D 
+Max search depth reached for puzzle 175: 48
+Time taken 57 ms
+Nodes expanded 103450
+
+
+Solving puzzle 176: 3 5 6 10 2 7 15 11 13 1 12 14 9 0 4 8 
+Path found with steps: L U R R R D L U L D R U U R D D L U U R U L D R D L U U R D L L U L D D R R U U L L D R R D R D 
+Max search depth reached for puzzle 176: 48
+Time taken 7 ms
+Nodes expanded 13678
+
+
+Solving puzzle 177: 14 15 12 4 3 10 6 5 8 2 13 9 1 0 7 11 
+Path found with steps: L U R R R U L L L U R D L D R D L U R R U U L L D D R R R U L L U L D D R U R D D L U U R D R U L D D R U L D L U L U R R R D D 
+Max search depth reached for puzzle 177: 64
+Time taken 49 ms
+Nodes expanded 78129
+
+
+Solving puzzle 178: 1 14 12 8 4 13 3 11 9 6 10 5 15 7 2 0 
+Path found with steps: L L L U R U L U R D R D R D L L U R U U L L D D R R R U L D R D L U R U U L D L U R D D L U L D D R U R D R 
+Max search depth reached for puzzle 178: 54
+Time taken 2078 ms
+Nodes expanded 3426294
+
+
+Solving puzzle 179: 13 5 6 15 3 4 1 14 8 7 11 12 9 0 2 10 
+Path found with steps: L U U U R D R R D L U U L D D L U U R D D D L U R R D L U R U R U L L D D R D R U U L D D R U U L U L D D R D R 
+Max search depth reached for puzzle 179: 56
+Time taken 238 ms
+Nodes expanded 359173
+
+
+Solving puzzle 180: 10 12 13 4 0 5 1 3 14 2 8 6 7 11 15 9 
+Path found with steps: R U R D R D L L U U R D D L U R R D L D L L U U U R D L D R R D R U L L D R U L D L U R U R D R D 
+Max search depth reached for puzzle 180: 49
+Time taken 260 ms
+Nodes expanded 463542
+
+
+Solving puzzle 181: 3 0 4 7 2 6 15 9 10 1 8 11 5 13 12 14 
+Path found with steps: L D R D R U R D L D R U L L L U R R R U L L L D D D R R R U L L U L D R R U R D D 
+Max search depth reached for puzzle 181: 41
+Time taken 18 ms
+Nodes expanded 33212
+
+
+Solving puzzle 182: 2 12 0 8 9 3 5 11 1 7 6 14 13 4 10 15 
+Path found with steps: L D L D R R R U U L L L D R D D R U L U R D L L U R U R D R U L L D D R R U L L D D R R 
+Max search depth reached for puzzle 182: 44
+Time taken 150 ms
+Nodes expanded 268901
+
+
+Solving puzzle 183: 7 12 13 10 2 8 4 3 11 15 0 1 14 9 5 6 
+Path found with steps: L L D R R U L U R U L D R R D D L U L D L U R U R R U L L D R D R U U L L L D R U L D D R R R U L L D D L U R R D R 
+Max search depth reached for puzzle 183: 58
+Time taken 12948 ms
+Nodes expanded 20983543
+
+
+Solving puzzle 184: 3 5 1 12 15 8 0 7 14 6 9 13 2 4 11 10 
+Path found with steps: L L U R R D L L U R D D D L U U R D D R U R U L L D R R U U L D D D R U U U L L D L D R R D L L U R R D R 
+Max search depth reached for puzzle 184: 53
+Time taken 120 ms
+Nodes expanded 211323
+
+
+Solving puzzle 185: 7 0 10 5 1 14 13 4 3 9 12 2 11 6 8 15 
+Path found with steps: L D R R U R D D L L L U R D R U U L D D R D R U L L D L U U R R R D D L L L U U R R U L D D R D R 
+Max search depth reached for puzzle 185: 49
+Time taken 8 ms
+Nodes expanded 13732
+
+
+Solving puzzle 186: 2 12 9 11 5 4 0 7 13 14 15 6 8 1 10 3 
+Path found with steps: L U R D L U L D D R D L U U R D R D L U R U R D D L U U R U L L D R R D L U R D D L L L U U U R R D R D D 
+Max search depth reached for puzzle 186: 53
+Time taken 4541 ms
+Nodes expanded 7394413
+
+
+Solving puzzle 187: 5 7 11 10 1 3 8 15 9 0 2 14 13 4 6 12 
+Path found with steps: R R U L L L D R D R U R U L U L D D L U U R D D D R U U U L D R R U L D R D L U L D R R D 
+Max search depth reached for puzzle 187: 45
+Time taken 40 ms
+Nodes expanded 71880
+
+
+Solving puzzle 188: 15 14 2 1 4 9 8 6 5 10 0 13 11 3 7 12 
+Path found with steps: L U L D R R R U L L D R R U L U L L D D R D L U U R U R R D D L L U U R D D D L U U L U R R D D R U L D D L U U R R D D 
+Max search depth reached for puzzle 188: 60
+Time taken 611 ms
+Nodes expanded 1000060
+
+
+Solving puzzle 189: 8 3 4 15 7 0 13 10 9 11 12 5 14 1 2 6 
+Path found with steps: R R U L L L D R U R D D L D R U R U L L D D R R U U L U L D D L U U R D D R D L L U R U L D R R U L D R D R 
+Max search depth reached for puzzle 189: 54
+Time taken 358 ms
+Nodes expanded 643972
+
+
+Solving puzzle 190: 4 15 1 2 6 0 10 13 5 3 14 8 11 9 7 12 
+Path found with steps: U R D R D L U L L U R D L D D R R U U L D D R U R U L L U R R D D D L U L L U R U R D D L U L D D R R R 
+Max search depth reached for puzzle 190: 52
+Time taken 448 ms
+Nodes expanded 763738
+
+
+Solving puzzle 191: 7 9 14 13 8 6 3 10 0 5 15 11 1 4 2 12 
+Path found with steps: R R D L U L D R U U L U R R R D L L U R R D L D L U U L D D R D L U R U U L D D R U R U L D R D D L L U R U R D R U L U R D D D 
+Max search depth reached for puzzle 191: 64
+Time taken 2770 ms
+Nodes expanded 4324163
+
+
+Solving puzzle 192: 8 5 7 13 11 2 12 3 15 1 9 6 14 0 10 4 
+Path found with steps: L U R R R D L U U L L D R U U L D R R U R D D L U U L D R U R D L D L U L D R D R R U L L D L U U R D R D L U R R D 
+Max search depth reached for puzzle 192: 58
+Time taken 1729 ms
+Nodes expanded 2803754
+
+
+Solving puzzle 193: 11 14 10 0 7 3 5 6 13 15 9 2 8 1 12 4 
+Path found with steps: L L D R U L L D D R D L U U R D R U R U L D R D D L L L U U R U L D D R R D L U U R R D L L U R U L D R U R D D D 
+Max search depth reached for puzzle 193: 58
+Time taken 380 ms
+Nodes expanded 624044
+
+
+Solving puzzle 194: 3 7 10 0 4 1 14 2 15 8 5 6 11 9 13 12 
+Path found with steps: L L L D R R D L U R R U L L L D R R D L L D R R U L L D R R U R U L U L D D R R U U L D L D R U R D D 
+Max search depth reached for puzzle 194: 52
+Time taken 222 ms
+Nodes expanded 378688
+
+
+Solving puzzle 195: 13 7 5 1 11 10 6 0 9 12 14 15 8 3 2 4 
+Path found with steps: L D D L L U U R R D D L U U U R R D L D R D L L U L U U R R R D L L L U R R R D D D L U L U U R R D D D L L U L D R R R 
+Max search depth reached for puzzle 195: 60
+Time taken 388 ms
+Nodes expanded 581459
+
+
+Solving puzzle 196: 2 3 15 11 9 5 13 4 10 7 1 12 0 6 8 14 
+Path found with steps: R U R U L D R D L L U R R D R U L L D L U U R R U R D D L U U L L D R D D R U U R D D 
+Max search depth reached for puzzle 196: 44
+Time taken 36 ms
+Nodes expanded 65001
+
+
+Solving puzzle 197: 6 9 15 11 12 8 7 14 3 2 4 10 0 1 5 13 
+Path found with steps: U R D R R U U U L D D R U U L D L L D D R R R U U L L U L D D R U L D D R R U U L U L D D R D R R U U U L D R D L D R 
+Max search depth reached for puzzle 197: 59
+Time taken 24 ms
+Nodes expanded 41366
+
+
+Solving puzzle 198: 0 10 7 13 6 14 2 8 12 11 9 15 1 4 5 3 
+Path found with steps: D R R U R D L U L D R D D L U U R D D L U L D R U U L D R U R U L L D R R D R D L L U U U R D R D D L U U R U L D D R D 
+Max search depth reached for puzzle 198: 60
+Time taken 420 ms
+Nodes expanded 722829
+
+
+Solving puzzle 199: 11 0 5 3 8 7 9 1 12 14 6 10 4 2 13 15 
+Path found with steps: R D R D L L D R U L L U U R R D L U R D D L L U R R R D L L L D R R R U L L L U U R D R R D L L U R D R U L U R D D D 
+Max search depth reached for puzzle 199: 59
+Time taken 218 ms
+Nodes expanded 359637
+
+
+Solving puzzle 200: 12 14 7 15 13 9 5 4 2 1 11 8 10 6 3 0 
+Path found with steps: L U U L L D R R U U L L D D R U R U R D D D L U U U L L D D R D R U U U R D D L U R U L D L D D L U R D R R U L D R 
+Max search depth reached for puzzle 200: 58
+Time taken 6547 ms
+Nodes expanded 10767650
+
+
+Solving puzzle 201: 5 2 4 15 1 8 6 14 0 11 10 9 13 3 7 12 
+Path found with steps: R R R U U L D L L D R R R D L U R U L U L D D D R R U L L L U R R D D L U L U U R R D D L D R R 
+Max search depth reached for puzzle 201: 48
+Time taken 58 ms
+Nodes expanded 103394
+
+
+Solving puzzle 202: 2 5 9 3 4 7 15 14 0 12 6 1 8 11 13 10 
+Path found with steps: D R R U R U L L L U R R D L U L D R D L D R R R U U L D L D R R U L L U R D L L U R U L D R R U R D D L L D R R 
+Max search depth reached for puzzle 202: 56
+Time taken 549 ms
+Nodes expanded 926482
+
+
+Solving puzzle 203: 6 15 9 5 4 7 14 3 2 13 8 0 10 11 12 1 
+Path found with steps: L U L U R R D D D L L U U L U R R D L L D D R U R R U L D D L U U L U R D R U L D D L U U R R R D D D 
+Max search depth reached for puzzle 203: 51
+Time taken 112 ms
+Nodes expanded 156383
+
+
+Solving puzzle 204: 5 14 15 8 4 10 0 13 9 7 3 12 2 1 11 6 
+Path found with steps: R D D L U U U L L D R D D R U U L D D L U U R U L D R D D R U R U L U L D D R U R D D L U R U U L L D D L D R R R 
+Max search depth reached for puzzle 204: 57
+Time taken 5686 ms
+Nodes expanded 9382668
+
+
+Solving puzzle 205: 1 6 10 9 7 14 4 5 3 13 8 0 12 11 15 2 
+Path found with steps: U U L D R D D L L U U L D D R U L U R R R D L L L U R R R U L D R D L L L U R R D L U U R D D D R 
+Max search depth reached for puzzle 205: 50
+Time taken 63 ms
+Nodes expanded 114331
+
+
+Solving puzzle 206: 13 4 5 14 9 8 10 11 7 1 6 3 2 0 12 15 
+Path found with steps: R U U L D D R U U L U R D L L U R R D R D L L L U R R R U L D R D L U L D D L U R D R U U L D L U U R D D D R R 
+Max search depth reached for puzzle 206: 56
+Time taken 4116 ms
+Nodes expanded 6790848
+
+
+Solving puzzle 207: 2 8 10 4 14 11 7 12 9 6 15 1 3 0 13 5 
+Path found with steps: R U R U L L L D D R R R U U L D L U R D D L U L U R D R U U L D D R U U L L D R D R R U L D R D 
+Max search depth reached for puzzle 207: 48
+Time taken 757 ms
+Nodes expanded 1195592
+
+
+Solving puzzle 208: 15 8 0 5 4 3 14 13 11 10 1 2 12 9 6 7 
+Path found with steps: L L D R R R U L L L D R R D D L L U U R R R D L D L L U U R R U L L D R D R U R D D L U R D L L L U R U R R U L L D R D D R 
+Max search depth reached for puzzle 208: 62
+Time taken 782 ms
+Nodes expanded 1292589
+
+
+Solving puzzle 209: 13 15 8 5 0 9 4 2 12 10 11 3 7 6 1 14 
+Path found with steps: R U R R D D L L L D R R U L U U R R D D L L D R R U U L L D L U U R D D L D R U L U U R R R D L L D D L U R D R U R D 
+Max search depth reached for puzzle 209: 59
+Time taken 1053 ms
+Nodes expanded 1702194
+
+
+Solving puzzle 210: 7 10 11 12 4 13 2 14 15 9 1 3 6 8 5 0 
+Path found with steps: L L U L D R U U L U R D R D R U U L L D R D D R U U U L L D L U R R D D D L U R D R U U L L L D R U L D D R R U R D 
+Max search depth reached for puzzle 210: 58
+Time taken 903 ms
+Nodes expanded 1457293
+
+
+Solving puzzle 211: 12 4 1 0 11 3 5 14 2 13 10 7 8 9 6 15 
+Path found with steps: L L L D R R R U L L L D R R U L L D D R R U R D L L D L U R U R D D L U R U U L D L U R D D R D R U L U R D D 
+Max search depth reached for puzzle 211: 55
+Time taken 37 ms
+Nodes expanded 63688
+
+
+Solving puzzle 212: 14 7 10 6 2 11 12 1 9 4 13 3 5 15 0 8 
+Path found with steps: U L U R R D L L D R U L U R U L L D R U R R D D D L U L L D R R U U U L L D D R U R U R D D D L L U R R D 
+Max search depth reached for puzzle 212: 53
+Time taken 402 ms
+Nodes expanded 688223
+
+
+Solving puzzle 213: 9 0 12 5 2 8 7 1 10 13 15 4 14 6 3 11 
+Path found with steps: R R D D L U L U R R D L L L D R R U L D D L U U U R R D L D R D R U U L D L L U U R R D R D L D R 
+Max search depth reached for puzzle 213: 49
+Time taken 30 ms
+Nodes expanded 54048
+
+
+Solving puzzle 214: 12 6 10 1 7 13 4 11 15 9 2 8 0 14 3 5 
+Path found with steps: R U R D R U U L U R D L D L L U R R D L L U U R R D L L U R R D L D D R U R D L U U R D L L D L U R R U L L D R R D R 
+Max search depth reached for puzzle 214: 59
+Time taken 2274 ms
+Nodes expanded 3504281
+
+
+Solving puzzle 215: 14 2 8 12 6 3 10 11 9 13 15 1 7 4 0 5 
+Path found with steps: U L D L U U U R D D R R D L L U R U L L D R U L D D R U R R U U L D D D L U U R D R U U L L L D R D D R R 
+Max search depth reached for puzzle 215: 53
+Time taken 1095 ms
+Nodes expanded 1809498
+
+
+Solving puzzle 216: 13 7 4 9 5 3 8 6 11 2 14 12 10 0 15 1 
+Path found with steps: R R U U L L D R D L U R R U L U R D L U L D L U R D D L U R R D L U U L D R R U R D D D L L L U R D R R 
+Max search depth reached for puzzle 216: 52
+Time taken 1906 ms
+Nodes expanded 3103811
+
+
+Solving puzzle 217: 6 9 4 1 10 12 8 13 7 3 14 2 0 5 11 15 
+Path found with steps: R R U U R D L L U R U R D L D L L U R U R R D D L L D L U U U R R D D L L D R U L D R U U L D R D R R 
+Max search depth reached for puzzle 217: 51
+Time taken 62 ms
+Nodes expanded 106921
+
+
+Solving puzzle 218: 11 5 15 8 4 10 3 2 14 7 6 12 0 9 1 13 
+Path found with steps: R U R D R U U L L U L D R D R U U L L D R D R U U L D D D R U U R D L L L D R U U R R U L D L L U R R D D R D 
+Max search depth reached for puzzle 218: 55
+Time taken 3859 ms
+Nodes expanded 6188093
+
+
+Solving puzzle 219: 9 13 2 14 8 1 15 6 11 5 4 0 3 12 7 10 
+Path found with steps: L U R U L L D L U R R D L U R D R D L L U R U R D L D D L U L D R U U R D D R U L D L U L U R D R U L U R D D D R 
+Max search depth reached for puzzle 219: 57
+Time taken 217 ms
+Nodes expanded 317555
+
+
+Solving puzzle 220: 6 7 1 8 15 10 13 3 11 14 0 4 2 12 5 9 
+Path found with steps: L U U R R D D L L D R U L L D R R R U L U U R D L L L D D R R U L U L U R D L D D R R R U L L L D R R U R D 
+Max search depth reached for puzzle 220: 54
+Time taken 536 ms
+Nodes expanded 945728
+
+
+Solving puzzle 221: 10 4 12 8 11 2 5 1 14 3 9 7 0 15 13 6 
+Path found with steps: U R U L D R U R D D L U R U U L L D R U L D D R R R D L L L U R R U R D L L U R R U L L D L U R D R D D R 
+Max search depth reached for puzzle 221: 53
+Time taken 3864 ms
+Nodes expanded 6384207
+
+
+Solving puzzle 222: 13 2 5 7 6 10 8 14 12 0 9 11 4 15 3 1 
+Path found with steps: L D R U L U R D R U L L U R R D D D R U U L D D L U R R U U L D L D L U R U L D R D D L U R R U R D D L L U R R D 
+Max search depth reached for puzzle 222: 57
+Time taken 1314 ms
+Nodes expanded 2176769
+
+
+Solving puzzle 223: 6 4 0 14 7 8 11 2 3 13 1 15 5 10 9 12 
+Path found with steps: L D L D R R R U L U L D D D R U R U U L D R U L L D L U R D R D L L D R U U R U L D L D D R U R R D 
+Max search depth reached for puzzle 223: 50
+Time taken 85 ms
+Nodes expanded 144312
+
+
+Solving puzzle 224: 12 8 4 5 11 10 9 6 1 13 7 2 15 3 0 14 
+Path found with steps: L U U L D D R U U R U L L D R R U R D L U L D R U R D L D R U L D D R U L L L U R R R D L L D R U U U L D R R U L D D R D 
+Max search depth reached for puzzle 224: 61
+Time taken 5029 ms
+Nodes expanded 7988321
+
+
+Solving puzzle 225: 4 3 12 2 14 15 8 13 10 0 1 11 9 5 7 6 
+Path found with steps: R R U U L D L D L U R D R R D L U L D R U U L D L D R R U R D L L U R U R U L L L D R R U L D D R R U U L D D D R 
+Max search depth reached for puzzle 225: 57
+Time taken 1194 ms
+Nodes expanded 2019974
+
+
+Solving puzzle 226: 15 12 8 9 6 5 13 10 0 7 1 3 2 11 14 4 
+Path found with steps: R R U U L D D R U R D D L L U L U U R D R U R D D L U U R D D L L U L D D R U U R D D R U L L U L D R U L U R D D D R U R D 
+Max search depth reached for puzzle 226: 62
+Time taken 921 ms
+Nodes expanded 1446533
+
+
+Solving puzzle 227: 4 14 2 11 6 5 3 9 10 12 13 0 15 7 8 1 
+Path found with steps: D L L U R R U L D D L L U R U R D R D L L L U U R U R D L U L D D R R U U L D R R U L D R D D L U U L L D R D R R 
+Max search depth reached for puzzle 227: 57
+Time taken 2318 ms
+Nodes expanded 3848233
+
+
+Solving puzzle 228: 14 1 12 6 8 7 13 11 2 3 10 9 5 15 4 0 
+Path found with steps: L L U R R D L U U R D L U U R D L L L U R R D L D D R U R U L L D R U U L D L D D R U U L D D R U R U U L D R D D R 
+Max search depth reached for puzzle 228: 58
+Time taken 679 ms
+Nodes expanded 1127435
+
+
+Solving puzzle 229: 2 13 8 11 15 12 1 3 4 6 5 10 7 14 9 0 
+Path found with steps: L L U U R D L L U R U L D R R D L D L U U R D D R R U U L D R U U L D D L D R R U U U L D D L D L U R R D L U R R D 
+Max search depth reached for puzzle 229: 58
+Time taken 2766 ms
+Nodes expanded 4400708
+
+
+Solving puzzle 230: 12 6 8 1 5 10 13 4 11 14 2 3 15 7 0 9 
+Path found with steps: L L U R R U L U L D R R U L D D R U U R D L L U R D D R U L D D R U L D L L U R R R D L L L U R U L U R R D D D R 
+Max search depth reached for puzzle 230: 57
+Time taken 3951 ms
+Nodes expanded 6524198
+
+
+Solving puzzle 231: 13 0 3 5 11 9 14 12 15 2 1 7 6 10 4 8 
+Path found with steps: D R D L L D R U U R D D L U L U U R D R D R U L D L L U U R R R D L U L D R D R D L L L U U R R R D L L D R R 
+Max search depth reached for puzzle 231: 55
+Time taken 2081 ms
+Nodes expanded 3597522
+
+
+Solving puzzle 232: 3 6 12 4 10 8 1 9 13 11 14 0 7 2 15 5 
+Path found with steps: D L U L U R U L D D D L U R D R U R U L L D R R U L L L D R U U L D R D R U U L L D D R U R D D R 
+Max search depth reached for puzzle 232: 49
+Time taken 209 ms
+Nodes expanded 373590
+
+
+Solving puzzle 233: 2 1 11 3 4 15 5 6 13 10 9 7 8 12 0 14 
+Path found with steps: L L U R U L U R D R R D D L L U U L D R R R U U L L D L D R R U R U L D D D L U U R R D L U R D D 
+Max search depth reached for puzzle 233: 49
+Time taken 38 ms
+Nodes expanded 67961
+
+
+Solving puzzle 234: 13 9 2 14 0 4 7 8 12 11 6 10 1 3 5 15 
+Path found with steps: U R R R D D L L D L U U U R D D D R U R U L U L D D D L U U R D R U R U L L L D R D R R D L L U R R D L U R D 
+Max search depth reached for puzzle 234: 55
+Time taken 47 ms
+Nodes expanded 81339
+
+
+Solving puzzle 235: 6 12 15 11 3 4 0 7 5 2 13 1 14 10 9 8 
+Path found with steps: L L D R R R U L U L L D D R R U U R D D L U U L D D D R U R D L U L D L U R R U U L D L U R D R R D D 
+Max search depth reached for puzzle 235: 51
+Time taken 539 ms
+Nodes expanded 839379
+
+
+Solving puzzle 236: 5 15 2 3 8 7 11 0 1 9 4 6 12 14 10 13 
+Path found with steps: L D R D L U R U L L L D R R U L U L D D R U U R R D L D L D R R U L L D L U U R D R D L U R R D L U R D 
+Max search depth reached for puzzle 236: 52
+Time taken 485 ms
+Nodes expanded 692234
+
+
+Solving puzzle 237: 10 6 13 3 1 11 0 8 12 7 4 2 14 15 9 5 
+Path found with steps: U L L D D R U R D D L U L U R D R R D L L U R R U L L D R U L D L U R U R D D L D L U R U U R R D D L D R 
+Max search depth reached for puzzle 237: 53
+Time taken 10653 ms
+Nodes expanded 17859957
+
+
+Solving puzzle 238: 4 10 0 8 12 2 1 14 3 5 13 6 15 7 11 9 
+Path found with steps: L L D R R U L L D R U L D D R R R D L U R U L L L D R D R U U L D D R U R U U L D L D D L U R R R D L L U R R D 
+Max search depth reached for puzzle 238: 56
+Time taken 858 ms
+Nodes expanded 1479849
+
+
+Solving puzzle 239: 15 5 4 10 11 14 12 6 0 7 2 1 13 3 8 9 
+Path found with steps: R R U R D L L U R R U L D D D L U L U U R R D D D R U U L D L L U U R R D D L L D R R U L D R U R D L L L U R R D R 
+Max search depth reached for puzzle 239: 58
+Time taken 5140 ms
+Nodes expanded 8336716
+
+
+Solving puzzle 240: 14 15 11 13 4 3 0 7 10 6 9 2 1 12 5 8 
+Path found with steps: L U L D D R R D L U U U R R D L U L L D D D R U R U U L L D D R R U R D D L L U U U L D D D R U U R R U L D L U R D R D D 
+Max search depth reached for puzzle 240: 61
+Time taken 74 ms
+Nodes expanded 127500
+
+
+Solving puzzle 241: 11 10 7 5 2 3 13 8 9 14 15 6 1 12 0 4 
+Path found with steps: L L U R R U R D D L U L D R U U R D L U U R D L L U R D L D L U U R D L D D R U U L U R D R D L U R R D D 
+Max search depth reached for puzzle 241: 53
+Time taken 106 ms
+Nodes expanded 185404
+
+
+Solving puzzle 242: 0 1 13 10 9 8 6 2 5 11 7 15 14 4 3 12 
+Path found with steps: R R D L U R R D L D D R U L D L U U L D R U R U R D D L D L L U R U R D L U U R D R U L D D D R 
+Max search depth reached for puzzle 242: 48
+Time taken 37 ms
+Nodes expanded 63604
+
+
+Solving puzzle 243: 10 0 11 2 4 3 9 7 1 12 6 5 13 14 15 8 
+Path found with steps: R D L L D R R R U L L U R R D L L U L D R D R U L D L U R U R R D D D L U L U R R D L D R 
+Max search depth reached for puzzle 243: 45
+Time taken 81 ms
+Nodes expanded 149791
+
+
+Solving puzzle 244: 1 3 15 0 13 4 5 7 6 8 12 9 14 10 11 2 
+Path found with steps: D D D L U L U R D R U L D L L U R R D R U L U R D D D L U U U L D D D R U L D L U R R R D 
+Max search depth reached for puzzle 244: 45
+Time taken 82 ms
+Nodes expanded 148408
+
+
+Solving puzzle 245: 5 7 12 2 0 8 9 10 3 14 15 1 6 11 4 13 
+Path found with steps: R R R D L D R U L L D R U L U L D D R R U U L L D R R U R U L D L U R D R U L D R D L U L L U R R R D D L D R 
+Max search depth reached for puzzle 245: 55
+Time taken 16 ms
+Nodes expanded 28012
+
+
+Solving puzzle 246: 9 3 13 7 4 10 5 14 8 12 6 11 0 2 1 15 
+Path found with steps: R R R U L L L D R R U L U L U R R D L U R D R D L L U R R D D L L U U L D D R U U U L D D R R R U U L L L D R R R D D 
+Max search depth reached for puzzle 246: 59
+Time taken 1308 ms
+Nodes expanded 2151009
+
+
+Solving puzzle 247: 6 9 4 15 5 10 8 0 14 12 7 3 13 1 2 11 
+Path found with steps: U L D D R U L L U L D R D R U L D D R R U U L U L D D D R U R U L U L D D L U U R D R D D L U R D R 
+Max search depth reached for puzzle 247: 50
+Time taken 14062 ms
+Nodes expanded 22961187
+
+
+Solving puzzle 248: 15 9 10 3 1 8 6 12 0 2 7 11 13 5 14 4 
+Path found with steps: R U L U R D R D L L U R D L U U R D R D L D R U R D L U U R D L U U R D D L U L D L U R D R D R 
+Max search depth reached for puzzle 248: 48
+Time taken 380 ms
+Nodes expanded 665789
+
+
+Solving puzzle 249: 9 14 0 1 6 2 4 15 12 10 3 8 13 7 5 11 
+Path found with steps: R D L D L L U R U R D L L U R R R D D L L D R U R D L U U U L D D D R U U L D L U R D D R U R D 
+Max search depth reached for puzzle 249: 48
+Time taken 153 ms
+Nodes expanded 274897
+
+
+Solving puzzle 250: 0 11 13 5 10 6 12 15 2 14 8 9 1 7 3 4 
+Path found with steps: D D D R R R U U L L U R D L U L D D R U R D D L L U R U U R D D D R U U L U R D L D L D R U L D L U R U U R D L U L D R R D D R 
+Max search depth reached for puzzle 250: 64
+Time taken 678 ms
+Nodes expanded 1012260
+
+
+Solving puzzle 251: 11 4 13 8 2 15 10 14 7 0 5 1 9 6 3 12 
+Path found with steps: R R U L U L L D D R U R D D L U U R D D L U L U R U L D D R U L D D R U R R U U L D L D R R D L L U R D R 
+Max search depth reached for puzzle 251: 53
+Time taken 125 ms
+Nodes expanded 209485
+
+
+Solving puzzle 252: 3 13 8 14 15 2 4 7 10 12 9 0 1 11 6 5 
+Path found with steps: U U L D R D D L L U R R D L L L U U R U L D R D D L U U R D R R D L L L U U R D R U R U L L L D R D R D L U R R D 
+Max search depth reached for puzzle 252: 57
+Time taken 1119 ms
+Nodes expanded 1838579
+
+
+Solving puzzle 253: 3 13 7 1 10 8 14 0 2 11 12 5 15 4 9 6 
+Path found with steps: L D L D R U R U L L D R R U L U R D L L L U R R D L L U R D D L U R D D L U R R D R U L D L U R U R U L L D D R R D 
+Max search depth reached for puzzle 253: 58
+Time taken 1272 ms
+Nodes expanded 2094455
+
+
+Solving puzzle 254: 5 4 1 10 2 11 9 13 0 7 12 3 15 6 8 14 
+Path found with steps: R U R R D L L U R U L L D R R R U L D D L L U R U L D R D R D R U L U R D L D L L U R R D L U R U L D R R D 
+Max search depth reached for puzzle 254: 54
+Time taken 103 ms
+Nodes expanded 176661
+
+
+Solving puzzle 255: 0 9 14 7 15 12 3 10 8 6 5 1 4 2 11 13 
+Path found with steps: R R D L L D R U L D D R U R R D L L U R U L L D D R R U R U L L U L D D R R R D L L U U U L D D D R U U R U L L D D R R R U U L D R D D 
+Max search depth reached for puzzle 255: 68
+Time taken 28269 ms
+Nodes expanded 43699767
+
+
+Solving puzzle 256: 7 8 13 12 10 11 1 15 9 0 6 5 3 4 14 2 
+Path found with steps: U R D R U L D L D L U U R R U L L D R D D R R U L U R U L L D D R D L U L D R U R U U L D D R R U U L L D D D R R 
+Max search depth reached for puzzle 256: 57
+Time taken 306 ms
+Nodes expanded 521933
+
+
+Solving puzzle 257: 7 13 10 0 8 11 6 5 15 9 1 3 4 14 12 2 
+Path found with steps: D D D L L L U R U U R R D L D L U L D R D R U L U U R D R D L L D L U U U R R D R D L D L U U L U R R D L U R R D D D 
+Max search depth reached for puzzle 257: 59
+Time taken 545 ms
+Nodes expanded 934535
+
+
+Solving puzzle 258: 12 6 14 9 8 1 7 15 5 0 2 10 11 4 3 13 
+Path found with steps: R D R U U L D L D L U U R U L D R R U L D D R U L D D R R U U U L D R U L L D D L D R R U L U R D R U L D L U L D R D R R 
+Max search depth reached for puzzle 258: 61
+Time taken 8 ms
+Nodes expanded 15111
+
+
+Solving puzzle 259: 0 6 3 7 1 12 11 14 10 5 8 15 9 4 2 13 
+Path found with steps: R R D L D D R R U L U R D L U U L L D R D D R U U L U R D L D L D R R R U U U L L D R R D D 
+Max search depth reached for puzzle 259: 46
+Time taken 10 ms
+Nodes expanded 19389
+
+
+Solving puzzle 260: 4 5 8 3 15 1 14 6 10 7 13 12 11 0 9 2 
+Path found with steps: L U U R U L D R D R D L L U R R D R U L D L L U R U R R U L D D L U R U L D R R U L D D D L U R R D 
+Max search depth reached for puzzle 260: 50
+Time taken 152 ms
+Nodes expanded 269621
+
+
+Solving puzzle 261: 4 15 14 10 1 0 9 12 8 11 13 7 6 5 3 2 
+Path found with steps: R R D D L U U U L L D R D D R U U U R D D D L U U L D L D R R U L L U R R R D L L U R U L D R R U L D D L U R R D D 
+Max search depth reached for puzzle 261: 58
+Time taken 593 ms
+Nodes expanded 1017952
+
+
+Solving puzzle 262: 0 12 6 1 3 4 14 8 13 2 11 7 9 15 5 10 
+Path found with steps: R R R D L L U R D L L U R D D R D L U R R U U L L D D L U R R D R D L L U L D R U R R D L L U R R D L U R D 
+Max search depth reached for puzzle 262: 54
+Time taken 1404 ms
+Nodes expanded 2194427
+
+
+Solving puzzle 263: 12 5 15 3 4 6 14 10 11 9 7 13 2 0 8 1 
+Path found with steps: R U R D L L U R U L L U R D L D D R U U R U L D L D D R U R U R D D L L U U R R U L D R D D L U L U U R D L L U R D R R D D 
+Max search depth reached for puzzle 263: 62
+Time taken 2693 ms
+Nodes expanded 4386789
+
+
+Solving puzzle 264: 13 8 4 12 7 6 14 11 9 15 3 1 10 2 5 0 
+Path found with steps: L L U R R U L D D R U U U L D D L L U R U R D D D L U L U U R R D L D R R D L U R U L L D L U R D D L U R D R R 
+Max search depth reached for puzzle 264: 56
+Time taken 4484 ms
+Nodes expanded 7514627
+
+
+Solving puzzle 265: 2 12 5 10 9 15 0 13 7 6 11 3 1 4 14 8 
+Path found with steps: R D L L U R D L D R U L U R D R D L L U L U R U R R D L L D L D R R U U U R D D L U L L D R U U L D R D R D R 
+Max search depth reached for puzzle 265: 55
+Time taken 40 ms
+Nodes expanded 69099
+
+
+Solving puzzle 266: 9 1 12 10 0 15 5 11 14 2 6 4 3 8 7 13 
+Path found with steps: R R R D L L U R U R D L D D L L U U U R R D D D R U U L L D D R R U L L L D R U L U R R D D L U U U R D D L U R R D D 
+Max search depth reached for puzzle 266: 59
+Time taken 1362 ms
+Nodes expanded 2110561
+
+
+Solving puzzle 267: 13 0 6 10 11 4 2 14 8 3 12 7 15 9 5 1 
+Path found with steps: R D L L U R R D R D L U R U L D L D L U U R D D D R R U U L L D D L U U R D R D L U R R U L L D L U R R U L L D R D R R D 
+Max search depth reached for puzzle 267: 61
+Time taken 26174 ms
+Nodes expanded 42219599
+
+
+Solving puzzle 268: 3 14 9 2 5 1 11 0 6 13 12 15 4 7 10 8 
+Path found with steps: L L U L D D R D L U R D R U L U R U L D R D R U L U R D D D L U L L U R D L U U R R D R D D L U U L D D R R 
+Max search depth reached for puzzle 268: 54
+Time taken 203 ms
+Nodes expanded 348478
+
+
+Solving puzzle 269: 12 11 10 2 14 8 7 4 5 6 9 15 1 3 13 0 
+Path found with steps: L U L L D R U U U R R D L D L U L D D R R R U L L L D R R U L U U L D D D R U U R D L U U R D L D R R U L D R U L D D R 
+Max search depth reached for puzzle 269: 60
+Time taken 123 ms
+Nodes expanded 195654
+
+
+Solving puzzle 270: 15 14 6 7 13 2 10 0 1 9 8 12 3 5 4 11 
+Path found with steps: L L L D R D L U R U U L D R U R D D D L U U L D D R U R D R U L U R D L L U R D D L U U U R R D L U R D D D 
+Max search depth reached for puzzle 270: 54
+Time taken 427 ms
+Nodes expanded 646580
+
+
+Solving puzzle 271: 15 2 10 4 6 0 11 9 8 14 7 3 5 1 12 13 
+Path found with steps: R R D L U R D L D R U L L L U U R R D D L D R R U L U L L D R U L D D R R U L D R U U L U L D D R U R R D D 
+Max search depth reached for puzzle 271: 54
+Time taken 364 ms
+Nodes expanded 583890
+
+
+Solving puzzle 272: 14 13 8 3 15 4 0 7 6 5 2 12 11 1 10 9 
+Path found with steps: L L U R D D D R R U U L U L D D L U U R D D R U U R D D L U L D D L U U U R D D D R U L D L U R U R R D D 
+Max search depth reached for puzzle 272: 53
+Time taken 470 ms
+Nodes expanded 768234
+
+
+Solving puzzle 273: 10 9 3 5 14 11 7 6 4 0 2 15 8 13 12 1 
+Path found with steps: L U R D L D R U L U U R R R D L L U R D D R D L U R U L D L L U U R D R R U L L D R R D L L L U U R D R R D D 
+Max search depth reached for puzzle 273: 55
+Time taken 412 ms
+Nodes expanded 677530
+
+
+Solving puzzle 274: 0 4 15 9 3 12 5 11 13 10 14 6 1 7 8 2 
+Path found with steps: D D R U R U R D D D L U L D R U U U L D R R U L D R D D L U U R D L L L D R U L U R D D L U U R U L D R R U L D R D R D 
+Max search depth reached for puzzle 274: 60
+Time taken 5269 ms
+Nodes expanded 8609140
+
+
+Solving puzzle 275: 14 10 7 9 2 8 13 3 4 12 5 11 1 0 15 6 
+Path found with steps: R U L L D R R R U L U L U R R D L U L L D R D R U L L D R D L U R R D R U U L L U L D D R U R D D L U U R U R D D D 
+Max search depth reached for puzzle 275: 58
+Time taken 537 ms
+Nodes expanded 839334
+
+
+Solving puzzle 276: 9 5 4 15 14 2 8 6 12 3 1 11 0 10 7 13 
+Path found with steps: U U U R D R D D R U U U L D L D D R U R U L L D D L U R U U R D D D L L U U U R D R D R D L U R D 
+Max search depth reached for puzzle 276: 49
+Time taken 20 ms
+Nodes expanded 35973
+
+
+Solving puzzle 277: 11 7 12 6 9 13 0 3 1 4 8 14 2 15 10 5 
+Path found with steps: U L L D D D R R U L U U R R D L D R U L L L D R D L U R R D R U L D L U R U U L D L U R D D L U R R U R D D D 
+Max search depth reached for puzzle 277: 55
+Time taken 1571 ms
+Nodes expanded 2667727
+
+
+Solving puzzle 278: 1 8 0 10 15 7 2 4 3 11 14 12 9 13 5 6 
+Path found with steps: L D L D D R R U L U R U R D D L L D R R U L D R U U L U L D L U R D D R U U L L D R D R D R 
+Max search depth reached for puzzle 278: 46
+Time taken 594 ms
+Nodes expanded 985573
+
+
+Solving puzzle 279: 1 8 7 12 15 11 4 13 14 3 5 0 9 6 2 10 
+Path found with steps: U U L D L D R R U U L L D L D R R D L U U L D D R U R D R U U L L D R U U L D D R R U L D D L U R R D 
+Max search depth reached for puzzle 279: 51
+Time taken 425 ms
+Nodes expanded 732179
+
+
+Solving puzzle 280: 15 4 6 12 13 1 5 10 14 11 9 7 3 2 8 0 
+Path found with steps: L U L D L U U R R U L L D R D D R U R U U L L D R D R U L U L D D D L U R R R D L U U L U R D R D D L U R D 
+Max search depth reached for puzzle 280: 54
+Time taken 278 ms
+Nodes expanded 479666
+
+
+Solving puzzle 281: 5 0 13 12 1 3 10 2 4 11 6 14 9 7 8 15 
+Path found with steps: D L D R R U U L D L U R D D R U U L D D R D L U L D R U U R R U L D D R U L L D R D L U U U R D D D R 
+Max search depth reached for puzzle 281: 52
+Time taken 1755 ms
+Nodes expanded 2885024
+
+
+Solving puzzle 282: 8 11 6 13 9 5 4 15 3 7 12 14 2 0 10 1 
+Path found with steps: R R U U L L L D D R R R U L L U U L D D R U R U L L D R R U R D L U L D R D L U L D R D L U R U L D R U U L D D R D R R 
+Max search depth reached for puzzle 282: 60
+Time taken 8997 ms
+Nodes expanded 14182694
+
+
+Solving puzzle 283: 3 1 4 0 7 9 10 14 6 13 8 5 2 15 11 12 
+Path found with steps: L D D R U L D D L U L D R U U L D R U U L D R R U L L D R D R R D L U L D R U U L D R D R 
+Max search depth reached for puzzle 283: 45
+Time taken 33 ms
+Nodes expanded 60915
+
+
+Solving puzzle 284: 7 9 6 0 12 10 4 14 5 8 1 3 15 11 2 13 
+Path found with steps: L D D L U R R D L D L U L U R U L D R D L U R R U R D L D L U R U L D R U R D D L D R U L L D L U R D R U L L D R R U R D 
+Max search depth reached for puzzle 284: 61
+Time taken 11794 ms
+Nodes expanded 18910759
+
+
+Solving puzzle 285: 4 1 3 6 14 10 15 7 5 2 8 9 11 13 0 12 
+Path found with steps: L L U R R R D L U L D R R U L U L L D D R R U L U U L D R R U R D L U L L D D D R U U R R U L D R D D 
+Max search depth reached for puzzle 285: 51
+Time taken 542 ms
+Nodes expanded 902837
+
+
+Solving puzzle 286: 11 12 1 6 8 0 15 7 5 9 13 10 14 4 2 3 
+Path found with steps: L D R R U L U R D L U L D D R D R U U U L D D D R U R D L L L U U U R D D R U U R D D L U U L D R R U L D R D D 
+Max search depth reached for puzzle 286: 56
+Time taken 560 ms
+Nodes expanded 939545
+
+
+Solving puzzle 287: 10 5 11 8 13 7 15 1 0 12 9 4 3 2 14 6 
+Path found with steps: U R R D L D L U R D R U U L D R U U R D D D L U U U R D L L L U R R D L L D R R R U L D L U L U R D R R D D 
+Max search depth reached for puzzle 287: 54
+Time taken 780 ms
+Nodes expanded 1327671
+
+
+Solving puzzle 288: 2 15 10 8 12 6 1 11 9 3 5 14 0 13 7 4 
+Path found with steps: U U R R D L L U R R D R D L U R U L D L U U R D L U L D D R U L D D R R U U R D D L U R U U L D D R D 
+Max search depth reached for puzzle 288: 51
+Time taken 89 ms
+Nodes expanded 154679
+
+
+Solving puzzle 289: 12 4 5 10 15 8 14 2 7 13 9 1 6 3 11 0 
+Path found with steps: L U U L U R D R U L D L L U R R D L L D R D R U R U L L D R R U L L D D L U R D R R U U U L L D L U R R D L D R D R 
+Max search depth reached for puzzle 289: 58
+Time taken 87 ms
+Nodes expanded 150513
+
+
+Solving puzzle 290: 15 2 7 12 4 1 14 5 8 10 0 6 13 3 9 11 
+Path found with steps: L U L U R D L D R D R U R U L L D R R U L U L D L D R R R U U L L L D D R D R U U L L D R D R R U U L D D R 
+Max search depth reached for puzzle 290: 54
+Time taken 616 ms
+Nodes expanded 1013007
+
+
+Solving puzzle 291: 5 1 0 15 8 10 6 9 11 13 3 4 12 7 14 2 
+Path found with steps: D R U L L D R D D L L U R U U R D R D D L L L U R U L U R R R D D D L U U L D D R U U R D L L U R U L D R R D D 
+Max search depth reached for puzzle 291: 56
+Time taken 759 ms
+Nodes expanded 1175648
+
+
+Solving puzzle 292: 9 5 7 3 2 8 14 6 15 4 13 0 1 11 12 10 
+Path found with steps: L U L D R R D L L L U R R R U L L D D L U U R D L U U R D D R R U L D D L L U U U R D R U R D D D 
+Max search depth reached for puzzle 292: 49
+Time taken 63 ms
+Nodes expanded 109860
+
+
+Solving puzzle 293: 3 15 1 9 5 0 7 11 4 10 13 2 8 12 14 6 
+Path found with steps: R U L L D D R R D L U U R U R D D D L U U U L D L D D R R U U R U L D L D R R U L L D L U R D R U L D L U U R R R D L D R D 
+Max search depth reached for puzzle 293: 62
+Time taken 19414 ms
+Nodes expanded 29827721
+
+
+Solving puzzle 294: 7 14 11 13 8 6 4 12 15 2 1 5 0 3 10 9 
+Path found with steps: U R R R U U L D L L D R R D R U U U L L L D D R D R U U L D R R U L U L D D R U U L L D D R D L U R R D L U R R D 
+Max search depth reached for puzzle 294: 58
+Time taken 532 ms
+Nodes expanded 891166
+
+
+Solving puzzle 295: 7 0 5 15 9 11 14 13 6 2 1 12 4 3 10 8 
+Path found with steps: R D L D D L U U U R D D R R U L L D D R U R U L U R D D D L U U U L D D D R U U L L D D R R U R U L D L L U U R R R D L L D R R D 
+Max search depth reached for puzzle 295: 65
+Time taken 15078 ms
+Nodes expanded 23209682
+
+
+Solving puzzle 296: 1 5 0 2 15 6 4 9 8 10 13 12 11 3 7 14 
+Path found with steps: L D L D R R D L U U L D D R R R U U L L U R R D L D L D R U R U L L D R U L D L U R U R D D L L U R R R D D 
+Max search depth reached for puzzle 296: 54
+Time taken 260 ms
+Nodes expanded 434186
+
+
+Solving puzzle 297: 9 11 6 3 1 5 15 0 7 10 12 4 14 2 8 13 
+Path found with steps: D L D R U L U U L L D D D R R U L L D R U U U L D D R U U L D R R U L L D D R R U U R D D D 
+Max search depth reached for puzzle 297: 46
+Time taken 44 ms
+Nodes expanded 58098
+
+
+Solving puzzle 298: 0 15 12 5 1 11 7 6 3 9 8 2 14 10 13 4 
+Path found with steps: D R U R R D D D L L U U U R R D D L L U U R R D D L L L U R D L D R R R U L L D R U L L D R U R U L U R D D D R 
+Max search depth reached for puzzle 298: 56
+Time taken 693 ms
+Nodes expanded 1009972
+
+
+Solving puzzle 299: 2 15 4 14 9 7 10 0 12 6 13 5 8 3 11 1 
+Path found with steps: D D L U L D R U R U U L L D D L D R U R R U L U L D D L U R D R R U L L D R D L U R R U L U L L D R D R R D L U R D 
+Max search depth reached for puzzle 299: 58
+Time taken 1334 ms
+Nodes expanded 2213122
+
+
+Solving puzzle 300: 15 12 13 5 9 0 10 11 7 14 8 3 1 4 2 6 
+Path found with steps: R R D L D L U L D R U U U L D D R U R D L U U R R D D L D R U L L U U L D R U R D R D L D L U L U R U R R D L D D L L U U R R D R D 
+Max search depth reached for puzzle 300: 66
+Time taken 9696 ms
+Nodes expanded 15174976
+
+
+Solving puzzle 301: 15 13 12 8 14 7 5 4 10 6 2 0 11 9 1 3 
+Path found with steps: L L L U U R D R U L D D R U R D L D R U U U L D D R U U L D D D L L U U U R R D D L L U U R R D D L D R U L D L U R U R R D D 
+Max search depth reached for puzzle 301: 63
+Time taken 62876 ms
+Nodes expanded 99471998
+
+
+Solving puzzle 302: 12 15 13 8 10 0 7 14 6 11 3 5 1 9 2 4 
+Path found with steps: L D D R R R U L D R U U L U L L D D R R U U L L D R D D R U U U L D D D R U R D L U U U L D D L U R R R D L U R U L D D L L D R R R 
+Max search depth reached for puzzle 302: 66
+Time taken 7474 ms
+Nodes expanded 11142675
+
+
+Solving puzzle 303: 10 6 2 3 0 15 7 8 14 12 1 13 9 4 5 11 
+Path found with steps: U R R D D D L U U R D D L U L U R R D R U L U L L D R U R R D D D L L U R R D L L U L D R R R 
+Max search depth reached for puzzle 303: 47
+Time taken 152 ms
+Nodes expanded 233699
+
+
+Solving puzzle 304: 12 8 5 9 1 4 7 14 0 13 2 15 10 6 3 11 
+Path found with steps: R R U L D R D R U U L L U R D L L U R R R D L U L D R D L D L U U R D L U U R R D D R D L U L D R R U L D R 
+Max search depth reached for puzzle 304: 54
+Time taken 282 ms
+Nodes expanded 425971
+
+
+Solving puzzle 305: 1 13 4 6 7 8 10 11 12 2 15 14 3 9 0 5 
+Path found with steps: R U L D R U U L L U R D D L L U R R D L L U R R R U L L D R R D L L D L U R D R U L U R D D R U U U L D D R D 
+Max search depth reached for puzzle 305: 55
+Time taken 4536 ms
+Nodes expanded 7124190
+
+
+Solving puzzle 306: 3 13 15 8 1 0 10 14 6 5 11 7 12 2 9 4 
+Path found with steps: U L D R D L U R D D R U U L D D L U R R U R D D L L U R U U R D D D L U U U R D L U L D D D R U R D 
+Max search depth reached for puzzle 306: 51
+Time taken 132 ms
+Nodes expanded 219390
+
+
+Solving puzzle 307: 9 5 7 4 8 12 13 1 15 14 11 0 6 3 10 2 
+Path found with steps: L L U R D L D L U U R D L U U R D R R D L L D L U R U R D D R U L D L U R R U L U L D D L U U R D D R R D 
+Max search depth reached for puzzle 307: 53
+Time taken 681 ms
+Nodes expanded 1090102
+
+
+Solving puzzle 308: 6 13 8 4 1 11 15 9 2 10 7 12 14 0 3 5 
+Path found with steps: R R U L L D R U U L U L D R D D R U U U L D D L U R D R R U L U L D R D R D L L U R D L L U R R D R 
+Max search depth reached for puzzle 308: 50
+Time taken 1268 ms
+Nodes expanded 2081960
+
+
+Solving puzzle 309: 3 14 6 4 2 1 15 9 12 5 7 8 0 10 13 11 
+Path found with steps: R U R U L U L D R R R D L L L U R R D L D R R U L L L D R U R U U L L D R D L U R R D D R 
+Max search depth reached for puzzle 309: 45
+Time taken 36 ms
+Nodes expanded 62547
+
+
+Solving puzzle 310: 11 14 1 15 13 3 7 4 5 8 12 9 6 0 10 2 
+Path found with steps: R R U L L L U R U R R D L L U L D R D D R R U L U U L L D R D D R U U L D L D R U L D R R U U U L D D R U R D D 
+Max search depth reached for puzzle 310: 56
+Time taken 239 ms
+Nodes expanded 347077
+
+
+Solving puzzle 311: 4 8 14 1 0 2 6 9 3 15 11 10 5 13 7 12 
+Path found with steps: R R U L L D D D R U R U R U L L D L U R D R R D L D L U U R D R U U L L L D R U L D D R R R D L L U R D R 
+Max search depth reached for puzzle 311: 53
+Time taken 50 ms
+Nodes expanded 83569
+
+
+Solving puzzle 312: 9 8 5 6 1 2 7 13 12 0 3 14 15 4 11 10 
+Path found with steps: L U R R R D L U R D D L L U R U U L D R U R D L U L L D D R U U L D R D R D L L U U R R D R U L U R D D D L L U R R D 
+Max search depth reached for puzzle 312: 59
+Time taken 5685 ms
+Nodes expanded 9051666
+
+
+Solving puzzle 313: 2 10 11 14 0 4 9 13 3 6 15 5 12 1 7 8 
+Path found with steps: D R R U L L D R D L U R R R U U L D L L D R R R D L L L U R R R U U L D D R D L L U R R U L L U L D D D R U U R D R D 
+Max search depth reached for puzzle 313: 60
+Time taken 285 ms
+Nodes expanded 491891
+
+
+Solving puzzle 314: 5 11 9 3 12 7 0 14 1 10 8 13 15 6 4 2 
+Path found with steps: L L D R U R D R D L L U R R U L D D L L U R R R D L L L U R U U R D R D D L U L U U L D R U R R D L D L L U R D D R R 
+Max search depth reached for puzzle 314: 59
+Time taken 8549 ms
+Nodes expanded 13775379
+
+
+Solving puzzle 315: 1 11 0 8 6 2 14 3 5 13 12 15 9 7 10 4 
+Path found with steps: L D R D D L U U L D D R U R R D L U U U R D D L U U R D D D L U R U L D D R 
+Max search depth reached for puzzle 315: 38
+Time taken 5 ms
+Nodes expanded 10120
+
+
+Solving puzzle 316: 6 13 3 8 11 7 15 12 9 10 2 0 4 14 5 1 
+Path found with steps: U L D D L L U R D R R U U U L D L U R D D L U R D D L U R R U L U L D D L U U R D D L D R R U L U L U R R R D D D 
+Max search depth reached for puzzle 316: 57
+Time taken 60414 ms
+Nodes expanded 95004698
+
+
+Solving puzzle 317: 9 0 4 12 8 11 13 5 2 7 14 6 10 1 3 15 
+Path found with steps: D R R U L D D L U L D R R U L D D R U R U L L U R D L D D L U U U R D D L U U R D D R U U L D D D R R 
+Max search depth reached for puzzle 317: 51
+Time taken 41 ms
+Nodes expanded 72932
+
+
+Solving puzzle 318: 12 15 0 4 13 8 14 5 11 9 10 6 1 3 7 2 
+Path found with steps: L D D D L U U R D D L U U R D R U U L L D R U L D D R R U R D L D R U L D L U R U L D R R U L U L D D R R U L D L L U R R D D R 
+Max search depth reached for puzzle 318: 64
+Time taken 6985 ms
+Nodes expanded 11277824
+
+
+Solving puzzle 319: 12 10 1 15 4 7 0 3 6 13 8 11 2 14 5 9 
+Path found with steps: L L U R R D L L U R R R D L L L D R D R R U L L D L U R D R U U L D D R U U U L D L D R R U U R D D L D R U L D R 
+Max search depth reached for puzzle 319: 57
+Time taken 3331 ms
+Nodes expanded 5231733
+
+
+Solving puzzle 320: 11 9 15 0 14 12 3 8 1 5 4 6 10 2 13 7 
+Path found with steps: L D L D L U R U L D R D R U R U L L D D D R U U L D L D R U R R U L D R D L U L L U U R D R U R D D L U R D D 
+Max search depth reached for puzzle 320: 55
+Time taken 109 ms
+Nodes expanded 177392
+
+
+Solving puzzle 321: 8 7 12 5 11 1 14 9 15 0 2 13 4 6 10 3 
+Path found with steps: L U R R R U L L L D R R D R D L L U R D L L U R D L U U R U R D R D L L U R D L L U R U R D R U L D D R D L L U R R U L L D R D R 
+Max search depth reached for puzzle 321: 65
+Time taken 23476 ms
+Nodes expanded 35316289
+
+
+Solving puzzle 322: 3 6 0 15 12 9 1 11 10 2 8 5 13 7 4 14 
+Path found with steps: L L D R R U L D D L U U R D R D R U U L L D L D R R D R U U L L D D R R U L U R D L L L U R U R R D L D D R 
+Max search depth reached for puzzle 322: 54
+Time taken 75 ms
+Nodes expanded 126230
+
+
+Solving puzzle 323: 9 5 13 1 10 12 6 0 11 2 4 15 8 7 14 3 
+Path found with steps: D L U L D R U R D L U U R D D L U L D R D L U L D R U R D R U L D L U L U U R R D D L L U U R R D D R U L D D R 
+Max search depth reached for puzzle 323: 56
+Time taken 533 ms
+Nodes expanded 825087
+
+
+Solving puzzle 324: 3 5 1 14 10 0 15 7 2 12 6 9 4 13 11 8 
+Path found with steps: L D D R U L U R D R R D L L U R U L L D R U L U R R R D L L L U R D R U R D D D L U L D R U U U L D D R D L U R R D 
+Max search depth reached for puzzle 324: 58
+Time taken 3243 ms
+Nodes expanded 5113335
+
+
+Solving puzzle 325: 14 5 13 6 15 11 9 2 8 0 7 10 3 4 1 12 
+Path found with steps: L U U R D R U R D D L D L L U U R R D L U U R D R D L D L L U R U R D L U U R R D D L D L L U U U R R D D R U U L D R D D 
+Max search depth reached for puzzle 325: 61
+Time taken 1683 ms
+Nodes expanded 2553624
+
+
+Solving puzzle 326: 13 2 15 9 14 0 3 6 11 4 10 12 1 7 5 8 
+Path found with steps: D D L U U U R R R D L L U R R D L L D D R U U L D D R U R D L L L U U R U R R D D L D L L U R U U L D D R R D R 
+Max search depth reached for puzzle 326: 56
+Time taken 164 ms
+Nodes expanded 261229
+
+
+Solving puzzle 327: 9 12 8 13 10 0 5 1 3 14 15 11 2 6 7 4 
+Path found with steps: R R U L L D R R D D L U U R D D L L U L U U R D D R D L L U R D L U U U R D D R U U R D L U L D D R R U L D L D R R 
+Max search depth reached for puzzle 327: 58
+Time taken 805 ms
+Nodes expanded 1242318
+
+
+Solving puzzle 328: 2 15 1 9 7 10 5 12 13 0 8 6 4 11 14 3 
+Path found with steps: R D L L U U R U R D L D R R D L L U R U R D L D R U L U L U R R D D L L L U R U R R D L L U L D R R D L L U R R D D R 
+Max search depth reached for puzzle 328: 59
+Time taken 21055 ms
+Nodes expanded 33041888
+
+
+Solving puzzle 329: 14 11 1 5 13 7 15 2 10 3 12 8 9 4 6 0 
+Path found with steps: L L U U U R R D D L D L U U R D D R U U L D L U L U R R R D D L D L U L U R U R D D D L L U U R R D L D L U R R R D 
+Max search depth reached for puzzle 329: 58
+Time taken 10112 ms
+Nodes expanded 15381408
+
+
+Solving puzzle 330: 8 4 10 3 15 12 11 7 14 1 5 2 13 9 6 0 
+Path found with steps: L L L U R R U L L D R D R U R U L L U L D D R R U L D D R R U U L U L D R U R D D L D R U U L D D L L U R U R D D R 
+Max search depth reached for puzzle 330: 58
+Time taken 3982 ms
+Nodes expanded 6383316
+
+
+Solving puzzle 331: 3 11 12 8 2 13 15 9 4 6 1 14 10 7 0 5 
+Path found with steps: L U R R D L U U U L L D R D L U R D D R U R U L U L D D R R D L L L U R R U U L L D D R R R U U L D D L D R R 
+Max search depth reached for puzzle 331: 55
+Time taken 210 ms
+Nodes expanded 317377
+
+
+Solving puzzle 332: 2 12 4 15 14 3 13 0 11 1 5 6 9 7 8 10 
+Path found with steps: U L L D L D R R U U L D L D R R R U L D D L U U U L D D D R U U R D D R U U L D D L U R D R 
+Max search depth reached for puzzle 332: 46
+Time taken 1 ms
+Nodes expanded 1869
+
+
+Solving puzzle 333: 9 15 5 11 4 7 10 13 2 3 6 12 1 8 14 0 
+Path found with steps: U L U L U R D L L U R D D D R U U R U L L D L D D R R U L U R R D L U R U L L L D R D L U R D D L U U R U L D R R R D D 
+Max search depth reached for puzzle 333: 60
+Time taken 1379 ms
+Nodes expanded 2091681
+
+
+Solving puzzle 334: 8 1 10 11 0 14 3 6 4 12 15 5 13 2 7 9 
+Path found with steps: U R R D D R D L L U R R U L L L D R R U L L D R R D L U R R U L L U R D L D R R D L U U R U L L D D R R U L D R D 
+Max search depth reached for puzzle 334: 57
+Time taken 3262 ms
+Nodes expanded 5054327
+
+
+Solving puzzle 335: 12 4 1 10 9 8 7 15 2 13 11 5 14 6 3 0 
+Path found with steps: U L U L U L D D R R D R U U L L U R D D D R U U U L D L L U R D D R R U L D R U L L D D L U U R D R D R 
+Max search depth reached for puzzle 335: 53
+Time taken 507 ms
+Nodes expanded 772965
+
+
+Solving puzzle 336: 9 2 14 6 7 13 8 5 15 3 4 12 11 1 10 0 
+Path found with steps: U L L D L U U R D L U U R R R D D D L L L U U R U R R D L D L U U R D L U L D R R D D R U L D L U R R D 
+Max search depth reached for puzzle 336: 52
+Time taken 188 ms
+Nodes expanded 319998
+
+
+Solving puzzle 337: 4 11 1 3 12 2 7 9 15 14 13 8 6 10 5 0 
+Path found with steps: L U L L U R U R D R D L L L D R R R U L L D R R U L U L L U R D L D R D L U R R U L L D R D R R U U L U R D D D 
+Max search depth reached for puzzle 337: 56
+Time taken 788 ms
+Nodes expanded 1255956
+
+
+Solving puzzle 338: 6 14 5 10 0 2 11 4 13 7 15 8 3 12 9 1 
+Path found with steps: R U R R D D L L U L U R D R D D L U R R D L L L U R D R U R U L D L U R U L D R D L U L U R R D R D D 
+Max search depth reached for puzzle 338: 52
+Time taken 1518 ms
+Nodes expanded 2412390
+
+
+Solving puzzle 339: 1 5 7 14 0 9 13 2 11 4 6 15 3 12 10 8 
+Path found with steps: R R U R D L D L U U R D D D L L U R D L U U R D R R U L L U R R D D D L U L U U R D R D D L L U R D R 
+Max search depth reached for puzzle 339: 51
+Time taken 85 ms
+Nodes expanded 147243
+
+
+Solving puzzle 340: 10 4 9 7 11 13 2 3 8 5 1 15 14 6 12 0 
+Path found with steps: L L U L U R R D L L U R R U L L D R R R D L D R U U U L D D R D L U L D L U R U U L D D R U R R D D 
+Max search depth reached for puzzle 340: 51
+Time taken 561 ms
+Nodes expanded 898835
+
+
+Solving puzzle 341: 11 1 5 0 15 2 10 6 13 8 9 14 4 12 3 7 
+Path found with steps: D L L L U R R D D D L L U R U R D R D L L U R D L U L U R U R D D L L U R U R D R U L L D R R D L L U R R D D 
+Max search depth reached for puzzle 341: 55
+Time taken 33 ms
+Nodes expanded 53887
+
+
+Solving puzzle 342: 4 8 13 12 3 11 2 10 14 7 9 15 1 6 0 5 
+Path found with steps: U U L D L D R R R U U L U L L D D D R U R U L D R D L U R R U U L L L D D R R R U U L L D L D D R R R 
+Max search depth reached for puzzle 342: 51
+Time taken 10 ms
+Nodes expanded 17979
+
+
+Solving puzzle 343: 14 9 1 4 12 2 15 8 0 10 5 6 13 11 7 3 
+Path found with steps: R R U L L U R R D L D L U U R R R D D D L U U R D L L L U R R R D D L L U R R U U L D D D R 
+Max search depth reached for puzzle 343: 46
+Time taken 82 ms
+Nodes expanded 142626
+
+
+Solving puzzle 344: 13 7 12 0 6 14 10 8 5 9 4 3 2 11 1 15 
+Path found with steps: D D L D L U U L D D R U R U U L L D D R R U L U L D D R U U L D R R U R D D L U U R D L D D L U L D R R R 
+Max search depth reached for puzzle 344: 53
+Time taken 6938 ms
+Nodes expanded 10974782
+
+
+Solving puzzle 345: 14 2 11 4 6 0 10 12 7 1 9 5 13 8 3 15 
+Path found with steps: L D R R U L L U R D L D R D R U L U R D L D R U R U L L D R U U L D D R U U L L D R D D R R 
+Max search depth reached for puzzle 345: 46
+Time taken 125 ms
+Nodes expanded 203791
+
+
+Solving puzzle 346: 6 12 13 5 0 14 1 9 8 11 7 15 10 2 3 4 
+Path found with steps: R R D R D L L U L U R R U L L D R R R D L L L U R R U R D L D D R U U L D D L U L U R U R D D L U U R D D D L L U U R D D R R 
+Max search depth reached for puzzle 346: 63
+Time taken 49 ms
+Nodes expanded 76960
+
+
+Solving puzzle 347: 15 12 0 7 2 3 10 9 11 5 1 13 6 14 4 8 
+Path found with steps: L D R D D L U U R R D L U R D D L U U U L L D R U R R D L L D L D R R U U R D L U U L L D D D R R R U L L U L D D R R R 
+Max search depth reached for puzzle 347: 60
+Time taken 7424 ms
+Nodes expanded 11756490
+
+
+Solving puzzle 348: 7 4 9 2 5 8 10 11 14 15 6 3 1 12 0 13 
+Path found with steps: R U L D L U R R D L L L U R R U L D D L U U R D R U U L D L U R D R R D L L U L D R R U U R D L L U R R D D D 
+Max search depth reached for puzzle 348: 55
+Time taken 843 ms
+Nodes expanded 1301872
+
+
+Solving puzzle 349: 6 7 13 1 15 3 5 2 4 10 11 9 8 12 14 0 
+Path found with steps: U L L L U R R U L D L U R D R D L D R R U L L U R U R D D L D L L U R R D L L U R R D R U L D L U U U R R D L L L U R R D R D D 
+Max search depth reached for puzzle 349: 64
+Time taken 100 ms
+Nodes expanded 152410
+
+
+Solving puzzle 350: 12 15 13 10 9 14 5 3 6 1 4 11 7 0 8 2 
+Path found with steps: R R U L L U U R D D D L U U U L D R U R D D L L U U R R R D D L L D L U U U R R D L U R R D L D D L U U R D D R U U L D D R 
+Max search depth reached for puzzle 350: 62
+Time taken 2607 ms
+Nodes expanded 4001568
+
+
+Solving puzzle 351: 14 15 8 5 0 7 2 9 13 4 1 6 12 3 10 11 
+Path found with steps: R R R U L L D L U R D D D L U U U R D R U L L D R D R U R U L L D D R D L U L U R R D R D L L U R U U L L D R D R R D 
+Max search depth reached for puzzle 351: 59
+Time taken 453 ms
+Nodes expanded 643875
+
+
+Solving puzzle 352: 11 4 10 2 5 3 1 8 14 15 0 13 6 7 9 12 
+Path found with steps: L U U R D L U L D R D D R U R U L L U R R D L L D L D R U R U R D D L L U L U U R R D L D L D R R R 
+Max search depth reached for puzzle 352: 50
+Time taken 237 ms
+Nodes expanded 370481
+
+
+Solving puzzle 353: 10 12 0 9 7 6 2 1 5 13 8 3 4 11 14 15 
+Path found with steps: L L D D R D L U U R R R U L D L U R D R D L L D R U L U R D L U L U R R R D L U L D L D R R U L U R R D D L D R 
+Max search depth reached for puzzle 353: 56
+Time taken 373 ms
+Nodes expanded 558978
+
+
+Solving puzzle 354: 3 10 11 4 13 0 14 15 8 12 2 1 7 6 9 5 
+Path found with steps: D R R U L L D L U R D R D R U U L L D R D L L U R R R U L U L L D R D D R U U U L L D R D D R U U L D R D R 
+Max search depth reached for puzzle 354: 54
+Time taken 1263 ms
+Nodes expanded 1867621
+
+
+Solving puzzle 355: 14 0 9 6 7 12 1 15 4 2 10 11 13 5 3 8 
+Path found with steps: L D D R U U R D D D L U U R D D L U U L U R R D L L D R R R U L D R D L U U L L U R R R D L U L D D L U R R R D D 
+Max search depth reached for puzzle 355: 57
+Time taken 737 ms
+Nodes expanded 1127420
+
+
+Solving puzzle 356: 3 1 15 10 0 7 8 11 2 14 6 12 13 9 4 5 
+Path found with steps: U R D L D D R U R D R U L U R D L U U R D D L D L L U R R U U L D L D R D R U U U L D L D R R R D 
+Max search depth reached for puzzle 356: 49
+Time taken 270 ms
+Nodes expanded 464038
+
+
+Solving puzzle 357: 0 4 15 14 1 13 11 6 2 9 3 5 7 12 8 10 
+Path found with steps: D D R U R D D L U U L D D R U R R U U L L D D R R U U L D L D L U R D R R U L L D R D R U L D L U R D R 
+Max search depth reached for puzzle 357: 52
+Time taken 35 ms
+Nodes expanded 64213
+
+
+Solving puzzle 358: 4 12 8 5 6 14 10 0 9 13 7 1 15 2 11 3 
+Path found with steps: U L L L D D R D L U R U R R D L D L U U R R D D L U L U L D R U R U L L D R U L D D R R U R D L U R U L D D D R 
+Max search depth reached for puzzle 358: 56
+Time taken 6001 ms
+Nodes expanded 9475613
+
+
+Solving puzzle 359: 3 5 14 11 2 13 9 1 10 8 0 6 4 15 12 7 
+Path found with steps: L L D R U U U L D D R U L U R D R R D D L L L U R U R U L L D R R R U L L L D D R U R R D L D L U R U R D D 
+Max search depth reached for puzzle 359: 54
+Time taken 298 ms
+Nodes expanded 484065
+
+
+Solving puzzle 360: 12 7 3 5 14 11 8 13 6 15 9 10 4 0 1 2 
+Path found with steps: R U L L D R R U R U L L L U R R R D L D R D L U U L L D D R R U U L L U R D L D D R R U R U L U L D R D R U U L L L D R R U L D D D R R 
+Max search depth reached for puzzle 360: 68
+Time taken 377879 ms
+Nodes expanded 558311620
+
+
+Solving puzzle 361: 4 12 3 2 10 5 9 7 1 0 8 11 15 14 13 6 
+Path found with steps: U L D R D R R U L U U R D L U L L D R R U L D L D R D L U R R U R D L D R U U U L D D D L L U R U R R D D 
+Max search depth reached for puzzle 361: 53
+Time taken 1099 ms
+Nodes expanded 1725214
+
+
+Solving puzzle 362: 0 4 1 10 13 14 11 2 12 9 6 15 3 8 7 5 
+Path found with steps: D R U R R D L L D L D R R R U U L D L L U U R R R D D L D L L U U R D R U L D D L U U R U R D D L U R D D R U U L D R D 
+Max search depth reached for puzzle 362: 60
+Time taken 2613 ms
+Nodes expanded 4109289
+
+
+Solving puzzle 363: 10 9 0 4 7 15 5 1 8 3 13 14 2 11 6 12 
+Path found with steps: D L D L D R R U L L D R R R U L U R D L D R U L L L U U R R D D L L U U R R D L D L D R U L U U R R D L D D R R 
+Max search depth reached for puzzle 363: 56
+Time taken 4338 ms
+Nodes expanded 6403517
+
+
+Solving puzzle 364: 6 9 2 1 14 7 15 3 0 5 10 11 8 12 13 4 
+Path found with steps: R R U L L D R D R U R D L U L U U L D D D R U L U R R U R D D L L U U R D D L L U U R R R D L D D R 
+Max search depth reached for puzzle 364: 51
+Time taken 44 ms
+Nodes expanded 73276
+
+
+Solving puzzle 365: 10 6 0 3 8 2 5 13 14 11 9 4 7 15 1 12 
+Path found with steps: D L L U R R D L D R R U L D R U L L D R D L L U R D L U U R D R U L D L U U R D L U R R R D D D 
+Max search depth reached for puzzle 365: 48
+Time taken 21 ms
+Nodes expanded 35449
+
+
+Solving puzzle 366: 1 15 2 10 3 0 6 13 12 9 7 4 8 14 5 11 
+Path found with steps: R R U L L D R R D L L D L U R R D L L U R U L D R R U U R D L L D R D L L U U R U R D R D L U R D D L U R D 
+Max search depth reached for puzzle 366: 54
+Time taken 208 ms
+Nodes expanded 306475
+
+
+Solving puzzle 367: 14 9 3 5 13 1 4 0 8 12 7 11 6 2 10 15 
+Path found with steps: L U R D D L L L U U R R D R D L L D L U U U R D D L U U R D R D L D R U U L D D R R U L U R D D 
+Max search depth reached for puzzle 367: 48
+Time taken 33 ms
+Nodes expanded 57633
+
+
+Solving puzzle 368: 8 15 5 14 2 6 13 9 7 11 3 0 4 10 1 12 
+Path found with steps: L L L D R U U R R U L L L D R R R D L L L U R D D R U U L U R R D L L U R R D L L D D R U U L D D L U U R U L D R D D R U R D 
+Max search depth reached for puzzle 368: 63
+Time taken 545 ms
+Nodes expanded 871408
+
+
+Solving puzzle 369: 3 10 5 14 1 15 6 8 4 7 12 11 13 2 9 0 
+Path found with steps: U L U L U L D D R R U L L D R D R U U U R D D D L U U U L D D R U U L D L D R D R U R U U L D L L D R D R R 
+Max search depth reached for puzzle 369: 54
+Time taken 6277 ms
+Nodes expanded 10076490
+
+
+Solving puzzle 370: 8 15 1 10 13 14 2 6 11 9 5 0 7 12 3 4 
+Path found with steps: L D L U U U R R D L D R D L L U L U U R R R D L L D R D L L U R R U L L D R D R U U L U R R D D L L U U R R D L D R D 
+Max search depth reached for puzzle 370: 59
+Time taken 135 ms
+Nodes expanded 196529
+
+
+Solving puzzle 371: 11 4 3 14 13 5 10 0 12 15 1 2 7 9 8 6 
+Path found with steps: L D L L U R R R U L L D R R D L D R U L L D L U U U R D L D R U R R U L D R D L D L U U U R D D D L U U R D D R 
+Max search depth reached for puzzle 371: 56
+Time taken 189 ms
+Nodes expanded 290615
+
+
+Solving puzzle 372: 0 15 2 12 13 8 10 9 3 14 5 6 7 4 11 1 
+Path found with steps: D D R R R D L U U L U R D L L U R D D D L U U R D D R U R U L L D R R U U L D L D D L U U R D R D R U U U L L L D D R R D R 
+Max search depth reached for puzzle 372: 63
+Time taken 14629 ms
+Nodes expanded 22394932
+
+
+Solving puzzle 373: 5 4 7 0 14 6 15 12 3 9 11 1 13 8 2 10 
+Path found with steps: L L D D L U R D R U R D L D L U R D R U L U R U L L D R U L D D L U U R D R R D L D L U R D R 
+Max search depth reached for puzzle 373: 47
+Time taken 157 ms
+Nodes expanded 264975
+
+
+Solving puzzle 374: 15 12 1 10 8 6 0 4 11 14 7 3 5 9 2 13 
+Path found with steps: L U R R D D L D L U U L U R R D D L U U R D R D L L D R R U L L L D R R U L U L D R U U R D R D L L L D R R U R D 
+Max search depth reached for puzzle 374: 57
+Time taken 121 ms
+Nodes expanded 159603
+
+
+Solving puzzle 375: 0 13 5 11 15 7 8 6 3 10 2 4 12 14 9 1 
+Path found with steps: R R D L L D R U L U R D R D L D L U U R R R D L D L U R D R U L D L L U R R U U R D L U L D D R U U L D L U R R D L D D R R 
+Max search depth reached for puzzle 375: 62
+Time taken 24875 ms
+Nodes expanded 37850386
+
+
+Solving puzzle 376: 13 0 6 8 3 7 10 5 4 11 12 14 1 2 15 9 
+Path found with steps: L D D D R R R U L L D R R U L U L U R D D L U L D D R U L D R R U U R U L L D R U L L D R D R R U U L L D R R D D 
+Max search depth reached for puzzle 376: 57
+Time taken 502 ms
+Nodes expanded 758686
+
+
+Solving puzzle 377: 3 12 4 14 7 8 11 13 9 15 10 2 6 1 5 0 
+Path found with steps: U U U L D L D D R R U L D R U U L L D L U R U L D D R R U L D D L U R D R R U L U U L D L D D R R R U L U L D D R R 
+Max search depth reached for puzzle 377: 58
+Time taken 14176 ms
+Nodes expanded 22455061
+
+
+Solving puzzle 378: 1 3 6 12 14 8 2 4 10 9 13 0 5 7 11 15 
+Path found with steps: D L L U R U L L D D R U U L D D R U U U R D R U L D D D R U U U L D L U R D D D R 
+Max search depth reached for puzzle 378: 41
+Time taken 8 ms
+Nodes expanded 14451
+
+
+Solving puzzle 379: 8 2 10 1 3 11 14 6 0 4 9 5 15 7 13 12 
+Path found with steps: U R D D R U U L D R R U L U R D L L L U R R D L L D R D L U R R D L L U R R R U L L L U R D L D R R R U L U L D D R R D 
+Max search depth reached for puzzle 379: 60
+Time taken 2824 ms
+Nodes expanded 4369668
+
+
+Solving puzzle 380: 8 0 2 10 7 4 6 13 11 5 14 15 3 9 1 12 
+Path found with steps: L D D D R R U R U L L U R D R U L D L L D R D R U R U L L U L D R D R R D L L U R U U L L D R R U L L D D D R R R 
+Max search depth reached for puzzle 380: 57
+Time taken 243 ms
+Nodes expanded 359652
+
+
+Solving puzzle 381: 4 12 1 13 14 10 7 8 3 6 15 5 9 11 2 0 
+Path found with steps: L U U U L D L D R U R U R D L U L L D R R D R D L L U R R U L U L L D D R U R D D L U U R R U L L D L D D R R R 
+Max search depth reached for puzzle 381: 56
+Time taken 309 ms
+Nodes expanded 499049
+
+
+Solving puzzle 382: 6 14 3 0 11 5 4 1 10 2 12 15 7 8 9 13 
+Path found with steps: L L D L U R R D L D D R R U L L L D R R R U L U R U L D L U R D R D L L U L D D R U U L U R R D L D R R D 
+Max search depth reached for puzzle 382: 53
+Time taken 67 ms
+Nodes expanded 109876
+
+
+Solving puzzle 383: 2 1 6 12 9 3 11 13 0 10 14 7 5 4 15 8 
+Path found with steps: R R R U L L U R D R U L D D R D L L U R D L U L U R R D R U L U R D L D L L D R R R U U L L U L D D R R R D 
+Max search depth reached for puzzle 383: 54
+Time taken 7419 ms
+Nodes expanded 11636003
+
+
+Solving puzzle 384: 2 15 9 14 1 3 13 8 7 10 11 6 5 0 4 12 
+Path found with steps: U R U L D R D L U U U R D R U L D D R U L U R D L L U L D D D R U U L D R R U L D D R U R D L U L D R R 
+Max search depth reached for puzzle 384: 52
+Time taken 299 ms
+Nodes expanded 456507
+
+
+Solving puzzle 385: 9 8 6 11 5 13 7 3 0 4 10 1 15 2 12 14 
+Path found with steps: R U L D R R R D L L L U R R U U L D L U R D D R R U U L L D D R D L U U R D R U U L D D L L U U R R D D R D 
+Max search depth reached for puzzle 385: 54
+Time taken 137 ms
+Nodes expanded 228572
+
+
+Solving puzzle 386: 4 12 15 7 3 10 14 13 6 0 11 8 2 5 9 1 
+Path found with steps: R R U L U L L D D D R R R U U L D D R U U L U R D L D L U R U L L D D D R R R U U U L L L D R U L D D D R R R 
+Max search depth reached for puzzle 386: 55
+Time taken 280 ms
+Nodes expanded 449190
+
+
+Solving puzzle 387: 10 1 4 0 15 6 3 11 9 7 5 12 2 14 13 8 
+Path found with steps: L D L L U R R D D L D R R U L L U L D D R U R D L U U R R D L L L U R D R U U L D R R D D 
+Max search depth reached for puzzle 387: 46
+Time taken 108 ms
+Nodes expanded 178532
+
+
+Solving puzzle 388: 14 13 1 3 8 6 2 7 12 10 11 5 9 15 4 0 
+Path found with steps: L U R D L L U L U U R R D D L L U U R D R R D L L D L U U R D D L U R D R R U L D L U U U R R D D D 
+Max search depth reached for puzzle 388: 50
+Time taken 15 ms
+Nodes expanded 24922
+
+
+Solving puzzle 389: 4 8 5 3 2 0 7 10 12 1 14 13 6 15 11 9 
+Path found with steps: R U L D D L D R U R U U L L D R U L D D R R R D L L L U R R R U L L L D R R R U L U R D D D L L L U R R R D 
+Max search depth reached for puzzle 389: 54
+Time taken 1496 ms
+Nodes expanded 2292804
+
+
+Solving puzzle 390: 11 8 13 1 3 9 5 0 15 2 12 7 10 4 6 14 
+Path found with steps: U L L L D R D D R U L L U R R D L U R R U L L D R R D L U U L L D R D R D R U L U R U L L L D D R D L U U R D D R R 
+Max search depth reached for puzzle 390: 58
+Time taken 7157 ms
+Nodes expanded 10569479
+
+
+Solving puzzle 391: 8 13 0 4 9 5 12 14 15 7 6 11 1 2 10 3 
+Path found with steps: L D D D R R U U L L D L D R U L U U R D D R U U L D R D D L U U L D R U R D L D L U U U R R D D R D L U R U L L D D R R 
+Max search depth reached for puzzle 391: 60
+Time taken 57542 ms
+Nodes expanded 89016729
+
+
+Solving puzzle 392: 2 15 12 6 7 4 5 1 14 13 10 9 8 0 11 3 
+Path found with steps: L U R R U R U L L D L D R U R D R D L L U L U R R U L L D R D R U R D L D L L U R U R R U L D D D R U U L D D R 
+Max search depth reached for puzzle 392: 56
+Time taken 1015 ms
+Nodes expanded 1614835
+
+
+Solving puzzle 393: 13 6 4 2 12 14 5 8 3 0 10 7 11 15 1 9 
+Path found with steps: L U R D R D L U L U U R D R D R D L U R U U L L D R D L D L U U U R D R R D L D L L U U R R D L L U U R D D R D R 
+Max search depth reached for puzzle 393: 57
+Time taken 43001 ms
+Nodes expanded 68721891
+
+
+Solving puzzle 394: 15 1 0 8 13 6 9 14 12 2 11 4 3 7 5 10 
+Path found with steps: D D R U L D L L U U R R D D L D R R U L L L D R U L U R D L D R R R U U U L D L U R D D L U L D R D R U R D 
+Max search depth reached for puzzle 394: 55
+Time taken 690 ms
+Nodes expanded 1096738
+
+
+Solving puzzle 395: 1 11 5 3 0 12 7 15 9 10 2 14 13 4 6 8 
+Path found with steps: D R R R U L L D D R U U U L D D D R U U L D R R U L L D L U R R U R D D D L U U R D D 
+Max search depth reached for puzzle 395: 43
+Time taken 8 ms
+Nodes expanded 16102
+
+
+Solving puzzle 396: 2 12 14 0 1 10 8 15 7 5 4 3 6 13 9 11 
+Path found with steps: D D L U U R D D L U U L L D D D R R U U U R D D L U L L D R D R R U L U L L D R R D R 
+Max search depth reached for puzzle 396: 43
+Time taken 4 ms
+Nodes expanded 6670
+
+
+Solving puzzle 397: 8 3 15 2 6 14 7 5 11 12 13 9 1 10 0 4 
+Path found with steps: L U L D R U R R U L L L U R D L D R R D L L U R R R D L L U R U R D D L U U U R D D L U L D D R U R U L U L L D R R U L D R D R D 
+Max search depth reached for puzzle 397: 65
+Time taken 494 ms
+Nodes expanded 787940
+
+
+Solving puzzle 398: 5 15 6 3 13 10 12 7 8 9 11 0 14 2 1 4 
+Path found with steps: L U L D L D R R U L D L U U R D D R R U L U U L D D R D L L U U U R D R D R U L U R D D L U R D D L U R D 
+Max search depth reached for puzzle 398: 53
+Time taken 2063 ms
+Nodes expanded 3215126
+
+
+Solving puzzle 399: 12 5 2 14 1 10 8 13 0 9 15 11 6 7 3 4 
+Path found with steps: R U U L D R U R D R D D L U L U R R D D L U L U R R U L D R D L U L L D R D L U U R D D R U U R U L D L D D R R 
+Max search depth reached for puzzle 399: 56
+Time taken 2622 ms
+Nodes expanded 4198746
+
+
+Solving puzzle 400: 5 9 11 15 8 13 12 1 2 7 14 0 4 6 10 3 
+Path found with steps: L L U L U R D L D D R U R U U L D L D D R R U R D L U U R U L D L L U R R D L D L U U R R D R D L U R U L D L D D R U R D 
+Max search depth reached for puzzle 400: 61
+Time taken 4019 ms
+Nodes expanded 6362939
+
+
+Solving puzzle 401: 7 13 8 4 5 10 14 6 15 9 2 3 12 11 1 0 
+Path found with steps: L L L U R R U L U L D R D L U R R R D D L L L U R R R D L L U R U L D R U U R D L U L D L U R D D R R U L U R D D D 
+Max search depth reached for puzzle 401: 58
+Time taken 20665 ms
+Nodes expanded 32256151
+
+
+Solving puzzle 402: 4 5 0 7 11 2 1 9 14 12 10 15 6 3 8 13 
+Path found with steps: D L L U R R D D D R U L L U R R D L L D R R U L L L D R U U R D L U L D R R R U L L L U R R R D L U R D D D 
+Max search depth reached for puzzle 402: 54
+Time taken 48 ms
+Nodes expanded 77723
+
+
+Solving puzzle 403: 15 7 13 2 8 12 0 10 6 5 9 4 3 11 14 1 
+Path found with steps: L L D R R U U L L D D D R U U R R D L L U U L D D R D R R U L D L L U R U R D L D R U L U R U L D L U R R R D L L U R D R D D 
+Max search depth reached for puzzle 403: 63
+Time taken 5245 ms
+Nodes expanded 7700815
+
+
+Solving puzzle 404: 8 2 1 0 11 9 12 5 15 14 10 6 7 3 4 13 
+Path found with steps: L D R D L D R U U U L D D L L U R U R D D L D R U U R U L D L D L D R U L U U R R D L L U R R D L D R R D L L U R R U L L D R D R 
+Max search depth reached for puzzle 404: 65
+Time taken 7539 ms
+Nodes expanded 11164254
+
+
+Solving puzzle 405: 14 11 12 6 15 9 3 13 2 10 7 5 4 0 1 8 
+Path found with steps: R R U U L U R D L D D R U U L L L D D R R R U L L L D R R U L U R U L L D D D R U U U L D D R U R D R U L U R D D L D L U R U R D D 
+Max search depth reached for puzzle 405: 66
+Time taken 13023 ms
+Nodes expanded 18451797
+
+
+Solving puzzle 406: 15 12 2 3 6 1 11 10 13 5 4 14 8 0 9 7 
+Path found with steps: L U U R U L D R U R D L L D R U R D D L U R R U L L L D R R R D L L U R U U R D D D L U U R D D 
+Max search depth reached for puzzle 406: 48
+Time taken 1 ms
+Nodes expanded 2748
+
+
+Solving puzzle 407: 12 13 7 9 11 8 0 2 6 3 10 14 1 4 15 5 
+Path found with steps: L L U R R R D L L D R R D L L U L D R R U U L L D R D R U R U L L D R U L U R R D L L L U R D D L U U R R R D D L D L L U U R D D R R 
+Max search depth reached for puzzle 407: 67
+Time taken 28665 ms
+Nodes expanded 39752575
+
+
+Solving puzzle 408: 12 14 0 4 2 10 11 7 13 15 3 8 6 9 1 5 
+Path found with steps: L L D R R D L U R R D L D R U U L U L D D R U L D D L U U R D D R U U U L L D R D D R U U L D L U R R R D L D R 
+Max search depth reached for puzzle 408: 56
+Time taken 20070 ms
+Nodes expanded 30647005
+
+
+Solving puzzle 409: 14 3 9 8 2 1 10 5 11 0 12 13 7 6 15 4 
+Path found with steps: L D R R U R D L L U R U U L D L U R D R R U L D R D D L L U L U R D L D R U L U U R R R D L L U L D R D R D R 
+Max search depth reached for puzzle 409: 55
+Time taken 190 ms
+Nodes expanded 298685
+
+
+Solving puzzle 410: 0 15 9 10 6 7 8 11 13 3 4 12 1 5 14 2 
+Path found with steps: D R R D D R U U L L U R R D L L L U R D D D L U R D R U U U L D D D R U U U L D D L U U R D D L U R D R R D 
+Max search depth reached for puzzle 410: 54
+Time taken 699 ms
+Nodes expanded 1123890
+
+
+Solving puzzle 411: 4 12 5 15 11 7 2 3 1 13 8 6 14 0 9 10 
+Path found with steps: R U U U L L D D R U R R U L L L D R R D R U U L L D R U L D D R D R U U L D D R U U L L D D L U R R R D 
+Max search depth reached for puzzle 411: 52
+Time taken 409 ms
+Nodes expanded 644695
+
+
+Solving puzzle 412: 13 2 6 0 7 1 15 10 9 5 8 11 12 3 4 14 
+Path found with steps: D L U L D L U R D D L U R R D D R U U L D D L L U R R D L U U U R D D R U U L D R D L U L D R R D L U R D 
+Max search depth reached for puzzle 412: 53
+Time taken 24 ms
+Nodes expanded 38992
+
+
+Solving puzzle 413: 15 10 9 11 6 12 5 3 8 4 14 1 13 7 0 2 
+Path found with steps: U L U L U R R D D L L U U R R D R D L U R U L D D L L U U R R D D D L U R D R U L D L U R R U L L D L U U R D R D R D 
+Max search depth reached for puzzle 413: 59
+Time taken 6700 ms
+Nodes expanded 10005186
+
+
+Solving puzzle 414: 0 1 5 2 13 8 10 7 4 15 6 9 3 14 11 12 
+Path found with steps: R R D L U R R D L D L L D R R U L L U R R D L U U R D D R U U L D L D R U R D D L L L U R R D R 
+Max search depth reached for puzzle 414: 48
+Time taken 39 ms
+Nodes expanded 55386
+
+
+Solving puzzle 415: 12 9 4 13 3 7 8 0 15 11 10 14 1 6 5 2 
+Path found with steps: L L U L D D D R R U L U L D D R R R U U U L D R D L U L U L D D R R D L U R U L D L D R R R U L U U L D L D R D R R U L D R 
+Max search depth reached for puzzle 415: 62
+Time taken 14724 ms
+Nodes expanded 22194095
+
+
+Solving puzzle 416: 0 8 1 4 12 10 5 9 2 15 6 11 7 3 13 14 
+Path found with steps: R R D L L D R D R U U L U L D R D L D R R U U U L D R R D L L U R U L L D R D L U R D D R R U U L L D D R U R D 
+Max search depth reached for puzzle 416: 56
+Time taken 69 ms
+Nodes expanded 118251
+
+
+Solving puzzle 417: 5 9 13 8 15 0 7 2 4 14 3 6 12 10 11 1 
+Path found with steps: L D R R R D L U R U L D L D L U R U L U R R D L U L D R U R D D R U U L D D D L U L U R R D R D L L L U U U R D R D R D 
+Max search depth reached for puzzle 417: 60
+Time taken 15835 ms
+Nodes expanded 24709574
+
+
+Solving puzzle 418: 0 12 13 14 8 9 2 11 4 6 10 3 1 7 15 5 
+Path found with steps: D D D R U U R U L L D D D R U R U R U L L L D D R R R U L D R D L U R U U L L D L D D R U R R U U L D L L D R U L D D R R R 
+Max search depth reached for puzzle 418: 62
+Time taken 3313 ms
+Nodes expanded 5097186
+
+
+Solving puzzle 419: 1 15 14 10 9 13 5 8 4 0 11 6 12 3 2 7 
+Path found with steps: L U R R U R D D L L L U R R D D L L U R U U R D R U L D D D L U U U R D D L U U R D R D D L U R U L D R D 
+Max search depth reached for puzzle 419: 53
+Time taken 10 ms
+Nodes expanded 12464
+
+
+Solving puzzle 420: 10 5 1 13 6 0 15 14 11 7 3 4 8 2 9 12 
+Path found with steps: R R D L L U R R D L L D L U R D R U L U L U R R R D L U R D D L U L L D D R U R D L U L D R R U L U L U R D R R D D 
+Max search depth reached for puzzle 420: 58
+Time taken 370 ms
+Nodes expanded 544234
+
+
+Solving puzzle 421: 8 4 13 7 2 0 15 11 14 5 6 10 9 1 12 3 
+Path found with steps: D D L U R R U U L L D D R U U L D D R U R R D D L U L U R R D L U L L D R D L U R R U R U L D R D D 
+Max search depth reached for puzzle 421: 50
+Time taken 444 ms
+Nodes expanded 725578
+
+
+Solving puzzle 422: 0 7 12 14 13 2 3 1 6 10 8 4 11 15 5 9 
+Path found with steps: D R R U R D D L U U R D L L U R D R D L L D R R U L L D R U U L L U R D D L U R D D L U R R R D L L U R D R 
+Max search depth reached for puzzle 422: 54
+Time taken 1630 ms
+Nodes expanded 2619988
+
+
+Solving puzzle 423: 1 11 5 15 13 4 8 7 3 2 12 0 14 10 9 6 
+Path found with steps: L L D R R U U L U L D R U R D L D L L U R R U L D D D L U R R D L U R U L D D R U R U U L D D R D 
+Max search depth reached for puzzle 423: 49
+Time taken 477 ms
+Nodes expanded 795465
+
+
+Solving puzzle 424: 6 14 3 8 2 9 5 11 15 4 12 0 10 7 13 1 
+Path found with steps: L L L U R U R D D L D R U L L D R R R U L L U U R D D D L U R R U U L D L D L U U R D L U R R D D R D 
+Max search depth reached for puzzle 424: 51
+Time taken 687 ms
+Nodes expanded 1124623
+
+
+Solving puzzle 425: 11 4 8 15 14 3 13 7 1 12 9 10 6 0 5 2 
+Path found with steps: R U U L L D D R R R U U U L L L D D D R U R D L U U R D R U U L D L U R D D D R U L L U L D D R R U L D R R 
+Max search depth reached for puzzle 425: 54
+Time taken 161 ms
+Nodes expanded 262461
+
+
+Solving puzzle 426: 0 10 1 12 6 3 11 14 9 13 8 7 15 2 5 4 
+Path found with steps: D R D D R R U U L D L D L U R U U R D D D L U U L U R D R D R D L U R U U L D D R U U L L D L D D R R R 
+Max search depth reached for puzzle 426: 52
+Time taken 72 ms
+Nodes expanded 125502
+
+
+Solving puzzle 427: 10 2 3 12 5 13 9 11 0 14 15 6 1 7 4 8 
+Path found with steps: R R D L U U L U R D R D R D L L U L D R U U L D R U U R D D R U U L L L D R R D R D L U R U L D D R 
+Max search depth reached for puzzle 427: 50
+Time taken 26 ms
+Nodes expanded 45605
+
+
+Solving puzzle 428: 12 1 2 7 15 14 5 10 13 8 9 11 4 6 0 3 
+Path found with steps: L U R R D L L L U U U R D D L U R R R D D L L U R D L U L U R U R R D D L L U R R D D L L U U R U R D D L D R 
+Max search depth reached for puzzle 428: 55
+Time taken 336 ms
+Nodes expanded 472276
+
+
+Solving puzzle 429: 14 13 15 1 0 5 2 10 11 6 4 12 9 8 3 7 
+Path found with steps: R R U R D L L U R D D L U L U R R D D D L U L U R R D R D L U R U U L D D R D L U L L D R U U R R D L U L D R R D 
+Max search depth reached for puzzle 429: 57
+Time taken 380 ms
+Nodes expanded 615896
+
+
+Solving puzzle 430: 3 11 8 2 6 14 9 0 7 15 10 1 13 5 12 4 
+Path found with steps: D D L L U U R R D L D L U L U R R U R D L D L L U R R U L L D R R D R U L U L D D R U R D D 
+Max search depth reached for puzzle 430: 47
+Time taken 33 ms
+Nodes expanded 59425
+
+
+Solving puzzle 431: 0 10 6 3 11 1 14 12 2 5 9 15 4 7 8 13 
+Path found with steps: R D L D R R D R U L U L L U R D L D R D L U R D R U L L D R R R U L U R D D L U U U R D D L L U R D D R 
+Max search depth reached for puzzle 431: 52
+Time taken 25 ms
+Nodes expanded 41634
+
+
+Solving puzzle 432: 15 5 0 11 10 7 13 8 12 4 1 14 6 2 9 3 
+Path found with steps: D D L L U U R R D D L D R R U L D R U U L L U R R D L D L U L D D R U U R D L L U U R D R U L D D L D R R U U R D D 
+Max search depth reached for puzzle 432: 58
+Time taken 262 ms
+Nodes expanded 439693
+
+
+Solving puzzle 433: 1 5 9 15 8 0 6 3 12 4 2 14 13 11 7 10 
+Path found with steps: L U R R D D L U U L D R U R D D L L U R U R D R U L D D D R U U L D L D R R U L L D R R 
+Max search depth reached for puzzle 433: 44
+Time taken 3 ms
+Nodes expanded 6177
+
+
+Solving puzzle 434: 8 13 2 15 14 6 12 7 1 9 0 11 10 5 4 3 
+Path found with steps: L D R U U L L D R D R R U L L U U L D D D R U U R D D L U U U R D D R U U L D L D L D R R U R U L D R D L U R D 
+Max search depth reached for puzzle 434: 56
+Time taken 1734 ms
+Nodes expanded 2809335
+
+
+Solving puzzle 435: 1 4 0 12 14 6 3 15 11 8 7 2 5 10 9 13 
+Path found with steps: L D R D R U L D L L D R R R U U U L D L L D R U U R D D L L D R R U L L D R R U R U L D D R 
+Max search depth reached for puzzle 435: 46
+Time taken 67 ms
+Nodes expanded 116646
+
+
+Solving puzzle 436: 2 0 14 3 11 1 4 8 15 10 13 7 9 12 5 6 
+Path found with steps: R R D D L D L U L U R U R D D R D L L U R D L U L D R U U R R D D L L U R U R U L L L D R R D D R 
+Max search depth reached for puzzle 436: 49
+Time taken 478 ms
+Nodes expanded 841834
+
+
+Solving puzzle 437: 9 2 0 6 15 3 5 10 7 14 13 4 12 11 8 1 
+Path found with steps: D R D D L L L U U U R R R D D D L L L U R R U R D D L L L U R R D L L U U U R D R U L D L U R D R D R D 
+Max search depth reached for puzzle 437: 52
+Time taken 17 ms
+Nodes expanded 29556
+
+
+Solving puzzle 438: 12 5 9 6 15 11 14 7 2 13 4 3 10 1 0 8 
+Path found with steps: L U R U L L D D R R U L U U R R D D L L D R U U L U L D R D L U R R U L L D R R U R D D D L U U U R D D L D R 
+Max search depth reached for puzzle 438: 55
+Time taken 173 ms
+Nodes expanded 293766
+
+
+Solving puzzle 439: 5 14 13 7 2 3 12 6 0 10 11 4 9 8 1 15 
+Path found with steps: R R R U L L U R D D D L U U U R D D D L U U R R D L U R U L L D L U R D R R D L D L U L D R R R 
+Max search depth reached for puzzle 439: 48
+Time taken 26 ms
+Nodes expanded 45002
+
+
+Solving puzzle 440: 8 4 3 13 12 2 10 11 7 0 5 15 6 14 1 9 
+Path found with steps: R D L U R U U L D D L D R R R U U U L L D L U R R D L L D D R R U U R D L U L D R D R U U L L L D R D L U R R R D 
+Max search depth reached for puzzle 440: 57
+Time taken 3890 ms
+Nodes expanded 6371728
+
+
+Solving puzzle 441: 12 2 13 7 15 6 5 3 14 1 0 11 8 10 9 4 
+Path found with steps: D L L U R R U U L D L D R U R D D L U U R U L L D D R R R D L L L U U R R U L D R U R D D D L U U U R D D L D R 
+Max search depth reached for puzzle 441: 56
+Time taken 148 ms
+Nodes expanded 221565
+
+
+Solving puzzle 442: 15 11 12 6 14 9 13 1 2 5 8 3 4 0 10 7 
+Path found with steps: U L U R R R U L L L D R R R U L L D D D L U U U R D D D R U L D L U U R R R D L U U R D D D L U U U R D D D L U U R D D 
+Max search depth reached for puzzle 442: 60
+Time taken 819 ms
+Nodes expanded 1276356
+
+
+Solving puzzle 443: 15 14 12 2 5 6 3 11 13 1 7 10 4 8 0 9 
+Path found with steps: L L U U R D R D R U U L U L L D R D D R R U L U U L L D R D D R U U U R D D D L U U L L D R D R U R U L L U R R D D D 
+Max search depth reached for puzzle 443: 59
+Time taken 4228 ms
+Nodes expanded 6463318
+
+
+Solving puzzle 444: 7 11 14 12 13 3 8 10 9 2 0 6 1 4 15 5 
+Path found with steps: R D L U R U L U L D D D L U U R D D L U R R U U L L D D R D R U U L U R D R U L L L D D R D R U R U L L D R D R 
+Max search depth reached for puzzle 444: 57
+Time taken 2652 ms
+Nodes expanded 4086539
+
+
+Solving puzzle 445: 4 11 14 15 13 12 1 3 0 7 9 10 2 5 6 8 
+Path found with steps: R U L D D R U R D L U U L D D R U U R U L L D R D R R D L U U U L L D D D R R U U R U L D R D L U L D D R U R D 
+Max search depth reached for puzzle 445: 57
+Time taken 92 ms
+Nodes expanded 147280
+
+
+Solving puzzle 446: 14 7 15 11 0 9 1 4 8 6 5 13 12 10 3 2 
+Path found with steps: R R R U L L D D L U U R D D R R U U L D L D R D R U U L D D L L U U R R D D L U L D R U R R U U L D L U R D R D D L U R D 
+Max search depth reached for puzzle 446: 61
+Time taken 1085 ms
+Nodes expanded 1676462
+
+
+Solving puzzle 447: 3 9 6 10 2 1 15 12 7 5 0 4 11 13 14 8 
+Path found with steps: U L U L D D D R R U L L U R R D L L U R R R D D L U U U R D L U L L D R R R D L L U R D D R 
+Max search depth reached for puzzle 447: 47
+Time taken 60 ms
+Nodes expanded 83973
+
+
+Solving puzzle 448: 15 7 8 11 6 13 1 0 12 5 14 2 4 3 9 10 
+Path found with steps: D L L L U R R D L D L U R D R R U L L L U R R R U L L L D R U R D D L U U R D D L D L U R D R R U U U L D L D D R U R D 
+Max search depth reached for puzzle 448: 60
+Time taken 4288 ms
+Nodes expanded 6299297
+
+
+Solving puzzle 449: 14 1 13 6 7 4 3 11 5 12 9 0 2 8 10 15 
+Path found with steps: U L U R D D D L U L D R R U L U L D R D R U U L L L U R R R D L L L D D R U U U L D D D R U U L U R D D R R D 
+Max search depth reached for puzzle 449: 55
+Time taken 4098 ms
+Nodes expanded 6043955
+
+
+Solving puzzle 450: 12 2 14 10 15 13 11 7 5 4 9 8 6 3 1 0 
+Path found with steps: U L L U L U R D L D R U R D L D R U R U L U L D D R U U R D D D L U U U L D D D L U R U L D R D R U U U L L D R D R U R D D 
+Max search depth reached for puzzle 450: 63
+Time taken 21930 ms
+Nodes expanded 32868587
+
+
+Solving puzzle 451: 7 10 9 11 2 1 0 6 13 8 5 3 14 4 12 15 
+Path found with steps: U L L D R D R D L L U R U R R D L D R U L L U R U R D D L U U L L D D R R U U R D D D 
+Max search depth reached for puzzle 451: 44
+Time taken 3 ms
+Nodes expanded 6577
+
+
+Solving puzzle 452: 15 9 11 14 10 8 0 7 1 3 5 4 13 12 2 6 
+Path found with steps: L L D R U U L D R U R R D L D D L U U R D R D L L U L U R U R D D L U U R D D R U U L D D L U R R D L D L U R R D 
+Max search depth reached for puzzle 452: 57
+Time taken 489 ms
+Nodes expanded 782709
+
+
+Solving puzzle 453: 13 10 14 11 6 3 12 9 5 0 7 8 2 15 1 4 
+Path found with steps: L U U R D D D R U R D L U U R D D L U U U R D D D L U L D R U U U L D D L U U R D D L D R U R U L L D D R U U L U R D R R D D 
+Max search depth reached for puzzle 453: 63
+Time taken 32639 ms
+Nodes expanded 50085562
+
+
+Solving puzzle 454: 3 1 0 14 2 8 5 12 11 9 4 13 7 15 10 6 
+Path found with steps: L D R U L L D R R D D L L U R D L U U R D R R D L U R U U L D R U L L L D D R R U L D D R U L L D R R R 
+Max search depth reached for puzzle 454: 52
+Time taken 741 ms
+Nodes expanded 1214870
+
+
+Solving puzzle 455: 1 11 8 6 5 7 15 3 10 12 14 2 0 13 4 9 
+Path found with steps: R R U L D R U U U R D D D L U R U L D L L U R R D R U L D L U U R D L L D R R U L U R R D D D 
+Max search depth reached for puzzle 455: 47
+Time taken 1486 ms
+Nodes expanded 2386568
+
+
+Solving puzzle 456: 15 3 5 0 12 4 6 8 9 2 1 11 14 13 10 7 
+Path found with steps: D L L L U R R D L L D R R U L D L U R D D R U U L U L D D R D L U U R R R D D L U R U U L L D R D R D 
+Max search depth reached for puzzle 456: 51
+Time taken 353 ms
+Nodes expanded 540672
+
+
+Solving puzzle 457: 6 4 11 12 7 10 8 15 13 3 14 5 2 9 0 1 
+Path found with steps: R U L D R U U U L D L D L D R U R D R U U U L L D L D R R U R U L L L D D R R U L U L D D D R R R 
+Max search depth reached for puzzle 457: 49
+Time taken 631 ms
+Nodes expanded 1053970
+
+
+Solving puzzle 458: 15 13 11 14 12 4 2 6 8 0 5 10 9 3 7 1 
+Path found with steps: D R R U U U L D L L U R R D L D L U U R D D R D L L U R R R U L L D L U R D R R U U L L L D R D D L U R R D R U U L D D L U R R D 
+Max search depth reached for puzzle 458: 65
+Time taken 819 ms
+Nodes expanded 1253475
+
+
+Solving puzzle 459: 10 3 7 8 13 9 11 5 6 1 12 2 4 15 14 0 
+Path found with steps: L L L U U R D D L U U R R R D L L U R U L L D R R R U L D D D R U U L L D D R U L U U R R D L D L U R R D D 
+Max search depth reached for puzzle 459: 54
+Time taken 2456 ms
+Nodes expanded 3913444
+
+
+Solving puzzle 460: 6 7 15 8 12 2 5 10 14 0 13 9 3 1 11 4 
+Path found with steps: L U R R R D D L U L L D R R U L U R U L L D D D R R U U R D D L U U L L D R R U R U L D L U L D D R R R U U L D R D D 
+Max search depth reached for puzzle 460: 59
+Time taken 1136 ms
+Nodes expanded 1731517
+
+
+Solving puzzle 461: 13 5 3 12 9 11 14 2 0 6 10 7 4 8 15 1 
+Path found with steps: R R U R D D L L L U R D R U R U U L D L D R U L D D L U U U R D D D R U R U L L D L U U R R R D L D D L L U R D R R 
+Max search depth reached for puzzle 461: 58
+Time taken 9981 ms
+Nodes expanded 15809547
+
+
+Solving puzzle 462: 14 4 6 1 2 10 12 9 3 13 11 15 5 8 7 0 
+Path found with steps: L L U R R D L U U R U L L L D D D R R U L U U L D D R U R R U L L L D R R U L D R R D D L L U L U U R D R R D D 
+Max search depth reached for puzzle 462: 56
+Time taken 513 ms
+Nodes expanded 822130
+
+
+Solving puzzle 463: 8 3 13 9 11 6 2 5 15 1 4 10 7 0 12 14 
+Path found with steps: L U R U R U L D R D L U L U R R D R U L D L L D R R R U L L D R R D L L L U R R R U L L D R U U L L D R R D D L U L U R R D R D 
+Max search depth reached for puzzle 463: 64
+Time taken 1474 ms
+Nodes expanded 2132334
+
+
+Solving puzzle 464: 15 10 9 4 1 7 8 14 13 6 3 11 5 2 12 0 
+Path found with steps: L L L U R R D R U U L D L U U L D R U R D D L U U R D D R D L U L L U R D D R U U L D L U R R D R D 
+Max search depth reached for puzzle 464: 50
+Time taken 26 ms
+Nodes expanded 44118
+
+
+Solving puzzle 465: 3 2 14 15 8 13 5 9 10 1 4 12 0 7 11 6 
+Path found with steps: U R U L D R U R D R U U L L L D R U R D L D D R R U U U L D D D R U U L L D R R U L L D D R U L D L U R D R R 
+Max search depth reached for puzzle 465: 55
+Time taken 196 ms
+Nodes expanded 242959
+
+
+Solving puzzle 466: 0 3 14 6 5 7 11 9 4 10 13 15 2 12 8 1 
+Path found with steps: D D R R R U L U L D R D R D L L U U L D D R U R U R D D L U U R U L L D L D R U R R U L L D L U R D R R U L D R D D 
+Max search depth reached for puzzle 466: 58
+Time taken 1499 ms
+Nodes expanded 2229360
+
+
+Solving puzzle 467: 10 12 9 4 7 15 3 1 14 11 8 6 5 2 0 13 
+Path found with steps: L U U U R D R D L L U R R D L L D R R U L L D R U L L U R U L D D D R U U L D R U U R D D L U R U L D R D D R 
+Max search depth reached for puzzle 467: 55
+Time taken 568 ms
+Nodes expanded 842602
+
+
+Solving puzzle 468: 4 2 13 9 15 8 6 1 3 7 11 10 0 12 14 5 
+Path found with steps: R R R U L L L U U R R D L L U R D D D R R U L U R U L L D R R U L L D L U R D R R D L L D L U U R D R D L L U U R R R D D L L U R R D 
+Max search depth reached for puzzle 468: 67
+Time taken 8244 ms
+Nodes expanded 13176247
+
+
+Solving puzzle 469: 1 8 3 13 7 0 11 10 12 9 6 4 2 15 5 14 
+Path found with steps: L D R R U R D L D L L U R R U U L D R U R D L U L D L D R D R U U L D R D L U R D R U L U U L D L D D R R R U L D R 
+Max search depth reached for puzzle 469: 58
+Time taken 11277 ms
+Nodes expanded 17622729
+
+
+Solving puzzle 470: 0 1 9 6 2 4 14 8 5 13 3 7 15 11 10 12 
+Path found with steps: R D L D R R U U L D R D L U R D R U U L D R D D L L L U R U R D D R U L D L U R R D 
+Max search depth reached for puzzle 470: 42
+Time taken 85 ms
+Nodes expanded 156054
+
+
+Solving puzzle 471: 9 8 0 1 14 10 6 12 4 13 15 11 7 2 5 3 
+Path found with steps: R D L L D L U R D D R U R D L U U L U R D L D D L U U U R D D R U R D D L L L U U R R R U L D D D R U U L D D R 
+Max search depth reached for puzzle 471: 56
+Time taken 2499 ms
+Nodes expanded 3930438
+
+
+Solving puzzle 472: 7 11 4 13 14 1 5 9 2 3 12 10 15 8 0 6 
+Path found with steps: R U U U L L D D L U U R D D D R U U U L D D R R U L D R D L L L U R R U L L D R R D L L U R R R U L L D R R D 
+Max search depth reached for puzzle 472: 55
+Time taken 170 ms
+Nodes expanded 244652
+
+
+Solving puzzle 473: 6 5 13 7 9 0 11 2 15 10 4 1 12 3 8 14 
+Path found with steps: R U R D L D R U L U R D L D R D L L L U R R D L L U R U R D R D L L L U U R U L D R U R D R D D L U L D R R 
+Max search depth reached for puzzle 473: 54
+Time taken 50 ms
+Nodes expanded 84312
+
+
+Solving puzzle 474: 2 14 5 7 9 13 8 11 15 12 10 6 1 0 3 4 
+Path found with steps: R R U U L D D L U U U R D D D L U L D R U U U R D D R D L L U R R U U L D D L U L D R U U L D D R U R R D D 
+Max search depth reached for puzzle 474: 54
+Time taken 192 ms
+Nodes expanded 304673
+
+
+Solving puzzle 475: 7 10 9 6 14 0 11 4 13 12 15 8 2 5 3 1 
+Path found with steps: U R R D D L L L D R R R U L L D R U U L D D R U U L L D R U U L D D D R U U R U L D R U L L D D R R D R 
+Max search depth reached for puzzle 475: 53
+Time taken 1669 ms
+Nodes expanded 2615087
+
+
+Solving puzzle 476: 0 12 15 2 14 6 7 9 11 5 3 10 8 13 4 1 
+Path found with steps: R D L U R D D D L U U R R D D R U U L U R D L D D L L U R R R U L L D R D L L U U R U L D D R D R R U L L U U R R D D L D L U R D R 
+Max search depth reached for puzzle 476: 66
+Time taken 5645 ms
+Nodes expanded 8994576
+
+
+Solving puzzle 477: 9 10 11 4 5 0 8 7 6 12 2 14 1 15 13 3 
+Path found with steps: R D L D R U R D L U L L D R R U L U U R D D L U U L D D R U U L D R U R R D D L L L U R R R U L D R D D 
+Max search depth reached for puzzle 477: 52
+Time taken 1097 ms
+Nodes expanded 1791345
+
+
+Solving puzzle 478: 1 9 14 15 2 11 6 0 3 4 10 5 12 7 8 13 
+Path found with steps: L L D R R D L L U R R U L U L D L D R R U U L D L D R R U L D R R U U L D D D L L U R U R R D L D L U R U R D D L U U R D D 
+Max search depth reached for puzzle 478: 63
+Time taken 2618 ms
+Nodes expanded 4234703
+
+
+Solving puzzle 479: 12 8 1 0 14 2 6 11 13 4 3 9 7 5 10 15 
+Path found with steps: D L L U R D D R U L L L U R R R D L L D R U L D D L U R U L D R D R U R U L L D R U U R D D L U L D D R R 
+Max search depth reached for puzzle 479: 53
+Time taken 2 ms
+Nodes expanded 4352
+
+
+Solving puzzle 480: 15 0 10 9 13 6 8 4 1 7 14 3 5 11 12 2 
+Path found with steps: R R D D D L U R U L D L L U U R R D L D D L U U U R D R D R U L D L L U U R R D D L D R U U L D L U R R R D D 
+Max search depth reached for puzzle 480: 55
+Time taken 1291 ms
+Nodes expanded 2012061
+
+
+Solving puzzle 481: 4 7 12 14 11 2 3 1 5 9 15 8 10 13 0 6 
+Path found with steps: L U U R R U L L L D R R U L L D R U L D D D R R U R U U L D D R D L U R U L L D L D R U R U U L D D D R R 
+Max search depth reached for puzzle 481: 53
+Time taken 968 ms
+Nodes expanded 1566625
+
+
+Solving puzzle 482: 8 15 0 14 12 4 6 11 7 3 13 10 9 2 1 5 
+Path found with steps: L D R U L D D D R R U U L L D D R U R U U L L D L U R R D L L D R D R R U U L L L D R R R U L L U L D D D R R U L D R R 
+Max search depth reached for puzzle 482: 60
+Time taken 215 ms
+Nodes expanded 330524
+
+
+Solving puzzle 483: 9 2 7 11 4 13 1 6 3 5 10 0 8 12 14 15 
+Path found with steps: L L U L D R D L U U U R D R D L L U R R R D L L D R R U L U R U L L L D R R D L U R R D L U R U L D R D D 
+Max search depth reached for puzzle 483: 53
+Time taken 30 ms
+Nodes expanded 53391
+
+
+Solving puzzle 484: 4 8 15 7 13 5 14 12 2 6 10 1 9 3 11 0 
+Path found with steps: L U L D L U U R D L D R U R U U L L D D D R R U R U L D R U U L L D R R U L L D L U R D D D R R U L D R 
+Max search depth reached for puzzle 484: 52
+Time taken 364 ms
+Nodes expanded 634005
+
+
+Solving puzzle 485: 4 5 7 11 10 6 8 12 14 2 9 3 0 13 15 1 
+Path found with steps: R R R U U U L L D D R D R U U L L D L U R R D D L U L U U R R D L L U R R D L L U R R D D R U U L D R D D 
+Max search depth reached for puzzle 485: 53
+Time taken 10636 ms
+Nodes expanded 17700124
+
+
+Solving puzzle 486: 3 11 1 2 13 12 9 10 0 7 5 14 4 15 6 8 
+Path found with steps: U R R U L D R D D L L U U R U L D R R D L L U R R D L D R U R U L U L D D R R D L L U R U U R D L L U R R D L U R D D D 
+Max search depth reached for puzzle 486: 60
+Time taken 1025 ms
+Nodes expanded 1637676
+
+
+Solving puzzle 487: 14 0 1 2 15 8 3 6 12 10 7 4 11 13 5 9 
+Path found with steps: R R D L L L U R R R D L L D R U R D L L L U U R R R D L D L L D R R R U L L L D R R U L L D R U U U L D D D R R R 
+Max search depth reached for puzzle 487: 57
+Time taken 8631 ms
+Nodes expanded 13701364
+
+
+Solving puzzle 488: 5 8 12 3 10 9 13 0 11 1 4 6 14 2 15 7 
+Path found with steps: U L L D R R U L D D L L U R U R D D R D L L U L U R R D D L L U R R R U U L L D D L U U R D R D D R 
+Max search depth reached for puzzle 488: 50
+Time taken 481 ms
+Nodes expanded 808788
+
+
+Solving puzzle 489: 8 5 14 6 7 12 15 2 13 11 10 9 0 1 3 4 
+Path found with steps: U R D R U U L L U R D D D R U R D L U U U L D L U R R R D D L U L U R R D L L D L D R R U U L U R D D L D L U R D R R 
+Max search depth reached for puzzle 489: 59
+Time taken 1851 ms
+Nodes expanded 3026060
+
+
+Solving puzzle 490: 14 10 2 7 8 9 6 11 13 1 3 0 15 5 4 12 
+Path found with steps: L D L L U U U R D D L U U R D R R D L L L U U R R R D D L D L U R U L D L U R R U R D D D 
+Max search depth reached for puzzle 490: 45
+Time taken 8 ms
+Nodes expanded 15113
+
+
+Solving puzzle 491: 10 6 15 4 5 11 3 9 13 7 1 2 8 14 12 0 
+Path found with steps: L L L U R R U R D L U L D L U R D R U U L L D D R R U L D D R U U R D L L U U R D R D L L U U R D R D D 
+Max search depth reached for puzzle 491: 52
+Time taken 314 ms
+Nodes expanded 547897
+
+
+Solving puzzle 492: 11 0 14 3 9 5 2 7 1 8 10 4 12 6 13 15 
+Path found with steps: L D D D R R U L L U R U R D R D L L U L D D R U U U L D D R U U R R D D L L U L D R R D L U R D R 
+Max search depth reached for puzzle 492: 49
+Time taken 2 ms
+Nodes expanded 4467
+
+
+Solving puzzle 493: 12 10 14 15 2 11 7 0 3 9 4 8 13 6 5 1 
+Path found with steps: L D D R U U L L U L D R D L U R D R U U L D D D R U U U R D D D L U U U L D D D R U U L D L U R U L D R R R D D L U R D 
+Max search depth reached for puzzle 493: 60
+Time taken 16417 ms
+Nodes expanded 26242836
+
+
+Solving puzzle 494: 4 9 2 14 6 12 5 13 10 8 7 11 15 1 0 3 
+Path found with steps: R U L U L U L D R D D R U U L D D R U U U L D D L U U R D R R U L L D R R D L L D L U R U R R D D L L U U L D D R U R R D 
+Max search depth reached for puzzle 494: 61
+Time taken 19522 ms
+Nodes expanded 31831047
+
+
+Solving puzzle 495: 15 7 3 0 11 12 5 10 13 1 14 8 2 9 4 6 
+Path found with steps: L L D D L D R U L U R R U L L D R R U L D D L D R R U U U L D D D R U U R D D L U L U R D R U L D L U R U R D D D 
+Max search depth reached for puzzle 495: 57
+Time taken 1438 ms
+Nodes expanded 2270510
+
+
+Solving puzzle 496: 1 7 3 10 14 5 4 9 0 12 15 11 2 13 6 8 
+Path found with steps: D R U R D L U U L D R U R R U L L D R R D D L L U U L D R R U R U L L D D R U R U L D R D D 
+Max search depth reached for puzzle 496: 46
+Time taken 122 ms
+Nodes expanded 207102
+
+
+Solving puzzle 497: 2 1 8 11 6 9 15 7 13 0 4 14 5 3 12 10 
+Path found with steps: R U L D D L U U U R D D R R D L U L D R U U R U L L D L D R R R U U L L D L D R R R D 
+Max search depth reached for puzzle 497: 44
+Time taken 28 ms
+Nodes expanded 41611
+
+
+Solving puzzle 498: 13 0 6 3 9 10 14 15 4 7 1 12 8 5 2 11 
+Path found with steps: L D D R R U L U L D D R U U L D D R D L U R R D L U U U L D D R R U L D R R U L U L D R D D R U L U U R D D L D R 
+Max search depth reached for puzzle 498: 57
+Time taken 1004 ms
+Nodes expanded 1712955
+
+
+Solving puzzle 499: 9 5 13 7 10 4 2 1 14 8 15 12 0 11 6 3 
+Path found with steps: R R U L D R R U L U L L U R R D R U L D D D L L U U R U R D D L U L D R D L U U U R R D D L U R R D D 
+Max search depth reached for puzzle 499: 51
+Time taken 1293 ms
+Nodes expanded 2086224
+
+
+Solving puzzle 500: 7 3 11 13 15 4 10 2 12 6 0 8 14 9 5 1 
+Path found with steps: L L U U R D R D L L U R R R D D L U L U R U R D D D L U U R D L L L U R R U L L D R R R U L L L D R R D L L U R R D L D L U R R R D 
+Max search depth reached for puzzle 500: 66
+Time taken 450284 ms
+Nodes expanded 697449764
+
+
