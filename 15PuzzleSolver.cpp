@@ -9,7 +9,7 @@
 #include <cmath>
 
 
-#define USELINEAR
+//#define USELINEAR
 
 const int INF = std::numeric_limits<int>::max();
 const int FOUND = -1;
@@ -44,20 +44,20 @@ int ManhattanDistancePlusLinearDistance(Node node) {
             distance += abs(currentRow - targetRow) + abs(currentCol - targetCol);
 
             // Checking linear conflict in row
-            for (int j = currentRow * SIZE; j < (currentRow + 1) * SIZE; j++) {
-                if (j > i && node.state[j] != 0) { // Avoid reverse pair checking
+            for (int j = i + 1; j < (currentRow + 1) * SIZE; j++) {
+                if (node.state[j] != 0) { 
                     int targetJRow = (node.state[j] - 1) / SIZE;
-                    if(currentRow == targetJRow && (j % SIZE) > targetCol) 
+                    if(currentRow == targetJRow && targetCol > (node.state[j] - 1) % SIZE) 
                         linearConflict += 2;
                 }
             }
 
             // Checking linear conflict in column
-            for (int j = currentCol; j < SIZE * SIZE; j += SIZE) {
-                if (j > i && node.state[j] != 0) {
+            for (int j = i + SIZE; j < SIZE * SIZE; j += SIZE) {
+                if (node.state[j] != 0) {
                     int targetJCol = (node.state[j] - 1) % SIZE;
                     int targetJRow = (node.state[j] - 1) / SIZE;
-                    if(currentCol == targetJCol && (j / SIZE) > targetRow) 
+                    if(currentCol == targetJCol && targetRow > targetJRow) 
                         linearConflict += 2;
                 }
             }
@@ -90,6 +90,7 @@ bool is_goal(const Node& node) {
     }
     return node.state.back() == 0; // Blank tile is at the end
 }
+
 
 std::vector<Node> successors(const Node& node) {
     std::vector<Node> neighbors;
@@ -124,7 +125,7 @@ int search(int g, int bound) {
     nodesExpanded++;
     #ifdef USELINEAR
         node.heuristic = ManhattanDistancePlusLinearDistance(node);
-    #elif
+    #else
         node.heuristic = h(node);
     #endif
     int f = g + node.heuristic;
@@ -165,39 +166,6 @@ std::pair<std::vector<Node>, int> ida_star(const Node& root) {
     }
 }
 
-int countInversions(std::vector<int> state){
-    int inversions = 0;
-    for (int i = 0,j=i+1;i<state.size()-1;i++,j=i+1){
-        int a = state[i];
-        int b = state[j];
-        if ((a && b) && a > b){
-            inversions++;
-        }
-    }
-    std::cerr<< inversions <<std::endl;
-    return inversions;
-}
-
-bool isSolvable(const Node& node) {
-    int inversions = countInversions(node.state);
-    auto iter = std::find(node.state.begin(),node.state.end(),0);
-    if (iter == node.state.end()) return false; //zero isn't even in the configuration so definately not solvable
-    auto blankPos = std::distance(node.state.begin(),iter);
-    int rowWithBlankNum = std::floor(blankPos/SIZE);// counted from the top starting at zero or from the bottom started at 1 either way the parity is the same
-    if (SIZE % 2 == 0 ){
-        if ((rowWithBlankNum %2 == 0 && inversions %2!=0)||(rowWithBlankNum%2!=0 && inversions %2==0))
-            return true;
-    }
-    else{
-        if (inversions %2 ==0){
-            return true;
-        }
-    }
-    return false;
-}
-
-
-
 std::vector<Node> readFromFile(const std::string& filename) {
     std::ifstream inFile(filename);
     std::vector<Node> puzzles;
@@ -232,29 +200,16 @@ std::vector<Node> readFromFile(const std::string& filename) {
 }
 
 int main() {
-    std::vector<Node> puzzles = readFromFile("solvedConfigurations.txt");
+    std::vector<Node> puzzles = readFromFile("tmp.txt");
 
     for (int i = 0; i < puzzles.size(); i++) {
-        //commented out be cause only going to operate on known solvable puzzles
-        // if (!isSolvable(puzzles[i])) {
-        //     std::cout << "Puzzle ";
-        //     for (auto i : puzzles[i].state){
-        //         std::cout << i << ' ';
-        //     }
-            
-        //     std::cout<< " is not solvable." << std::endl;
-        //     std::cout <<"\n"<<std::endl;
-        //     continue;
-        // }
         std::cout << "Solving puzzle " << i + 1 << ": ";
         for (auto i : puzzles[i].state)
         {
             std::cout<<i<<" ";
         }
         std::cout<<"\n";
-        
-
-       
+    
 
         max_depth=0;
         auto result = ida_star(puzzles[i]);

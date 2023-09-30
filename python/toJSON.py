@@ -46,6 +46,11 @@ try:
             if match:
                 time_taken = int(match.group(1))
                 puzzle["time_taken_ms"] = time_taken
+        elif line.startswith("Nodes expanded"):
+            match = re.match(r"Nodes expanded (\d+)", line.strip())
+            if match:
+                nodes_expanded = int(match.group(1))
+                puzzle["nodes_expanded"] = nodes_expanded
                 puzzles.append(puzzle)
 
     # Save the parsed content to the output file in JSON format
