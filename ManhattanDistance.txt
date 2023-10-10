@@ -2273,3 +2273,50 @@ Time taken 15559 ms
 Nodes expanded 37226282
 
 
+Solving puzzle 326: 13 2 15 9 14 0 3 6 11 4 10 12 1 7 5 8 
+Path found with steps: D D L U U U R R R D L L U R R D L L D D R U U L D D R U R D L L L U U R U R R D D L D L L U R U U L D D R R D R 
+Max search depth reached for puzzle 1: 56
+Time taken 315479 ms
+Nodes expanded 739050433
+
+
+Solving puzzle 327: 9 12 8 13 10 0 5 1 3 14 15 11 2 6 7 4 
+Path found with steps: R R U L L D R R D D L U U R D D L L U L U U R D D R D L L U R D L U U U R D D R U U R D L U L D D R R U L D L D R R 
+Max search depth reached for puzzle 2: 58
+Time taken 242732 ms
+Nodes expanded 565956464
+
+
+Solving puzzle 328: 2 15 1 9 7 10 5 12 13 0 8 6 4 11 14 3 
+Path found with steps: D L U U R U R R D L D L U U R D R D L L D R R U L L L U R U L D R R D D R U U U L D D R U U L D D L L U R R D D R 
+Max search depth reached for puzzle 3: 57
+Time taken 923402 ms
+Nodes expanded 2162456731
+
+
+Solving puzzle 329: 14 11 1 5 13 7 15 2 10 3 12 8 9 4 6 0 
+Path found with steps: L L U R D R U L L D R U U L U R R D D D L U L U L U R R R D L D L L U R U R D R D L L D L U U R D D L U R R R D 
+Max search depth reached for puzzle 4: 56
+Time taken 190549 ms
+Nodes expanded 450401853
+
+
+Solving puzzle 330: 8 4 10 3 15 12 11 7 14 1 5 2 13 9 6 0 
+Path found with steps: L L L U R R R U L L L D R R U L D D R U U R D D L U R U L U L L D D R R U U L D D D L U R R R U L U R D L D R D 
+Max search depth reached for puzzle 5: 56
+Time taken 50541 ms
+Nodes expanded 125114902
+
+
+Solving puzzle 331: 3 11 12 8 2 13 15 9 4 6 1 14 10 7 0 5 
+Path found with steps: R U U L U L L D R D L U R D R D L L U R R R U L U L D L D R R U U L L D D R R D R U U U L D D L D R R 
+Max search depth reached for puzzle 6: 51
+Time taken 899 ms
+Nodes expanded 2250287
+
+
+Solving puzzle 332: 2 12 4 15 14 3 13 0 11 1 5 6 9 7 8 10 
+Path found with steps: U L L D L D R R U U L D L D R R R U L D D L U U U L D D D R U U R D D R U U L D D L U R D R 
+Max search depth reached for puzzle 7: 46
+Time taken 89 ms
+Nodes expanded 232786

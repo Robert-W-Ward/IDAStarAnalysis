@@ -14,7 +14,7 @@
 const int INF = std::numeric_limits<int>::max();
 const int FOUND = -1;
 const int SIZE = 4;
-int nodesExpanded = 0;
+long long nodesExpanded = 0;
 std::chrono::time_point<std::chrono::high_resolution_clock> start_time;
 int max_depth = 0;
 
