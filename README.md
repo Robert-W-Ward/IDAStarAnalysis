@@ -18,7 +18,7 @@ This section hosts the main codebase for the project.
 The paper provides a comprehensive overview of the methodologies, approaches, and results for the project. It offers deeper insights into the motivation, problem statement, and the results.
 
 ## Slide Deck
-- [Download the slides](https://github.com/Robert-W-Ward/IDAStarAnalysis/raw/main/IDAStar_for_the_15-puzzle_an_analysis)
+- [Download the slides](https://github.com/Robert-W-Ward/IDAStarAnalysis/raw/main/IDAStar_for_the_15-puzzle_an_analysis.pptx)
 
 For a quick visual overview of the project, the slide deck is a great resource. It summarizes the key points from the paper and showcases important visuals and results.
 
