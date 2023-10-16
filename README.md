@@ -26,4 +26,4 @@ For a quick visual overview of the project, the slide deck is a great resource. 
 
 Should you have any queries or would like to discuss this project further, please don't hesitate to reach out. 
 - **Email**: [robertwesleyward2019@gmail.com](mailto:robertwesleyward2019@gmail.com)
-- **LinkedIn**: [robert-ward-ii]([https://www.linkedin.com/in/robert-ward-ii/])
+- **LinkedIn**: [robert-ward-ii](https://www.linkedin.com/in/robert-ward-ii/)
