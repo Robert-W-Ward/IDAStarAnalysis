@@ -68,8 +68,6 @@ int ManhattanDistancePlusLinearDistance(Node node) {
 }
 
 
-
-// Define heuristic, goal state, cost function, and successors
 int h(const Node& node) {
     int distance = 0;
     for (int i = 0; i < SIZE * SIZE; i++) {
